@@ -18,6 +18,12 @@
       "name": "早稲田塾「探究に役立つ！高校生のための『課外活動』まとめサイト」",
       "url": "https://www.wasedajuku.com/sns/aosuisen_uni/tankyumatome",
       "note": "コンテスト・公開講座・ワークショップ・弁論大会・体験実習など課外活動情報を幅広く掲載"
+    },
+    {
+      "id": "peatix-koukousei-search",
+      "name": "Peatix「高校生」検索結果",
+      "url": "https://peatix.com/search?q=高校生",
+      "note": "イベント予約サービスPeatix内の「高校生」キーワード検索結果。ワークショップ・説明会・交流イベント等を幅広く掲載"
     }
   ],
   "candidates": [
