@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>越境体験ガイド</title>
+<meta name="description" content="興味タグから探す、高校生向けの留学・コンテスト・インターン・ボランティア情報">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700;900&display=swap">
+<style>
+  :root{
+    --bg:#FBF3E7;
+    --surface:#FFFFFF;
+    --surface-2:#FFF8EE;
+    --ink:#2B2016;
+    --ink-soft:#7A6A57;
+    --ink-faint:#A8977E;
+    --border:#EBDCC5;
+    --border-strong:#DDC7A3;
+    --accent:#E06A20;
+    --accent-strong:#B84A16;
+    --accent-soft:#FBDDB8;
+    --accent-soft-ink:#8A4413;
+    --chip-bg:#F6EBD9;
+    --chip-ink:#7A5B32;
+    --shadow: 0 1px 2px rgba(60,40,10,.05), 0 8px 20px -12px rgba(60,40,10,.18);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#191209; --surface:#241A10; --surface-2:#2B2013;
+      --ink:#F3E7D6; --ink-soft:#C7B49B; --ink-faint:#8E7B63;
+      --border:#3A2C1B; --border-strong:#4A3820;
+      --accent:#FF8B42; --accent-strong:#FFB07A; --accent-soft:#4A2C14; --accent-soft-ink:#FFCB9C;
+      --chip-bg:#332512; --chip-ink:#E3C793;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 12px 26px -14px rgba(0,0,0,.55);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#191209; --surface:#241A10; --surface-2:#2B2013;
+    --ink:#F3E7D6; --ink-soft:#C7B49B; --ink-faint:#8E7B63;
+    --border:#3A2C1B; --border-strong:#4A3820;
+    --accent:#FF8B42; --accent-strong:#FFB07A; --accent-soft:#4A2C14; --accent-soft-ink:#FFCB9C;
+    --chip-bg:#332512; --chip-ink:#E3C793;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 12px 26px -14px rgba(0,0,0,.55);
+    color-scheme: dark;
+  }
+
+  *,*::before,*::after{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:"Zen Kaku Gothic New","Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;
+    line-height:1.6; -webkit-font-smoothing:antialiased;
+  }
+  a{ color:var(--accent-strong); }
+  button{ font-family:inherit; }
+  :focus-visible{ outline:2px solid var(--accent-strong); outline-offset:2px; border-radius:4px; }
+
+  .app{ max-width:1100px; margin:0 auto; padding:28px 20px 70px; }
+
+  .hero{ display:flex; align-items:flex-start; gap:18px; margin-bottom:16px; }
+  .hero-badge{
+    flex:none; width:56px; height:56px; border-radius:16px;
+    background:linear-gradient(155deg, var(--accent), var(--accent-strong));
+    display:flex; align-items:center; justify-content:center; box-shadow:var(--shadow);
+  }
+  .hero-badge svg{ width:30px; height:30px; }
+  .hero h1{
+    font-family:"Shippori Mincho", serif; font-weight:700;
+    font-size:clamp(24px,3.2vw,32px); margin:0 0 4px; color:var(--ink); text-wrap:balance;
+  }
+  .hero p{ margin:0; color:var(--ink-soft); font-size:14.5px; }
+
+  .notice{
+    display:flex; gap:10px; align-items:flex-start;
+    background:var(--surface); border:1px solid var(--border);
+    border-radius:12px; padding:12px 16px; margin-bottom:24px;
+    font-size:12.5px; color:var(--ink-soft); box-shadow:var(--shadow);
+  }
+  .notice svg{ flex:none; width:16px; height:16px; margin-top:2px; color:var(--accent-strong); }
+  .notice strong{ color:var(--ink); font-weight:700; }
+
+  .layout{ display:grid; grid-template-columns:240px 1fr; gap:24px; align-items:start; }
+  @media (max-width:820px){ .layout{ grid-template-columns:1fr; } }
+
+  .sidebar{
+    background:var(--surface); border:1px solid var(--border); border-radius:16px;
+    padding:18px 16px 20px; box-shadow:var(--shadow); position:sticky; top:20px;
+  }
+  @media (max-width:820px){ .sidebar{ position:static; } }
+  .sidebar-head{ display:flex; align-items:center; justify-content:space-between; margin-bottom:14px; }
+  .sidebar-title{ display:flex; align-items:center; gap:6px; font-weight:700; font-size:14.5px; }
+  .sidebar-title svg{ width:16px; height:16px; color:var(--accent-strong); }
+  .clear-link{ border:none; background:none; color:var(--ink-faint); font-size:12px; cursor:pointer; text-decoration:underline; }
+  .clear-link:hover{ color:var(--accent-strong); }
+  .tag-group{ margin-bottom:16px; }
+  .tag-group:last-child{ margin-bottom:0; }
+  .tag-group-label{ font-size:11px; font-weight:700; color:var(--ink-faint); letter-spacing:.06em; text-transform:uppercase; margin:0 0 8px; }
+  .tag-list{ display:flex; flex-wrap:wrap; gap:7px; }
+  .tag-chip{
+    appearance:none; border:1px solid var(--border-strong); background:var(--surface-2); color:var(--ink-soft);
+    font-size:13px; font-weight:500; padding:6px 12px; border-radius:999px; cursor:pointer;
+    display:inline-flex; align-items:center; gap:5px; transition:background .12s,color .12s,border-color .12s,transform .06s;
+  }
+  .tag-chip:hover{ border-color:var(--accent); color:var(--ink); }
+  .tag-chip:active{ transform:scale(.97); }
+  .tag-chip.is-active{ background:var(--accent); border-color:var(--accent); color:#fff; font-weight:700; }
+  .tag-chip .check{ width:13px; height:13px; display:none; }
+  .tag-chip.is-active .check{ display:inline-block; }
+
+  .main-head{ display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:14px; flex-wrap:wrap; }
+  .main-title{ display:flex; align-items:baseline; gap:10px; }
+  .main-title h2{ font-family:"Shippori Mincho", serif; font-size:20px; margin:0; font-weight:700; }
+  .count-pill{ font-size:12.5px; color:var(--ink-faint); font-variant-numeric:tabular-nums; }
+  .updated-label{ font-size:12px; color:var(--ink-faint); }
+
+  .empty{
+    background:var(--surface); border:1.5px dashed var(--border-strong); border-radius:16px;
+    padding:70px 20px; text-align:center; color:var(--ink-faint); font-size:14.5px;
+  }
+  .empty svg{ width:38px; height:38px; margin-bottom:14px; color:var(--accent-soft-ink); opacity:.7; }
+
+  .card-grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(400px,1fr)); gap:14px; }
+  .card{
+    background:var(--surface); border:1px solid var(--border); border-left:4px solid var(--accent);
+    border-radius:14px; padding:18px 20px 16px; box-shadow:var(--shadow);
+    display:flex; flex-direction:column; gap:8px;
+  }
+  .card-meta{ font-size:12px; color:var(--ink-faint); font-weight:500; display:flex; flex-wrap:wrap; }
+  .card-meta span:not(:last-child)::after{ content:"・"; margin:0 5px; color:var(--border-strong); }
+  .card-top{ display:flex; justify-content:space-between; gap:14px; }
+  .card-title{
+    font-family:"Shippori Mincho", serif; font-size:17px; font-weight:700; color:var(--accent-strong);
+    margin:2px 0 3px; text-decoration:none; display:inline-block; text-wrap:balance;
+  }
+  .card-title:hover{ text-decoration:underline; }
+  .card-org{ font-size:13px; color:var(--ink-soft); margin:0 0 6px; }
+  .card-summary{ font-size:13.5px; color:var(--ink); margin:0 0 4px; }
+  .card-tags{ display:flex; flex-wrap:wrap; gap:6px; margin-top:4px; }
+  .tag-pill{ font-size:11.5px; font-weight:700; padding:4px 10px; border-radius:999px; background:var(--chip-bg); color:var(--chip-ink); }
+  .tag-pill.is-match{ background:var(--accent-strong); color:#fff; }
+  .match-badge{
+    flex:none; width:52px; height:52px; border-radius:50%; background:var(--accent-soft); color:var(--accent-strong);
+    display:flex; flex-direction:column; align-items:center; justify-content:center; font-weight:900; line-height:1;
+    border:2px dashed var(--accent-strong); font-size:9px;
+  }
+  .match-badge b{ font-size:16px; display:block; line-height:1.1; }
+
+  .status-line{ text-align:center; padding:60px 20px; color:var(--ink-faint); font-size:14px; }
+  .status-line.is-error{ color:var(--accent-strong); }
+
+  footer{ margin-top:36px; padding-top:16px; border-top:1px solid var(--border); font-size:12px; color:var(--ink-faint); }
+
+  @media (prefers-reduced-motion: reduce){ *{ transition:none !important; animation:none !important; } }
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="hero">
+    <div class="hero-badge" aria-hidden="true">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="12" cy="12" r="9.5" stroke="white" stroke-width="1.6"/>
+        <path d="M15.2 8.8 L10.6 10.6 L8.8 15.2 L13.4 13.4 Z" fill="white"/>
+        <circle cx="12" cy="12" r="1.1" fill="white"/>
+      </svg>
+    </div>
+    <div>
+      <h1>越境体験ガイド</h1>
+      <p>興味タグから探す、高校生向けの留学・コンテスト・インターン・ボランティア情報</p>
+    </div>
+  </header>
+
+  <div class="notice">
+    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2 4 5v6c0 5 3.4 8.7 8 10 4.6-1.3 8-5 8-10V5l-8-3Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+    <div>
+      掲載情報は公開時点のものです。<strong>応募・参加の前には、必ず主催団体の公式サイトで最新の締切・内容をご確認ください。</strong>情報の追加・修正のご相談は、担当の先生までお問い合わせください。
+    </div>
+  </div>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-head">
+        <div class="sidebar-title">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="12" cy="12" r="4" stroke="currentColor" stroke-width="1.6"/></svg>
+          興味タグ
+        </div>
+        <button class="clear-link" id="clearTagsBtn" type="button">選択をクリア</button>
+      </div>
+      <div id="tagGroups"></div>
+    </aside>
+
+    <main>
+      <div class="main-head">
+        <div class="main-title">
+          <h2>体験一覧</h2>
+          <span class="count-pill" id="countLabel">0件</span>
+        </div>
+        <span class="updated-label" id="updatedLabel">読み込み中…</span>
+      </div>
+      <div id="cardArea">
+        <div class="status-line" id="initialStatus">読み込み中…</div>
+      </div>
+
+      <footer>
+        越境コンパス・プロジェクト(Replayce) / このページはどなたでもログインなしでご覧いただけます。
+      </footer>
+    </main>
+  </div>
+</div>
+
+<script>
+(function(){
+  "use strict";
+
+  var TAG_GROUPS = [
+    { label:"語学・国際", tags:["英語","留学","多文化交流"] },
+    { label:"テクノロジー・ものづくり", tags:["電子工作","プログラミング","ロボティクス"] },
+    { label:"アート・デザイン", tags:["デザイン","映像制作","アート"] },
+    { label:"探究・研究", tags:["自然科学","社会科学","研究発表"] },
+    { label:"ビジネス・起業", tags:["起業","マーケティング","プレゼン"] },
+    { label:"スポーツ・身体", tags:["スポーツ科学","アウトドア"] },
+    { label:"社会・地域", tags:["地域活動","ボランティア","インターン"] }
+  ];
+
+  var CANDIDATES = [];
+  var selectedTags = new Set();
+
+  var els = {
+    tagGroups: document.getElementById("tagGroups"),
+    clearTagsBtn: document.getElementById("clearTagsBtn"),
+    countLabel: document.getElementById("countLabel"),
+    cardArea: document.getElementById("cardArea"),
+    updatedLabel: document.getElementById("updatedLabel")
+  };
+
+  function escapeHtml(s){
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function(c){
+      return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c];
+    });
+  }
+  function safeUrl(u){
+    if(!u) return "";
+    var s = String(u).trim();
+    if(!/^https?:\/\//i.test(s)) return "";
+    try{ var p = new URL(s); if(p.protocol==="http:"||p.protocol==="https:") return s; }catch(e){}
+    return "";
+  }
+
+  function renderTagGroups(){
+    els.tagGroups.innerHTML = TAG_GROUPS.map(function(group){
+      var chips = group.tags.map(function(tag){
+        var active = selectedTags.has(tag);
+        return '<button type="button" class="tag-chip'+(active?' is-active':'')+'" data-tag="'+escapeHtml(tag)+'" aria-pressed="'+active+'">'+
+          '<svg class="check" viewBox="0 0 24 24" fill="none"><path d="m5 13 4 4 10-10" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>'+
+          escapeHtml(tag)+'</button>';
+      }).join("");
+      return '<div class="tag-group"><p class="tag-group-label">'+escapeHtml(group.label)+'</p><div class="tag-list">'+chips+'</div></div>';
+    }).join("");
+    Array.prototype.forEach.call(els.tagGroups.querySelectorAll(".tag-chip"), function(btn){
+      btn.addEventListener("click", function(){
+        var tag = btn.getAttribute("data-tag");
+        if(selectedTags.has(tag)) selectedTags.delete(tag); else selectedTags.add(tag);
+        renderTagGroups();
+        renderCards();
+      });
+    });
+  }
+  els.clearTagsBtn.addEventListener("click", function(){
+    selectedTags.clear(); renderTagGroups(); renderCards();
+  });
+
+  function matchCount(c){
+    var n = 0;
+    (c.tags||[]).forEach(function(t){ if(selectedTags.has(t)) n++; });
+    return n;
+  }
+
+  function cardHtml(c){
+    var metaBits = [c.type, c.audience, c.deadline].filter(Boolean).map(escapeHtml);
+    var url = safeUrl(c.url);
+    var titleInner = escapeHtml(c.title || "(無題)");
+    var titleHtml = url
+      ? '<a class="card-title" href="'+escapeHtml(url)+'" target="_blank" rel="noopener noreferrer">'+titleInner+'</a>'
+      : '<span class="card-title">'+titleInner+'</span>';
+    var tagsHtml = (c.tags||[]).map(function(t){
+      return '<span class="tag-pill'+(selectedTags.has(t)?' is-match':'')+'">'+escapeHtml(t)+'</span>';
+    }).join("");
+    var badge = selectedTags.size > 0
+      ? '<div class="match-badge"><b>'+matchCount(c)+'</b>MATCH</div>'
+      : "";
+    return (
+      '<div class="card">'+
+        '<div class="card-top">'+
+          '<div>'+
+            '<div class="card-meta">'+metaBits.map(function(b){return '<span>'+b+'</span>';}).join("")+'</div>'+
+            titleHtml+
+            '<p class="card-org">'+escapeHtml(c.org||"")+'</p>'+
+          '</div>'+
+          badge+
+        '</div>'+
+        '<p class="card-summary">'+escapeHtml(c.summary||"")+'</p>'+
+        '<div class="card-tags">'+tagsHtml+'</div>'+
+      '</div>'
+    );
+  }
+
+  function renderCards(){
+    if(selectedTags.size === 0){
+      els.countLabel.textContent = CANDIDATES.length + "件";
+      els.cardArea.innerHTML =
+        '<div class="empty">'+
+          '<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M4 7h16M4 12h10M4 17h7" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><circle cx="19" cy="16" r="3.4" stroke="currentColor" stroke-width="1.4"/></svg>'+
+          '<div>興味タグを選ぶと、合いそうな体験がここに並びます。</div>'+
+        '</div>';
+      return;
+    }
+    var filtered = CANDIDATES.filter(function(c){ return matchCount(c) > 0; });
+    filtered.sort(function(a,b){
+      var d = matchCount(b) - matchCount(a);
+      if(d !== 0) return d;
+      return (a.title||"").localeCompare(b.title||"", "ja");
+    });
+    els.countLabel.textContent = filtered.length + "件";
+    if(filtered.length === 0){
+      els.cardArea.innerHTML =
+        '<div class="empty">'+
+          '<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 15a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z" stroke="currentColor" stroke-width="1.4"/><path d="M4 20c1.5-3 4.5-4.5 8-4.5s6.5 1.5 8 4.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></svg>'+
+          '<div>選択中のタグに合う体験はまだ掲載されていません。</div>'+
+        '</div>';
+      return;
+    }
+    els.cardArea.innerHTML = '<div class="card-grid">'+filtered.map(cardHtml).join("")+'</div>';
+  }
+
+  function showError(){
+    els.updatedLabel.textContent = "";
+    els.cardArea.innerHTML = '<div class="status-line is-error">データを読み込めませんでした。しばらくしてから再読み込みしてください。</div>';
+  }
+
+  renderTagGroups();
+
+  fetch("data.json", { cache: "no-store" })
+    .then(function(res){ if(!res.ok) throw new Error("bad status"); return res.json(); })
+    .then(function(data){
+      CANDIDATES = Array.isArray(data.candidates) ? data.candidates : [];
+      els.updatedLabel.textContent = data.lastSynced ? ("最終更新: " + data.lastSynced) : "";
+      renderCards();
+    })
+    .catch(function(){ showError(); });
+})();
+</script>
+</body>
+</html>
