@@ -283,7 +283,8 @@
   var TAG_GROUPS = [
     { label:"語学・国際", tags:["英語","留学","多文化交流"] },
     { label:"テクノロジー・ものづくり", tags:["電子工作","プログラミング","ロボティクス"] },
-    { label:"アート・デザイン", tags:["デザイン","映像制作","アート"] },
+    { label:"アート・デザイン", tags:["デザイン","映像制作","アート","写真","建築"] },
+    { label:"ことば・文芸", tags:["文章・作文","短歌・俳句"] },
     { label:"探究・研究", tags:["自然科学","社会科学","研究発表"] },
     { label:"ビジネス・起業", tags:["起業","マーケティング","プレゼン"] },
     { label:"スポーツ・身体", tags:["スポーツ科学","アウトドア"] },
@@ -295,9 +296,9 @@
   var VIEWS = [
     { id:"tags",     tabLabel:"タグで探す",         title:"体験一覧" },
     { id:"apply",    tabLabel:"応募受付中",         title:"応募受付中の体験",
-      hint:"本日が応募期間内のものをすべて表示しています(締切が近い順)。興味タグの絞り込みはかかりません。" },
+      hint:"本日が応募期間内のものを、締切が近い順に表示しています。興味タグを選ぶと、さらに絞り込めます。" },
     { id:"upcoming", tabLabel:"これから1ヶ月の開催", title:"これから" + UPCOMING_DAYS + "日以内に開催",
-      hint:"開催日が本日から" + UPCOMING_DAYS + "日以内のものを表示しています(開催が近い順)。興味タグの絞り込みはかかりません。" }
+      hint:"開催日が本日から" + UPCOMING_DAYS + "日以内のものを、開催が近い順に表示しています。興味タグを選ぶと、さらに絞り込めます。" }
   ];
 
   var GLOBE_SVG = '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.8"/><path d="M3 12h18M12 3c2.5 2.4 2.5 15.6 0 18M12 3c-2.5 2.4-2.5 15.6 0 18" stroke="currentColor" stroke-width="1.6"/></svg>';
@@ -536,11 +537,16 @@
 
   function byTitle(a, b){ return (a.title||"").localeCompare(b.title||"", "ja"); }
 
+  // タグ未選択なら全件を通す。選択中ならそのタグを持つものだけを通す
+  function passesTagFilter(c){
+    return selectedTags.size === 0 || matchCount(c) > 0;
+  }
+
   // 現在のビューで表示すべき候補を、表示順に並べて返す
   function visibleCandidates(){
     if(currentView === "apply"){
       var today = todayYmd();
-      return CANDIDATES.filter(function(c){ return isAcceptingApplications(c, today); })
+      return CANDIDATES.filter(function(c){ return isAcceptingApplications(c, today) && passesTagFilter(c); })
         .sort(function(a, b){
           if(a.applyEnd !== b.applyEnd) return a.applyEnd < b.applyEnd ? -1 : 1;
           return byTitle(a, b);
@@ -548,7 +554,7 @@
     }
     if(currentView === "upcoming"){
       var from = todayYmd(), until = daysFromTodayYmd(UPCOMING_DAYS);
-      return CANDIDATES.filter(function(c){ return isUpcomingEvent(c, from, until); })
+      return CANDIDATES.filter(function(c){ return isUpcomingEvent(c, from, until) && passesTagFilter(c); })
         .sort(function(a, b){
           if(a.eventStart !== b.eventStart) return a.eventStart < b.eventStart ? -1 : 1;
           return byTitle(a, b);
@@ -584,10 +590,11 @@
     els.countLabel.textContent = filtered.length + "件";
 
     if(filtered.length === 0){
+      var narrowed = selectedTags.size > 0 ? "選択中のタグに合うものは見つかりませんでした。" : "掲載されていません。";
       if(currentView === "apply"){
-        els.cardArea.innerHTML = emptyHtml(ICON_CALENDAR, "現在、応募を受け付けている体験は掲載されていません。");
+        els.cardArea.innerHTML = emptyHtml(ICON_CALENDAR, "現在応募を受け付けている体験のうち、" + narrowed);
       }else if(currentView === "upcoming"){
-        els.cardArea.innerHTML = emptyHtml(ICON_CALENDAR, "これから" + UPCOMING_DAYS + "日以内に開催予定の体験は掲載されていません。");
+        els.cardArea.innerHTML = emptyHtml(ICON_CALENDAR, "これから" + UPCOMING_DAYS + "日以内に開催予定の体験のうち、" + narrowed);
       }else{
         els.cardArea.innerHTML = emptyHtml(ICON_PERSON, "選択中のタグに合う体験はまだ掲載されていません。");
       }
@@ -605,11 +612,11 @@
   function viewCount(id){
     var today = todayYmd();
     if(id === "apply"){
-      return CANDIDATES.filter(function(c){ return isAcceptingApplications(c, today); }).length;
+      return CANDIDATES.filter(function(c){ return isAcceptingApplications(c, today) && passesTagFilter(c); }).length;
     }
     if(id === "upcoming"){
       var until = daysFromTodayYmd(UPCOMING_DAYS);
-      return CANDIDATES.filter(function(c){ return isUpcomingEvent(c, today, until); }).length;
+      return CANDIDATES.filter(function(c){ return isUpcomingEvent(c, today, until) && passesTagFilter(c); }).length;
     }
     return CANDIDATES.length;
   }
