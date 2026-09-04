@@ -12,6 +12,15 @@ import path from "node:path";
 
 const DATA_PATH = path.join(process.cwd(), "data.json");
 const FORMATS = ["online", "onsite", "hybrid", "submission", "unknown"];
+const AREA_SCOPES = ["national", "regional", "unknown"];
+// 都道府県名の表記ゆれを弾くため、47都道府県を列挙して照合する
+const PREFECTURES = new Set([
+  "北海道","青森県","岩手県","宮城県","秋田県","山形県","福島県","茨城県","栃木県","群馬県",
+  "埼玉県","千葉県","東京都","神奈川県","新潟県","富山県","石川県","福井県","山梨県","長野県",
+  "岐阜県","静岡県","愛知県","三重県","滋賀県","京都府","大阪府","兵庫県","奈良県","和歌山県",
+  "鳥取県","島根県","岡山県","広島県","山口県","徳島県","香川県","愛媛県","高知県","福岡県",
+  "佐賀県","長崎県","熊本県","大分県","宮崎県","鹿児島県","沖縄県",
+]);
 const YMD = /^\d{4}-\d{2}-\d{2}$/;
 
 const errors = [];
@@ -37,6 +46,45 @@ function isValidYmd(value) {
 function checkDateField(where, key, value) {
   if (value === null || value === undefined) return;
   if (!isValidYmd(value)) err(`${where}: ${key} が YYYY-MM-DD 形式の有効な日付ではありません (${JSON.stringify(value)})`);
+}
+
+function checkArea(where, candidate) {
+  const { area } = candidate;
+  if (area === null || area === undefined) {
+    warn(`${where}: area が未設定です。一覧に地域バッジが出ません`);
+    return;
+  }
+  if (typeof area !== "object" || Array.isArray(area)) {
+    err(`${where}: area はオブジェクトにしてください`);
+    return;
+  }
+  for (const key of Object.keys(area)) {
+    if (!["scope", "label", "prefectures", "note"].includes(key)) {
+      err(`${where}: area に未知のキー "${key}" があります (scope / label / prefectures / note のみ)`);
+    }
+  }
+  if (!AREA_SCOPES.includes(area.scope)) {
+    err(`${where}: area.scope の値が不正です (${JSON.stringify(area.scope)})。使えるのは ${AREA_SCOPES.join(" / ")}`);
+  }
+  if (!Array.isArray(area.prefectures)) {
+    err(`${where}: area.prefectures は配列にしてください`);
+  } else {
+    for (const p of area.prefectures) {
+      if (!PREFECTURES.has(p)) err(`${where}: area.prefectures に都道府県名でない値があります (${JSON.stringify(p)})`);
+    }
+    if (area.scope === "regional" && area.prefectures.length === 0) {
+      err(`${where}: area.scope="regional" なのに prefectures が空です`);
+    }
+    if (area.scope === "national" && area.prefectures.length > 0) {
+      err(`${where}: area.scope="national" なのに prefectures が入っています`);
+    }
+  }
+  if (area.scope === "regional" && (typeof area.label !== "string" || area.label.trim() === "")) {
+    err(`${where}: area.scope="regional" のときは label(一覧バッジ用の短い表示)が必要です`);
+  }
+  if (area.note !== undefined && typeof area.note !== "string") {
+    err(`${where}: area.note は文字列にしてください`);
+  }
 }
 
 function checkVenue(where, candidate) {
@@ -119,6 +167,7 @@ function checkCandidate(candidate, index, seenIds) {
     err(`${where}: onlineTool は文字列か null にしてください`);
   }
   checkVenue(where, candidate);
+  checkArea(where, candidate);
 
   // 「応募受付中」タブに載るには applyEnd が必要
   if (!isValidYmd(candidate.applyEnd)) {

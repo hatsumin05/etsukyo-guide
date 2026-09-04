@@ -56,6 +56,13 @@ docs/data-schema.md の仕様に従ってください。特に以下を、公式
   - 公式ページを読んでも判断できない → unknown
 - venue: format が onsite / hybrid のときは name(会場名)・address(住所)・prefecture(都道府県)を
   できる限り埋める。分からないキーは null
+- area: 応募できる地域。参加資格を読んで判断する(会場の場所とは別物)
+  - 「〇〇県在住・在学に限る」等の地域制限があれば scope="regional" とし、
+    prefectures に47都道府県の正式名称を列挙、label に短い表示名を入れる
+  - 地域の制限がなければ scope="national"、prefectures は空配列
+  - 判断できなければ scope="unknown"
+  - **間違えやすい例(いずれも national)**: 「岡山県内外の高校生」(県外も可) /
+    「愛知県認可の法人が主催」(主催者の説明) / 「最終選考会は東京都内」(会場の話)
 - onlineTool: Zoom など使用ツールが明記されていれば入れる。なければ null
 - deadline: 公式サイトの日程表記を原文のまま残す(表示用)
 

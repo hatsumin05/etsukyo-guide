@@ -189,6 +189,19 @@
   .format-badge.is-submission{ background:var(--chip-bg); color:var(--chip-ink); border-color:var(--border); }
   .format-badge.is-unknown{ background:var(--surface-2); color:var(--ink-soft); border-color:var(--border-strong); }
 
+  .badge-row{ display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
+
+  /* 地域限定は見落とすと応募できないため、一覧で目を引く色にする */
+  .area-badge{
+    display:inline-flex; align-items:center; gap:5px;
+    font-size:12px; font-weight:700; padding:4px 10px; border-radius:8px;
+    background:var(--accent-strong); color:var(--on-accent); border:1px solid var(--accent-strong);
+  }
+  .area-badge svg{ width:13px; height:13px; flex:none; }
+  .area-badge.is-national{
+    background:var(--surface-2); color:var(--ink-soft); border-color:var(--border); font-weight:500;
+  }
+
   .detail-toggle{
     appearance:none; align-self:flex-start; margin-top:2px;
     border:1px solid var(--border-strong); background:var(--surface-2); color:var(--ink-soft);
@@ -410,6 +423,37 @@
     return '<span class="format-badge ' + meta.cls + '">' + meta.icon + escapeHtml(label) + '</span>';
   }
 
+  var MAP_SVG = '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 21s7-5.7 7-11a7 7 0 1 0-14 0c0 5.3 7 11 7 11Z" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="12" cy="10" r="2.6" stroke="currentColor" stroke-width="1.6"/></svg>';
+  var EARTH_SVG = '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.6"/><path d="M3 12h18" stroke="currentColor" stroke-width="1.4"/></svg>';
+
+  function areaOf(c){
+    var a = c && c.area;
+    return (a && typeof a === "object") ? a : null;
+  }
+  // 一覧に常時出す地域バッジ。地域限定は「〇〇県 限定」、そうでなければ控えめに「全国から応募可」
+  function areaBadgeHtml(c){
+    var a = areaOf(c);
+    if(!a) return "";
+    if(a.scope === "regional"){
+      var label = a.label || (a.prefectures || []).join("・") || "地域限定";
+      return '<span class="area-badge">' + MAP_SVG + escapeHtml(label + " 限定") + '</span>';
+    }
+    if(a.scope === "national"){
+      return '<span class="area-badge is-national">' + EARTH_SVG + '全国から応募可</span>';
+    }
+    return "";
+  }
+  function areaDetailText(c){
+    var a = areaOf(c);
+    if(!a) return "";
+    if(a.scope === "regional"){
+      var prefs = (a.prefectures || []).join("・");
+      return (a.label || "地域限定") + " 限定" + (prefs && prefs !== a.label ? "(" + prefs + ")" : "");
+    }
+    if(a.scope === "national") return "応募資格に地域の制限はありません";
+    return "";
+  }
+
   function eventRangeText(c){
     if(!isYmd(c.eventStart)) return "";
     if(isYmd(c.eventEnd) && c.eventEnd !== c.eventStart){
@@ -475,6 +519,14 @@
 
     rows += detailRow("開催形式", formatMetaOf(c).label);
 
+    var areaText = areaDetailText(c);
+    if(areaText) rows += detailRow("対象地域", areaText);
+    var a = areaOf(c);
+    // note が「対象」欄と同じ文になることがあるので、その場合は重ねて出さない
+    if(a && a.note && String(a.note).trim() !== String(c.audience || "").trim()){
+      rows += detailRow("地域の条件", String(a.note), a.scope !== "regional");
+    }
+
     var parts = venueParts(c);
     if(c.format === "onsite" || c.format === "hybrid" || parts.length > 0){
       rows += parts.length > 0
@@ -523,7 +575,7 @@
           '</div>'+
           badge+
         '</div>'+
-        formatBadgeHtml(c)+
+        '<div class="badge-row">'+formatBadgeHtml(c)+areaBadgeHtml(c)+'</div>'+
         '<p class="card-summary">'+escapeHtml(c.summary||"")+'</p>'+
         '<div class="card-tags">'+tagsHtml+'</div>'+
         '<button type="button" class="detail-toggle" data-panel="'+escapeHtml(panelId)+'" aria-expanded="false" aria-controls="'+escapeHtml(panelId)+'">'+
