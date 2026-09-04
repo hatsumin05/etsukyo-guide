@@ -3,6 +3,23 @@
 サイト(`index.html`)が読み込む唯一のデータファイルです。この仕様に沿っていれば、
 `node scripts/validate-data.mjs` の検証を通過します。
 
+## ⚠️ data.json は自動生成されるファイルです
+
+`data.json` を直接編集しても、翌朝の自動更新で**上書きされます**。
+
+```
+data/manual-candidates.json  ┐
+                             ├─ scripts/fetch-tokoron.mjs ─→ data.json
+登竜門(毎朝スクレイピング)      ┘
+```
+
+- **登竜門のコンテスト**: `scripts/fetch-tokoron.mjs` が毎朝収集して作り直します。手で編集しないでください
+- **それ以外の候補**(Qulii・Peatix・meta-school など): [`data/manual-candidates.json`](../data/manual-candidates.json)
+  に書きます。ここに置いた候補は自動更新で消えません
+- `sources`(調査対象サイトの一覧)も `data/manual-candidates.json` で管理します
+
+この作りのおかげで、誰かが `data.json` を古い内容で上書きしても、翌朝の実行で元に戻ります(自己修復)。
+
 ## 全体の構造
 
 ```jsonc

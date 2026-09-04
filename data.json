@@ -1,6 +1,6 @@
 {
   "lastSynced": "2026-09-04",
-  "lastSyncedAt": "2026-09-04T00:00:00+09:00",
+  "lastSyncedAt": "2026-09-04T22:53:48+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -74,7 +74,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったファッションデザイン画 【テーマ】 「今」を感じる服を募集。",
+      "summary": "テーマにそったファッションデザイン画(テーマ: 「今」を感じる服)を募集。",
       "tags": [
         "デザイン"
       ],
@@ -153,7 +153,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の絵画または写真 【部門／テーマ】 （1）小学生部門（絵画）／まちの宝物さがし～古民家と風景～ （2）中高生部門（写真）／このまちの「原風景」～古民家とともに～",
+      "summary": "テーマにそった未発表の絵画または写真を募集。",
       "tags": [
         "写真",
         "アート"
@@ -180,7 +180,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "防災または環境・エネルギーの課題に挑む高校生のビジネスアイデア 【テーマ】 「あなたのアイデアで、社会をもっと安全で、もっと豊かに」 ・防災分野（例）：学校や地域で使える防災グッズのレンタル・シェアサービス／ドローンを活用した防災ビジネ…",
+      "summary": "防災または環境・エネルギーの課題に挑む高校生のビジネスアイデア(テーマ: 「あなたのアイデアで、社会をもっと安全で、もっと豊かに」 ・防災分野（例）：学校や地域で使える防災グッズのレ…)",
       "tags": [
         "起業",
         "社会科学"
@@ -296,12 +296,12 @@
       "url": "https://www.meta-school.t.u-tokyo.ac.jp/junior/26svd/"
     },
     {
-      "id": "takushoku-essay-2026",
-      "title": "後藤新平・新渡戸稲造記念 第28回 全国高校生・留学生作文コンクール",
-      "org": "拓殖大学",
+      "id": "tokoron-takushoku-u-sakubun-2026",
+      "title": "後藤新平・新渡戸稲造記念 第28回 全国高校生・留学生作文コンクール 2026",
+      "org": "拓殖大学、拓殖大学後援会",
       "type": "コンテスト",
-      "audience": "高校生(全学年)・作文1,201〜2,000字",
-      "deadline": "2026年9月5日(土)必着",
+      "audience": "高校生、学生限定 / 【高校生の部】 ●応募時点で高等学校(全学年)、中等教育学校(4~6年生)…",
+      "deadline": "2026年09月05日 (土) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
@@ -315,10 +315,10 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "異文化交流体験や社会貢献などをテーマにした作文コンクール。",
+      "summary": "テーマにそった未発表の作文を募集。",
       "tags": [
-        "多文化交流",
-        "社会科学"
+        "文章・作文",
+        "多文化交流"
       ],
       "url": "https://compe.japandesign.ne.jp/takushoku-u-sakubun-2026/"
     },
@@ -342,7 +342,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の手作り絵本 【テーマ】 「家やまち」への思い・夢、あこがれの家、好きなまち等を募集。",
+      "summary": "テーマにそった未発表の手作り絵本(テーマ: 「家やまち」への思い・夢、あこがれの家、好きなまち等)を募集。",
       "tags": [
         "アート"
       ],
@@ -377,12 +377,12 @@
       "url": "https://compe.japandesign.ne.jp/ehimeda-haiku-2026/"
     },
     {
-      "id": "bakemono-jack-2026",
+      "id": "tokoron-bakemono-jack-art-summer-2026",
       "title": "BAKEMONO-JACK バケモノの夏休み 2026",
       "org": "バケモノ株式会社",
       "type": "コンテスト",
-      "audience": "7〜30歳の学生(高校生含む)・イラスト",
-      "deadline": "2026年9月6日(日)必着",
+      "audience": "小・中・高校生、学生限定 / ●全学生(小学生、中学生、高校生、専門学生、大学生、大学院生)7~30歳まで",
+      "deadline": "2026年09月06日 (日) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
@@ -396,19 +396,19 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "「ポップ」がテーマのオリジナルイラストコンテスト。",
+      "summary": "テーマにそったイラスト(テーマ: ポップ)を募集。",
       "tags": [
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/bakemono-jack-art-summer-2026/"
     },
     {
-      "id": "frau-sdgs-kids-presen-2026",
-      "title": "FRaU SDGs edu こどもプレゼン・コンテスト 2026",
-      "org": "株式会社講談社 FRaU Web編集部",
+      "id": "tokoron-frau-sdgs-edu-kids-presen-2026",
+      "title": "FRaU SDGs edu こども プレゼン・コンテスト 2026",
+      "org": "株式会社講談社 FRaU Web 編集部 こどもプレゼン・コンテスト事務局",
       "type": "コンテスト",
-      "audience": "小学校低学年〜高校生の4部門",
-      "deadline": "2026年9月6日(日)必着",
+      "audience": "小・中・高校生限定 / 小学生・中学生・高校生",
+      "deadline": "2026年09月06日 (日) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
@@ -422,7 +422,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "「2030年に創造したい世界」を絵・作文・動画等で表現するコンテスト。",
+      "summary": "テーマにそったアイデア(テーマ: 「私たちが2030年に創造したい世界」)を募集。",
       "tags": [
         "プレゼン",
         "社会科学"
@@ -430,12 +430,12 @@
       "url": "https://compe.japandesign.ne.jp/frau-sdgs-edu-kids-presen-2026/"
     },
     {
-      "id": "fff-s-shortfilm-2026",
+      "id": "tokoron-fff-s-2026",
       "title": "学生短編映画祭 FFF-S 第9回大会",
       "org": "株式会社フェローズ",
       "type": "コンテスト",
-      "audience": "国内在学中の学生監督(高校生含む)・4分以内の短編",
-      "deadline": "2026年9月6日(日)",
+      "audience": "学生限定 / 2026年11月末時点で日本国内の学校に在籍中の学生監督",
+      "deadline": "2026年09月06日 (日) 作品提出・応募締切",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
@@ -449,7 +449,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "4分以内の短編映画コンテスト。最大300万円の企画コンペ参加権も。",
+      "summary": "Fellows Film Festival for Students（FFF-S）は、株式会社フェローズが主催する学生のための短編映画祭です。 国内の学生を対象に、4分以内のショートフィルムを募集し、コンペティションを開",
       "tags": [
         "映像制作"
       ],
@@ -499,7 +499,7 @@
         "prefectures": [
           "宮城県"
         ],
-        "note": "宮城県在住もしくは宮城県内に所在する学校（高等学校、大学・短期大学・大学院、高等専修学校、専門学校等）に在籍する高校生以上の生徒・学生、または、その学校の生徒・学生団体"
+        "note": "宮城県在住もしくは宮城県内に所在する学校(高等学校、大学・短期大学・大学院、高等専修学校、専門学校等)に在籍する高校生以上の生徒・学生、または、その学校の生徒・学生団体"
       },
       "venue": null,
       "onlineTool": null,
@@ -529,7 +529,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "高校生による、テーマにそったビジネスプラン 【テーマ】 「未来をつくるビジネスアイディア」を募集。",
+      "summary": "高校生による、テーマにそったビジネスプラン(テーマ: 「未来をつくるビジネスアイディア」)を募集。",
       "tags": [
         "起業"
       ],
@@ -609,7 +609,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "「第2回 学生広告日本一 決定戦！」の参加者 【作品課題】 Z世代が「亀田の柿の種」を食べたくなるアイデア 亀田製菓 株式会社／180g 亀田の柿の種 6袋詰",
+      "summary": "「第2回 学生広告日本一 決定戦！」の参加者を募集。",
       "tags": [
         "マーケティング",
         "映像制作",
@@ -637,7 +637,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったデザイン画 【テーマ】 Prism Aquarium（輝きをまとう熱帯魚）を募集。",
+      "summary": "テーマにそったデザイン画(テーマ: Prism Aquarium（輝きをまとう熱帯魚）)を募集。",
       "tags": [
         "デザイン"
       ],
@@ -689,7 +689,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "社会課題解決のための新アイディア 【テーマ】 その“ちょっと不便”、あなたならどう変える？",
+      "summary": "社会課題解決のための新アイディア(テーマ: その“ちょっと不便”、あなたならどう変える？)を募集。",
       "tags": [
         "社会科学"
       ],
@@ -715,7 +715,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった絵画 【テーマ】 「My Sweet Home Town～地元のイチオシ～」を募集。",
+      "summary": "テーマにそった絵画(テーマ: 「My Sweet Home Town～地元のイチオシ～」)を募集。",
       "tags": [
         "アート"
       ],
@@ -741,11 +741,11 @@
           "島根県",
           "兵庫県"
         ],
-        "note": "鳥取県、島根県東部、兵庫県但馬地方の日本海新聞販売地域の小中高生（高専を含む）"
+        "note": "鳥取県、島根県東部、兵庫県但馬地方の日本海新聞販売地域の小中高生(高専を含む)"
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "課題にそった未発表の新聞感想文 【課題】 日本海新聞の中から、興味を持った記事を一つ選び、その感想や意見をまとめることを募集。",
+      "summary": "課題にそった未発表の新聞感想文を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -798,7 +798,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった作文 【テーマ】 酪農や牛乳・乳製品に関する「夢」を募集。",
+      "summary": "テーマにそった作文(テーマ: 酪農や牛乳・乳製品に関する「夢」)を募集。",
       "tags": [
         "自然科学",
         "文章・作文"
@@ -825,7 +825,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "課題にそった未発表の書作品 【課題】 （1）規定課題：「祈」「蝶」「飛翔」を募集。",
+      "summary": "課題にそった未発表の書作品を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -860,6 +860,32 @@
       "url": "https://compe.japandesign.ne.jp/kaetsu-pr-idea-2026/"
     },
     {
+      "id": "tokoron-kokushikan-kenchiku-idea-2026",
+      "title": "高校生建築アイデアコンテスト 2026",
+      "org": "国士舘大学理工学部理工学科建築学系",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 全国の高等学校在籍生・高等専門学校1~3年生",
+      "deadline": "2026年09月09日 (水) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-09",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった未発表の建築提案(テーマ: おひとり様が集う家)を募集。",
+      "tags": [
+        "建築"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kokushikan-kenchiku-idea-2026/"
+    },
+    {
       "id": "tokoron-n-fukushi-essay-2026",
       "title": "第24回 高校生ふくし文化賞エッセイコンテスト",
       "org": "日本福祉大学 共催:全国福祉高等学校長会",
@@ -879,7 +905,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "身近な体験を通して感じた「ふくし」への思いをまとめたエッセイ 【テーマ】 わたしとふくし 【分野】を募集。",
+      "summary": "身近な体験を通して感じた「ふくし」への思いをまとめたエッセイ(テーマ: わたしとふくし)を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -912,32 +938,6 @@
       "url": "https://compe.japandesign.ne.jp/ndg-manga-illust-2026/"
     },
     {
-      "id": "tokoron-kokushikan-kenchiku-idea-2026",
-      "title": "高校生建築アイデアコンテスト 2026",
-      "org": "国士舘大学理工学部理工学科建築学系",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 全国の高等学校在籍生・高等専門学校1~3年生",
-      "deadline": "2026年09月09日 (水) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-09",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表の建築提案 【テーマ】 おひとり様が集う家を募集。",
-      "tags": [
-        "建築"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kokushikan-kenchiku-idea-2026/"
-    },
-    {
       "id": "tokoron-aichi-select-ai-2026",
       "title": "ユメカタリ 学生生成AIコンテスト 2026",
       "org": "愛知100選編集事務局",
@@ -957,41 +957,12 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "生成AIを使ったアプリ・ツール・サービスの開発、または企画・アイデア 【部門／テーマ】 （1）開発部門：動かしてナンボ。作ったものが、そのまま未来になる。 （2）クリエイティブ部門：妄想？いえ構想です。企画とアイデアが、君の武器になる。",
+      "summary": "生成AIを使ったアプリ・ツール・サービスの開発、または企画・アイデアを募集。",
       "tags": [
         "プログラミング",
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/aichi-select-ai-2026/"
-    },
-    {
-      "id": "tokoron-kyoto-woody-idea-2026",
-      "title": "令和8年度 京都ウッドアワード（旧Woodyコンテスト／旧京都の木の家づくり表彰事業）",
-      "org": "京都府 共催:京都府産木材利用推進協議会",
-      "type": "コンテスト",
-      "audience": "【建築竣工部門】 京都府内産木材を使用した建築物の建築主、設計者、工事施工者(建築基準法第二条第十六号、第十七号…",
-      "deadline": "2026年09月10日 (木) 作品提出・応募締切、17:00必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-10",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "京都府",
-        "prefectures": [
-          "京都府"
-        ],
-        "note": "【建築竣工部門】 京都府内産木材を使用した建築物の建築主、設計者、工事施工者（建築基準法第二条第十六号、第十七号、第十八号のこととする） 【建築構想部門】 一般の部：建築やインテリア業務に携わる方（学"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "京都府産スギ、ヒノキの特性を活かした建築や木製家具における実作品・アイデアを募集。",
-      "tags": [
-        "建築",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kyoto-woody-idea-2026/"
     },
     {
       "id": "metaschool-soft-material-2026",
@@ -1066,7 +1037,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった献血ポスターデザイン 【テーマ】 若い世代に向けて、献血の「重要性」「役割・意義」等を伝え、今後の献血協力に繋げていくことができる作品",
+      "summary": "テーマにそった献血ポスターデザイン(テーマ: 若い世代に向けて、献血の「重要性」「役割・意義」等を伝え、今後の献血協力に繋げていくことができる作品)",
       "tags": [
         "デザイン",
         "社会科学"
@@ -1117,11 +1088,11 @@
         "prefectures": [
           "東京都"
         ],
-        "note": "東京都内に在住、在学の高校生、大学生（大学院生含む）または専門学校生"
+        "note": "東京都内に在住、在学の高校生、大学生(大学院生含む)または専門学校生"
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった動画を募集。",
+      "summary": "テーマにそった動画(テーマ: 「身近な税」「税について学んだこと」「税について知ってほしいこと」「○○税について」等)を募集。",
       "tags": [
         "映像制作",
         "社会科学"
@@ -1129,12 +1100,41 @@
       "url": "https://compe.japandesign.ne.jp/aoiro-tax-douga-2026/"
     },
     {
-      "id": "tokoron-shinjuku-natsume-soseki-2026",
-      "title": "令和8年度 新宿区夏目漱石コンクール",
-      "org": "新宿区、新宿区教育委員会",
+      "id": "tokoron-kyoto-woody-idea-2026",
+      "title": "令和8年度 京都ウッドアワード（旧Woodyコンテスト／旧京都の木の家づくり表彰事業）",
+      "org": "京都府 共催:京都府産木材利用推進協議会",
       "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 【読書感想文コンクール】 全国の中学生・高校生 【絵画コンクール】 全国の小学生",
-      "deadline": "2026年09月11日 (金) 作品提出・応募締切、必着",
+      "audience": "【建築竣工部門】 京都府内産木材を使用した建築物の建築主、設計者、工事施工者(建築基準法第二条第十六号、第十七号…",
+      "deadline": "2026年09月10日 (木) 作品提出・応募締切、17:00必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-10",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "京都府",
+        "prefectures": [
+          "京都府"
+        ],
+        "note": "【建築竣工部門】 京都府内産木材を使用した建築物の建築主、設計者、工事施工者(建築基準法第二条第十六号、第十七号、第十八号のこととする) 【建築構想部門】 一般の部:建築やインテリア業務に携わる方(学"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "京都府産スギ、ヒノキの特性を活かした建築や木製家具における実作品・アイデアを募集。",
+      "tags": [
+        "建築",
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kyoto-woody-idea-2026/"
+    },
+    {
+      "id": "tokoron-kaichi-kenshoronbun-2026",
+      "title": "開智国際大学懸賞論文「大村智賞」 2026",
+      "org": "開智国際大学",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 募集期間中に日本国内の高等学校に在学中の方",
+      "deadline": "2026年09月11日 (金) 作品提出・応募締切、消印有効",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
@@ -1148,12 +1148,13 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった読書感想文または絵画 【部門／テーマ】 （1）読書感想文コンクール「わたしの漱石、わたしの一行」（中学生の部・高校生の部） （2）絵画コンクール「こころに残ったあの瞬間」（小学生の部）",
+      "summary": "オリジナル未発表の論文を募集。",
       "tags": [
         "文章・作文",
-        "アート"
+        "多文化交流",
+        "研究発表"
       ],
-      "url": "https://compe.japandesign.ne.jp/shinjuku-natsume-soseki-2026/"
+      "url": "https://compe.japandesign.ne.jp/kaichi-kenshoronbun-2026/"
     },
     {
       "id": "tokoron-kamakura-u-obento-2026",
@@ -1262,12 +1263,12 @@
       "url": "https://compe.japandesign.ne.jp/z-shogei-compe-2026/"
     },
     {
-      "id": "tokoron-kaichi-kenshoronbun-2026",
-      "title": "開智国際大学懸賞論文「大村智賞」 2026",
-      "org": "開智国際大学",
+      "id": "tokoron-shinjuku-natsume-soseki-2026",
+      "title": "令和8年度 新宿区夏目漱石コンクール",
+      "org": "新宿区、新宿区教育委員会",
       "type": "コンテスト",
-      "audience": "高校生、学生限定 / 募集期間中に日本国内の高等学校に在学中の方",
-      "deadline": "2026年09月11日 (金) 作品提出・応募締切、消印有効",
+      "audience": "小・中・高校生限定 / 【読書感想文コンクール】 全国の中学生・高校生 【絵画コンクール】 全国の小学生",
+      "deadline": "2026年09月11日 (金) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
@@ -1281,13 +1282,12 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "オリジナル未発表の論文を募集。",
+      "summary": "テーマにそった読書感想文または絵画を募集。",
       "tags": [
         "文章・作文",
-        "多文化交流",
-        "研究発表"
+        "アート"
       ],
-      "url": "https://compe.japandesign.ne.jp/kaichi-kenshoronbun-2026/"
+      "url": "https://compe.japandesign.ne.jp/shinjuku-natsume-soseki-2026/"
     },
     {
       "id": "tokoron-ohs-miraicreatersaward-2026",
@@ -1309,7 +1309,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "探究型学習で取り組んだ社会問題の解決策のアイデア 【テーマ】 「社会課題を解決するアイデア」を募集。",
+      "summary": "探究型学習で取り組んだ社会問題の解決策のアイデア(テーマ: 「社会課題を解決するアイデア」)を募集。",
       "tags": [
         "社会科学",
         "研究発表"
@@ -1421,7 +1421,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "小中高生によるマンガ感想文 【対象マンガ】を募集。",
+      "summary": "小中高生によるマンガ感想文を募集。",
       "tags": [
         "文章・作文",
         "アート"
@@ -1475,7 +1475,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "自分たちの学校の魅力をPRする30秒以内の動画 【テーマ】 魅せろ！日本一の学校愛を募集。",
+      "summary": "自分たちの学校の魅力をPRする30秒以内の動画(テーマ: 魅せろ！日本一の学校愛)を募集。",
       "tags": [
         "映像制作",
         "マーケティング"
@@ -1536,33 +1536,6 @@
       "url": "https://compe.japandesign.ne.jp/on-air-your-idea-2026/"
     },
     {
-      "id": "tokoron-mahoroba-ed-furusato-presentation-2026",
-      "title": "ふるさとプレゼンコンテスト～日本の魅力を伝えよう～",
-      "org": "認定NPO法人 まほろば教育事業団",
-      "type": "コンテスト",
-      "audience": "小・中・高校生、学生限定 / 小学生・中学生・高校生・大学生",
-      "deadline": "2026年09月15日 (火) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-15",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったプレゼンテーションを募集。",
-      "tags": [
-        "プレゼン",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/mahoroba-ed-furusato-presentation-2026/"
-    },
-    {
       "id": "tokoron-kanatomoko-kt-movie-2026",
       "title": "キッズ＆ティーンズ動画コンテスト",
       "org": "海のSDGs映画祭実行委員会",
@@ -1582,7 +1555,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったオリジナル動画 【テーマ】 「海」を募集。",
+      "summary": "テーマにそったオリジナル動画(テーマ: 「海」)を募集。",
       "tags": [
         "映像制作"
       ],
@@ -1590,7 +1563,7 @@
     },
     {
       "id": "tokoron-hamamatsuwest-rc-ccn-poster-2026",
-      "title": "チャリティーキャンドルナイト　イメージポスター作品募集",
+      "title": "チャリティーキャンドルナイト イメージポスター作品募集",
       "org": "浜松西ロータリークラブ",
       "type": "コンテスト",
       "audience": "中・高校生、学生限定 / 中学生・高校生・専門学生・大学生",
@@ -1608,11 +1581,38 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "2027年チャリティーキャンドルナイトのイメージポスター作品 【テーマ】 「継灯（けいとう）」を募集。",
+      "summary": "2027年チャリティーキャンドルナイトのイメージポスター作品(テーマ: 「継灯（けいとう）」)を募集。",
       "tags": [
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/hamamatsuwest-rc-ccn-poster-2026/"
+    },
+    {
+      "id": "tokoron-mahoroba-ed-furusato-presentation-2026",
+      "title": "ふるさとプレゼンコンテスト～日本の魅力を伝えよう～",
+      "org": "認定NPO法人 まほろば教育事業団",
+      "type": "コンテスト",
+      "audience": "小・中・高校生、学生限定 / 小学生・中学生・高校生・大学生",
+      "deadline": "2026年09月15日 (火) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-15",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったプレゼンテーション(テーマ: ・私が尊敬する日本人～生き方から学んだこと～ ・受け継がれてきた日本の伝統と知恵等 ・ふるさとや日本の歴史・…)",
+      "tags": [
+        "プレゼン",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/mahoroba-ed-furusato-presentation-2026/"
     },
     {
       "id": "tokoron-yamagata-np-u39-utakai-2026",
@@ -1632,7 +1632,7 @@
         "prefectures": [
           "山形県"
         ],
-        "note": "山形県内在住・在勤・在学の小学生～30代（応募時点で39歳以下）"
+        "note": "山形県内在住・在勤・在学の小学生~30代(応募時点で39歳以下)"
       },
       "venue": null,
       "onlineTool": null,
@@ -1662,7 +1662,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "大自然の美しさや素晴らしさを表現した写真 【テーマ】 身近な自然史を募集。",
+      "summary": "大自然の美しさや素晴らしさを表現した写真(テーマ: 身近な自然史)を募集。",
       "tags": [
         "写真",
         "自然科学"
@@ -1717,7 +1717,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "高校生による、テーマにそった作文 【テーマ】を募集。",
+      "summary": "高校生による、テーマにそった作文を募集。",
       "tags": [
         "文章・作文",
         "社会科学"
@@ -1744,7 +1744,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表のエッセイ 【テーマ】 「顔」を募集。",
+      "summary": "テーマにそった未発表のエッセイ(テーマ: 「顔」)を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -1770,7 +1770,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の小論文 【テーマ】 「金融と経済」に関することを募集。",
+      "summary": "テーマにそった未発表の小論文(テーマ: 「金融と経済」に関すること)を募集。",
       "tags": [
         "文章・作文",
         "社会科学"
@@ -1797,7 +1797,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったオリジナル未発表のレシピ 【テーマ】 もっと身近に、おさかな料理 ずーっと魚活！ 【部門／テーマ】 （1）プロを目指す学生部門：パパッと作る ちょっとおしゃれなレシピ",
+      "summary": "テーマにそったオリジナル未発表のレシピ(テーマ: もっと身近に、おさかな料理 ずーっと魚活！)を募集。",
       "tags": [],
       "url": "https://compe.japandesign.ne.jp/pride-fish-seafood-2026/"
     },
@@ -1901,7 +1901,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の英語エッセイ 【テーマ】 つながる心、広がる世界 ～コミュニケーションを通じた響きあい～を募集。",
+      "summary": "テーマにそった未発表の英語エッセイ(テーマ: つながる心、広がる世界 ～コミュニケーションを通じた響きあい～)を募集。",
       "tags": [
         "文章・作文",
         "英語"
@@ -1935,12 +1935,12 @@
       "url": "https://compe.japandesign.ne.jp/aidem-photo-2026/"
     },
     {
-      "id": "bourbon-yoshida-award-2026",
-      "title": "第4回 ブルボン吉田記念財団 文学・平和アワード",
-      "org": "公益財団法人ブルボン吉田記念財団",
+      "id": "tokoron-bungakuheiwa-award-2026",
+      "title": "第4回 ブルボン吉田記念財団 文学・平和アワード 作品募集",
+      "org": "公益財団法人 ブルボン吉田記念財団",
       "type": "コンテスト",
-      "audience": "高校生を含む小学校高学年以上",
-      "deadline": "2026年9月16日(水)",
+      "audience": "小学生高学年以上",
+      "deadline": "2026年09月16日 (水) 作品提出・応募締切",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
@@ -1954,7 +1954,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "キーン先生の著作等から感じたことを文章で表現。図書カード進呈。",
+      "summary": "ドナルド・キーン先生の生き方や言葉に触れることで、幅広い世代が日本の文学・文化・社会について考え、戦争や平和に思いをめぐらせるきっかけとするため、「第4回 ブルボン吉田記念財団 文学・平和アワード」を本年も継続して実施し",
       "tags": [
         "社会科学"
       ],
@@ -1987,33 +1987,31 @@
       "url": "https://compe.japandesign.ne.jp/fujiwara-masahiko-bungaku-2026/"
     },
     {
-      "id": "tokoron-tokyo-heiwakinen-kadan-design-2026",
-      "title": "令和8年度 「東京空襲犠牲者を追悼し平和を祈念する碑」 花壇デザイン画募集",
-      "org": "東京都",
+      "id": "tokoron-seisadohto-interior-design-2026",
+      "title": "星槎道都大学 第8回 高校生インテリアデザインコンクール",
+      "org": "星槎道都大学美術学部建築学科",
       "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 東京都内に在住または在学の児童・生徒",
-      "deadline": "2026年09月18日 (金) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "audience": "高校生、学生限定 / 2026年6月現在、高等学校に在籍の生徒(1~3年)、定時制高等学校に在籍の生徒、および高等専門学校に在籍の1~3年の生徒",
+      "deadline": "2026年09月18日 (金) 作品提出・応募締切、消印有効",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
       "applyEnd": "2026-09-18",
       "format": "submission",
       "area": {
-        "scope": "regional",
-        "label": "東京都",
-        "prefectures": [
-          "東京都"
-        ],
-        "note": "東京都内に在住または在学の児童・生徒"
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "「東京空襲犠牲者を追悼し平和を祈念する碑」の花壇デザイン画を募集。",
+      "summary": "課題にそったインテリアデザインを募集。",
       "tags": [
-        "デザイン",
-        "社会科学"
+        "建築",
+        "デザイン"
       ],
-      "url": "https://compe.japandesign.ne.jp/tokyo-heiwakinen-kadan-design-2026/"
+      "url": "https://compe.japandesign.ne.jp/seisadohto-interior-design-2026/"
     },
     {
       "id": "tokoron-fashion-highschool-design-2026",
@@ -2042,33 +2040,6 @@
       "url": "https://compe.japandesign.ne.jp/fashion-highschool-design-2026/"
     },
     {
-      "id": "tokoron-seisadohto-interior-design-2026",
-      "title": "星槎道都大学 第8回 高校生インテリアデザインコンクール",
-      "org": "星槎道都大学美術学部建築学科",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 2026年6月現在、高等学校に在籍の生徒(1~3年)、定時制高等学校に在籍の生徒、および高等専門学校に在籍の1~3年の生徒",
-      "deadline": "2026年09月18日 (金) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-18",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "課題にそったインテリアデザイン 【課題】 「くつろげる窓辺」をデザインしよう！",
-      "tags": [
-        "建築",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/seisadohto-interior-design-2026/"
-    },
-    {
       "id": "tokoron-kanken-kizuna-2026",
       "title": "第14回 今、あなたに贈りたい漢字コンテスト",
       "org": "公益財団法人 日本漢字能力検定協会",
@@ -2088,7 +2059,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "自身が伝えたい気持ちを表す漢字1文字とメッセージ 【テーマ】 贈りたい漢字とメッセージを募集。",
+      "summary": "自身が伝えたい気持ちを表す漢字1文字とメッセージ(テーマ: 贈りたい漢字とメッセージ)を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -2114,12 +2085,41 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった写真 【テーマ】 「#私たちのキセツ」を募集。",
+      "summary": "テーマにそった写真(テーマ: 「#私たちのキセツ」)を募集。",
       "tags": [
         "写真",
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/kanko-gakuseifuku-uniform-photo-2026/"
+    },
+    {
+      "id": "tokoron-tokyo-heiwakinen-kadan-design-2026",
+      "title": "令和8年度 「東京空襲犠牲者を追悼し平和を祈念する碑」 花壇デザイン画募集",
+      "org": "東京都",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 東京都内に在住または在学の児童・生徒",
+      "deadline": "2026年09月18日 (金) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-18",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "東京都",
+        "prefectures": [
+          "東京都"
+        ],
+        "note": "東京都内に在住または在学の児童・生徒"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「東京空襲犠牲者を追悼し平和を祈念する碑」の花壇デザイン画を募集。",
+      "tags": [
+        "デザイン",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tokyo-heiwakinen-kadan-design-2026/"
     },
     {
       "id": "tokoron-sho-in-creative-award-2026",
@@ -2167,7 +2167,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったマンガを募集。",
+      "summary": "テーマにそったマンガ(テーマ: あなたにとっての「こころの絆創膏」)を募集。",
       "tags": [
         "アート"
       ],
@@ -2193,7 +2193,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "高校生によるテーマにそった未発表の写真 【テーマ】 わたしが見つけたアジアを募集。",
+      "summary": "高校生によるテーマにそった未発表の写真(テーマ: わたしが見つけたアジア)を募集。",
       "tags": [
         "写真",
         "多文化交流"
@@ -2220,7 +2220,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった写真 【テーマ】 発見！身近な科学の不思議や驚きを募集。",
+      "summary": "テーマにそった写真(テーマ: 発見！身近な科学の不思議や驚き)を募集。",
       "tags": [
         "写真",
         "自然科学"
@@ -2247,7 +2247,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった空間デザイン 【テーマ】 ワクワクする「空間」から生まれる感動や体験を、自由な発想で「デザイン」し、発表すること",
+      "summary": "テーマにそった空間デザイン(テーマ: ワクワクする「空間」から生まれる感動や体験を、自由な発想で「デザイン」し、発表すること)",
       "tags": [
         "建築",
         "デザイン"
@@ -2353,7 +2353,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったイラスト 【テーマ】 ひゅーにゃんとそのなかまを募集。",
+      "summary": "テーマにそったイラスト(テーマ: ひゅーにゃんとそのなかま)を募集。",
       "tags": [
         "アート"
       ],
@@ -2386,32 +2386,6 @@
       "url": "https://compe.japandesign.ne.jp/iiiartman-cell-2026/"
     },
     {
-      "id": "tokoron-wfp-essay-2026",
-      "title": "WFPチャリティー エッセイコンテスト 2026",
-      "org": "認定NPO法人 国連WFP協会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、必着※Web応募は、2026年9月30日必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表のエッセイ 【テーマ】 今日の食事が当たり前でなくなったらを募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/wfp-essay-2026/"
-    },
-    {
       "id": "tokoron-cerasta-tile-compe-2026",
       "title": "the TILE competition 2026",
       "org": "CERASTA 2026実行委員会",
@@ -2439,6 +2413,32 @@
       "url": "https://compe.japandesign.ne.jp/cerasta-tile-compe-2026/"
     },
     {
+      "id": "tokoron-wfp-essay-2026",
+      "title": "WFPチャリティー エッセイコンテスト 2026",
+      "org": "認定NPO法人 国連WFP協会",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2026年09月25日 (金) 作品提出・応募締切、必着※Web応募は、2026年9月30日必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-25",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった未発表のエッセイ(テーマ: 今日の食事が当たり前でなくなったら)を募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/wfp-essay-2026/"
+    },
+    {
       "id": "tokoron-kunisakicc-kansoubun-2026",
       "title": "ゆめほたる 環境読書感想文コンクール 2026",
       "org": "国崎クリーンセンター啓発施設「ゆめほたる」",
@@ -2458,39 +2458,13 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった読書感想文 【テーマ】 「地球の環境問題」を募集。",
+      "summary": "テーマにそった読書感想文(テーマ: 「地球の環境問題」)を募集。",
       "tags": [
         "文章・作文",
         "自然科学",
         "社会科学"
       ],
       "url": "https://compe.japandesign.ne.jp/kunisakicc-kansoubun-2026/"
-    },
-    {
-      "id": "tokoron-inpit-patent-2026",
-      "title": "令和8年度 パテントコンテスト／デザインパテントコンテスト",
-      "org": "文部科学省、特許庁、日本弁理士会、独立行政法人 工業所有権情報・研修館(INPIT)",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 日本国内の学校に在籍する高校生、高等専門学校生、大学生、専修学校生、大学校生",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "【パテコンとは】 パテントコンテスト・デザインパテントコンテス（パテコン）は、高校生、高等専門学校生、大学生、専修学校生及び大学校生の皆さんが、自分で考えた発明（技術的アイデア）や意匠（モノのデザイン）を応募できるコンテ",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/inpit-patent-2026/"
     },
     {
       "id": "tokoron-gunmabunkazigyodan-2026",
@@ -2539,11 +2513,37 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "日本語に関する研究 【テーマ】 研究の内容は、日本語に関することであればどんなことでも可を募集。",
+      "summary": "日本語に関する研究(テーマ: 研究の内容は、日本語に関することであればどんなことでも可)を募集。",
       "tags": [
         "研究発表"
       ],
       "url": "https://compe.japandesign.ne.jp/junior-jpling-nihongo-2026/"
+    },
+    {
+      "id": "tokoron-inpit-patent-2026",
+      "title": "令和8年度 パテントコンテスト／デザインパテントコンテスト",
+      "org": "文部科学省、特許庁、日本弁理士会、独立行政法人 工業所有権情報・研修館(INPIT)",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 日本国内の学校に在籍する高校生、高等専門学校生、大学生、専修学校生、大学校生",
+      "deadline": "2026年09月25日 (金) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-25",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "パテントコンテスト・デザインパテントコンテス（パテコン）は、高校生、高等専門学校生、大学生、専修学校生及び大学校生の皆さんが、自分で考えた発明（技術的アイデア）や意匠（モノのデザイン）を応募できるコンテ",
+      "tags": [
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/inpit-patent-2026/"
     },
     {
       "id": "tokoron-janic-idea-2026",
@@ -2565,7 +2565,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったアイデア 【テーマ】 世界を救う、私の日常。 ～毎日の「暮らし」から新しい発見とアイデアで世界をちょっとずつ変えていこう。～",
+      "summary": "テーマにそったアイデア(テーマ: 世界を救う、私の日常。 ～毎日の「暮らし」から新しい発見とアイデアで世界をちょっとずつ変えていこう。～)",
       "tags": [
         "多文化交流"
       ],
@@ -2573,7 +2573,7 @@
     },
     {
       "id": "tokoron-tbc-u-illust-cg-2026",
-      "title": "2026 創作イラスト＆3DCGコンテスト　とちぎイラコン",
+      "title": "2026 創作イラスト＆3DCGコンテスト とちぎイラコン",
       "org": "国際情報ビジネス専門学校",
       "type": "コンテスト",
       "audience": "中・高校生限定 / 高校または中学校に在学中の方",
@@ -2591,7 +2591,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったオリジナル未発表のイラスト 【テーマ】 （1）色の擬人化 （2）鉛筆画 （3）背景画を募集。",
+      "summary": "テーマにそったオリジナル未発表のイラスト(テーマ: （1）色の擬人化 （2）鉛筆画 （3）背景画)を募集。",
       "tags": [
         "文章・作文",
         "アート"
@@ -2618,7 +2618,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった川柳 【テーマ】 COLORを募集。",
+      "summary": "テーマにそった川柳(テーマ: COLOR)を募集。",
       "tags": [
         "短歌・俳句"
       ],
@@ -2671,7 +2671,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった作文 【テーマ】 「泥流地帯」「続泥流地帯」に関するあらゆることを募集。",
+      "summary": "テーマにそった作文(テーマ: 「泥流地帯」「続泥流地帯」に関するあらゆること)を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -2697,7 +2697,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "未発表でオリジナルのキャラクターデザイン 【クリエイティブ・ワールド部門】 ～「魔法」も「科学」も、何でもありの空想世界！～ ファンタジーや近未来など、現実にない世界のキャラクターを自由に表現 【リアルスタイルキャラ部門】 ～「今、",
+      "summary": "未発表でオリジナルのキャラクターデザインを募集。",
       "tags": [
         "アート",
         "デザイン"
@@ -2733,40 +2733,11 @@
       "url": "https://compe.japandesign.ne.jp/seimu-sekkei-2026/"
     },
     {
-      "id": "tokoron-gunma-kotuanzen-hyougo-2026",
-      "title": "令和8年 交通安全標語コンクール",
-      "org": "群馬県交通対策協議会",
+      "id": "tokoron-ibaraki-univ-business-plan-2026",
+      "title": "茨城県学生ビジネスプランコンテスト 2026",
+      "org": "国立大学法人 茨城大学",
       "type": "コンテスト",
-      "audience": "群馬県内に在住している方、県内に勤務している方または県内に就学している方で…",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "群馬県",
-        "prefectures": [
-          "群馬県"
-        ],
-        "note": "群馬県内に在住している方、県内に勤務している方または県内に就学している方で、募集区分ごとに以下の要件を満たす方 【小学生の部】 2026年9月30日現在、学校教育法に規定する小学校の教育課程を置く学校"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった交通安全標語を募集。",
-      "tags": [
-        "文章・作文",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/gunma-kotuanzen-hyougo-2026/"
-    },
-    {
-      "id": "tokoron-osaka-chikyukankyo-digitalmedia-2026",
-      "title": "令和8年度 おおさか環境デジタルメディア学生コンテスト",
-      "org": "大阪府、豊かな環境づくり大阪府民会議",
-      "type": "コンテスト",
-      "audience": "小・中・高校生、学生限定 / 応募者は、以下のいずれかに該当する方を対象とする ・府内の小学校、中学校、高等学校、大学等に在籍する学生等 ・府内在住で…",
+      "audience": "中・高校生、学生限定 / 以下の(1)および(2)の条件を満たす方を対象とする (1)中学生、高校生、高等専門学校生、大学生等(個人またはグループ)",
       "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
@@ -2781,225 +2752,11 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったデジタルポスター 【テーマ】を募集。",
+      "summary": "ビジネスプランを募集。",
       "tags": [
-        "社会科学",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/osaka-chikyukankyo-digitalmedia-2026/"
-    },
-    {
-      "id": "tokoron-ppc-poster-2026",
-      "title": "令和8年度 個人情報に関するポスターコンクール -個人情報保護委員会創立10周年記念-",
-      "org": "個人情報保護委員会 後援:文部科学省",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 小学生・中学生・高校生",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着※募集開始:2026年9月1日(火)",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": "2026-09-01",
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったポスター 【テーマ】 個人情報保護の重要性や個人情報の有用性に関することを募集。",
-      "tags": [
-        "デザイン",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/ppc-poster-2026/"
-    },
-    {
-      "id": "tokoron-echizen-midori-tanka-2026",
-      "title": "令和8年度 海土里の短歌コンクール",
-      "org": "福井県越前町 共催:株式会社福井新聞社",
-      "type": "コンテスト",
-      "audience": "小学生以上",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「ふるさと」を題材とした短歌 【2026年テーマ】 土（つち）を募集。",
-      "tags": [
-        "短歌・俳句",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/echizen-midori-tanka-2026/"
-    },
-    {
-      "id": "tokoron-megriba-gakusei-business-idea-2026",
-      "title": "全国学生ビジネスアイデアコンテスト 2026",
-      "org": "産業交流スペースMegriba(指定管理者:株式会社ツクリエ)",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 全国の高校生、高等専門学校生、専門学校生、大学生、大学院生等の25歳以下の学生・生徒",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったビジネスアイデア 【テーマ】 「山口市の地域課題を解決するビジネスアイデア」を募集。",
-      "tags": [
-        "起業",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/megriba-gakusei-business-idea-2026/"
-    },
-    {
-      "id": "tokoron-soumu-shikoku-movie-2026",
-      "title": "四国コンテンツ映像フェスタ 2026",
-      "org": "総務省四国総合通信局、四国情報通信懇談会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったデジタル動画コンテンツ 【テーマ】 四国を元気にする！",
-      "tags": [
-        "映像制作"
-      ],
-      "url": "https://compe.japandesign.ne.jp/soumu-shikoku-movie-2026/"
-    },
-    {
-      "id": "tokoron-eandmgroup-miyazaki-airport-movie-2026",
-      "title": "宮崎ブーゲンビリア空港 デジタルサイネージ 学生動画コンテスト 2026",
-      "org": "株式会社フェニックスシステム研究所(イー・アンド・エム株式会社)",
-      "type": "コンテスト",
-      "audience": "中・高校生、学生限定 / 中学生以上の生徒または学生",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった15秒の動画 【テーマ】 「宮崎 ひなたのチカラ」を募集。",
-      "tags": [
-        "映像制作"
-      ],
-      "url": "https://compe.japandesign.ne.jp/eandmgroup-miyazaki-airport-movie-2026/"
-    },
-    {
-      "id": "tokoron-teikyo-u-programming-2026",
-      "title": "帝京大学 高校生プログラミングコンテスト 2026",
-      "org": "帝京大学 宇都宮キャンパス",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校在学中の生徒個人またはグループ",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "自身で作成したオリジナルプログラムを募集。",
-      "tags": [
-        "プログラミング"
-      ],
-      "url": "https://compe.japandesign.ne.jp/teikyo-u-programming-2026/"
-    },
-    {
-      "id": "tokoron-aichishikai-gakusei-2026",
-      "title": "建築・まちづくり学生活動コンペ 2026",
-      "org": "公益社団法人 愛知建築士会 学生コンペ委員会",
-      "type": "コンテスト",
-      "audience": "愛知県認可の公益社団法人の公益活動のコンペとして以下の(1)を満たし(2)(3)のいずれかを満たすものを参加要件の活動とする (…",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": "「愛知県認可の公益社団法人」は主催者の説明で、応募者の地域制限ではない"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "建築やまちづくりを学ぶ学生が取り組む様々な活動を募集。",
-      "tags": [
-        "建築",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/aichishikai-gakusei-2026/"
-    },
-    {
-      "id": "tokoron-seijoh-u-senryu-2026",
-      "title": "星城大学 2026年度 高校生川柳",
-      "org": "学校法人 名古屋石田学園 星城大学",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校生",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による、お題にそった川柳 【お題】 （1）学校生活 （2）経営 （3）リハビリテーションを募集。",
-      "tags": [
-        "短歌・俳句",
         "起業"
       ],
-      "url": "https://compe.japandesign.ne.jp/seijoh-u-senryu-2026/"
+      "url": "https://compe.japandesign.ne.jp/ibaraki-univ-business-plan-2026/"
     },
     {
       "id": "tokoron-soumu-odif-2026",
@@ -3049,12 +2806,174 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった川柳および生薬キャラクター 【テーマ】 生薬・漢方を募集。",
+      "summary": "テーマにそった川柳および生薬キャラクター(テーマ: 生薬・漢方)を募集。",
       "tags": [
         "短歌・俳句",
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/nichiyaku-senryu-character-2026/"
+    },
+    {
+      "id": "tokoron-eandmgroup-miyazaki-airport-movie-2026",
+      "title": "宮崎ブーゲンビリア空港 デジタルサイネージ 学生動画コンテスト 2026",
+      "org": "株式会社フェニックスシステム研究所(イー・アンド・エム株式会社)",
+      "type": "コンテスト",
+      "audience": "中・高校生、学生限定 / 中学生以上の生徒または学生",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった15秒の動画(テーマ: 「宮崎 ひなたのチカラ」)を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/eandmgroup-miyazaki-airport-movie-2026/"
+    },
+    {
+      "id": "tokoron-tomos-uonuma-business-plan-2026",
+      "title": "魚沼まちづくりビジネスプランコンテスト 2026 TOMOS UONUMA",
+      "org": "新潟県魚沼市",
+      "type": "コンテスト",
+      "audience": "【一般部門】 新潟県魚沼市内での起業・創業(第二創業・企業内起業・新規事業の立ち上げを含む)を予定または検討している個人・法人…",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "新潟県",
+        "prefectures": [
+          "新潟県"
+        ],
+        "note": "【一般部門】 新潟県魚沼市内での起業・創業(第二創業・企業内起業・新規事業の立ち上げを含む)を予定または検討している個人・法人、またはそのチーム"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったビジネスプラン(テーマ: 魚沼市の中心商業地域（小出商店街・羽根川・小出駅前エリア）の空き物件・スペースを活用した新たなにぎわいを創出…)",
+      "tags": [
+        "起業",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tomos-uonuma-business-plan-2026/"
+    },
+    {
+      "id": "tokoron-aichishikai-gakusei-2026",
+      "title": "建築・まちづくり学生活動コンペ 2026",
+      "org": "公益社団法人 愛知建築士会 学生コンペ委員会",
+      "type": "コンテスト",
+      "audience": "愛知県認可の公益社団法人の公益活動のコンペとして以下の(1)を満たし(2)(3)のいずれかを満たすものを参加要件の活動とする (…",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、17:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": "「愛知県認可の公益社団法人」は主催者の説明で、応募者の地域制限ではない"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "建築やまちづくりを学ぶ学生が取り組む様々な活動を募集。",
+      "tags": [
+        "建築",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/aichishikai-gakusei-2026/"
+    },
+    {
+      "id": "tokoron-soumu-shikoku-movie-2026",
+      "title": "四国コンテンツ映像フェスタ 2026",
+      "org": "総務省四国総合通信局、四国情報通信懇談会",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったデジタル動画コンテンツ(テーマ: 四国を元気にする！)を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/soumu-shikoku-movie-2026/"
+    },
+    {
+      "id": "tokoron-seijoh-u-senryu-2026",
+      "title": "星城大学 2026年度 高校生川柳",
+      "org": "学校法人 名古屋石田学園 星城大学",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 高校生",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高校生による、お題にそった川柳を募集。",
+      "tags": [
+        "短歌・俳句",
+        "起業"
+      ],
+      "url": "https://compe.japandesign.ne.jp/seijoh-u-senryu-2026/"
+    },
+    {
+      "id": "tokoron-megriba-gakusei-business-idea-2026",
+      "title": "全国学生ビジネスアイデアコンテスト 2026",
+      "org": "産業交流スペースMegriba(指定管理者:株式会社ツクリエ)",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 全国の高校生、高等専門学校生、専門学校生、大学生、大学院生等の25歳以下の学生・生徒",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、17:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったビジネスアイデア(テーマ: 「山口市の地域課題を解決するビジネスアイデア」)を募集。",
+      "tags": [
+        "起業",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/megriba-gakusei-business-idea-2026/"
     },
     {
       "id": "tokoron-kenkon-photo-jr-2026",
@@ -3076,7 +2995,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった写真 【テーマ】 “土木施設”を探せ！",
+      "summary": "テーマにそった写真(テーマ: “土木施設”を探せ！)を募集。",
       "tags": [
         "写真"
       ],
@@ -3128,7 +3047,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったショートストーリー 【テーマ】 「あなたが今、心にホッチキスしたいこと」を募集。",
+      "summary": "テーマにそったショートストーリー(テーマ: 「あなたが今、心にホッチキスしたいこと」)を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -3154,7 +3073,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった写真 【テーマ】 「高校生活」を募集。",
+      "summary": "テーマにそった写真(テーマ: 「高校生活」)を募集。",
       "tags": [
         "写真"
       ],
@@ -3180,39 +3099,12 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の建築提案またはインテリアデザイン 【修成建築設計競技】 課題テーマ「最高のヒミツ基地 ～「好き」に没頭する空間～」 【修成インテリアデザインコンテスト】 課題テーマ「コモンズ ― わたしとあなたの共有地 ―」",
+      "summary": "テーマにそった未発表の建築提案またはインテリアデザインを募集。",
       "tags": [
         "建築",
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/syusei-archdesign-interiordesign-2026/"
-    },
-    {
-      "id": "tokoron-handball-jhs-spring-poster-2026",
-      "title": "第22回 春の全国中学生ハンドボール選手権大会 ポスター作品募集",
-      "org": "公益財団法人 日本ハンドボール協会",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 全国の中学生・高校生",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「第22回 春の全国中学生ハンドボール選手権大会」のポスターに使用する作品 【テーマ】 ハンドボール競技をテーマにした作品",
-      "tags": [
-        "デザイン",
-        "スポーツ科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/handball-jhs-spring-poster-2026/"
     },
     {
       "id": "tokoron-yamanashi-tanka-2026",
@@ -3234,11 +3126,38 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の短歌 【テーマ】 自然や果実を詠み込んだ作品（各部共通）を募集。",
+      "summary": "テーマにそった未発表の短歌(テーマ: 自然や果実を詠み込んだ作品（各部共通）)を募集。",
       "tags": [
         "短歌・俳句"
       ],
       "url": "https://compe.japandesign.ne.jp/yamanashi-tanka-2026/"
+    },
+    {
+      "id": "tokoron-handball-jhs-spring-poster-2026",
+      "title": "第22回 春の全国中学生ハンドボール選手権大会 ポスター作品募集",
+      "org": "公益財団法人 日本ハンドボール協会",
+      "type": "コンテスト",
+      "audience": "中・高校生限定 / 全国の中学生・高校生",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「第22回 春の全国中学生ハンドボール選手権大会」のポスターに使用する作品(テーマ: ハンドボール競技をテーマにした作品)",
+      "tags": [
+        "デザイン",
+        "スポーツ科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/handball-jhs-spring-poster-2026/"
     },
     {
       "id": "tokoron-nobeoka-bokusui-tanka-2026",
@@ -3286,7 +3205,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "本人が創作した未発表の答えの片歌 【問いの片歌】 （1）海を塗る絵筆の青が淡くにじんで （2）彫像のアダムの影はイブより薄し （3）もうなにも言わないでいい黄昏の駅 （4）きみの中の昨日今日明日、",
+      "summary": "本人が創作した未発表の答えの片歌を募集。",
       "tags": [
         "短歌・俳句",
         "文章・作文"
@@ -3295,7 +3214,7 @@
     },
     {
       "id": "tokoron-nualwd-hsl-2026",
-      "title": "第2回 名古屋芸術大学 文芸ライティングコンテスト 2026　High School Lines",
+      "title": "第2回 名古屋芸術大学 文芸ライティングコンテスト 2026 High School Lines",
       "org": "名古屋芸術大学 芸術学部デザイン領域 文芸・ライティングコース",
       "type": "コンテスト",
       "audience": "高校生、学生限定 / 日本国内の高等学校、高等専門学校、インターナショナルスクール、その他これらに準ずる学校に在籍する生徒",
@@ -3338,11 +3257,11 @@
         "prefectures": [
           "高知県"
         ],
-        "note": "高知県在住（県外は高知県出身者）または高知県に住んだことがある方"
+        "note": "高知県在住(県外は高知県出身者)または高知県に住んだことがある方"
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "自作未発表でオリジナルの作文、随筆または小説 【部門／テーマ】 （1）小学生の部「作文」：「がんばっていること」または「私のたからもの」 （2）中学生の部「作文」：「ふるさと」または「挑戦」 （3）高校生の部「随筆」「小説」：ともにテー…",
+      "summary": "自作未発表でオリジナルの作文、随筆または小説を募集。",
       "tags": [
         "文章・作文",
         "地域活動"
@@ -3428,32 +3347,6 @@
       "url": "https://compe.japandesign.ne.jp/25reuse-photo-2026/"
     },
     {
-      "id": "tokoron-ffc-editor-fes-2026",
-      "title": "第6回 FFC学生ドキュメンタリー映画祭",
-      "org": "株式会社フリー・フォーム・カンパニー",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 2026年9月30日時点でチーム全員が高校・大学・大学院・専門学校のいずれかに在籍していること",
-      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "学生が制作した60分以内のドキュメンタリー作品を募集。",
-      "tags": [
-        "映像制作"
-      ],
-      "url": "https://compe.japandesign.ne.jp/ffc-editor-fes-2026/"
-    },
-    {
       "id": "tokoron-kagu-higashikawa-2027",
       "title": "第6回 「隈 研吾＆東川町」KAGUデザインコンペ",
       "org": "「隈 研吾&東川町」KAGUデザインコンペ実行委員会",
@@ -3478,6 +3371,32 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/kagu-higashikawa-2027/"
+    },
+    {
+      "id": "tokoron-ffc-editor-fes-2026",
+      "title": "第6回 FFC学生ドキュメンタリー映画祭",
+      "org": "株式会社フリー・フォーム・カンパニー",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 2026年9月30日時点でチーム全員が高校・大学・大学院・専門学校のいずれかに在籍していること",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "学生が制作した60分以内のドキュメンタリー作品を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/ffc-editor-fes-2026/"
     },
     {
       "id": "tokoron-toyohashi-maruyama-poem-2026",
@@ -3507,7 +3426,7 @@
     },
     {
       "id": "tokoron-nichigei-bungei-ekoda-koukousei-2026",
-      "title": "第6回 江古田文学賞　高校生部門",
+      "title": "第6回 江古田文学賞 高校生部門",
       "org": "江古田文学会",
       "type": "コンテスト",
       "audience": "高校生、学生限定 / 高校、中等教育学校、特別支援学校高等部と高専(3年まで)の生徒およびこれに準ずる生徒",
@@ -3551,7 +3470,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "自己の未発表俳句 【テーマ】 四季雑詠（季節・題は不問）を募集。",
+      "summary": "自己の未発表俳句(テーマ: 四季雑詠（季節・題は不問）)を募集。",
       "tags": [
         "短歌・俳句"
       ],
@@ -3604,7 +3523,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の写真 【テーマ】 わたしの、推し目黒。～10年後に残したい目黒のお気に入り～を募集。",
+      "summary": "テーマにそった未発表の写真(テーマ: わたしの、推し目黒。～10年後に残したい目黒のお気に入り～)を募集。",
       "tags": [
         "写真",
         "地域活動"
@@ -3612,11 +3531,11 @@
       "url": "https://compe.japandesign.ne.jp/meguro-kanko-photo-2026/"
     },
     {
-      "id": "tokoron-ibaraki-univ-business-plan-2026",
-      "title": "茨城県学生ビジネスプランコンテスト 2026",
-      "org": "国立大学法人 茨城大学",
+      "id": "tokoron-teikyo-u-programming-2026",
+      "title": "帝京大学 高校生プログラミングコンテスト 2026",
+      "org": "帝京大学 宇都宮キャンパス",
       "type": "コンテスト",
-      "audience": "中・高校生、学生限定 / 以下の(1)および(2)の条件を満たす方を対象とする (1)中学生、高校生、高等専門学校生、大学生等(個人またはグループ)",
+      "audience": "高校生限定 / 高校在学中の生徒個人またはグループ",
       "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
@@ -3631,18 +3550,18 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "ビジネスプランを募集。",
+      "summary": "自身で作成したオリジナルプログラムを募集。",
       "tags": [
-        "起業"
+        "プログラミング"
       ],
-      "url": "https://compe.japandesign.ne.jp/ibaraki-univ-business-plan-2026/"
+      "url": "https://compe.japandesign.ne.jp/teikyo-u-programming-2026/"
     },
     {
-      "id": "tokoron-tomos-uonuma-business-plan-2026",
-      "title": "魚沼まちづくりビジネスプランコンテスト 2026　TOMOS UONUMA",
-      "org": "新潟県魚沼市",
+      "id": "tokoron-gunma-kotuanzen-hyougo-2026",
+      "title": "令和8年 交通安全標語コンクール",
+      "org": "群馬県交通対策協議会",
       "type": "コンテスト",
-      "audience": "【一般部門】 新潟県魚沼市内での起業・創業(第二創業・企業内起業・新規事業の立ち上げを含む)を予定または検討している個人・法人…",
+      "audience": "群馬県内に在住している方、県内に勤務している方または県内に就学している方で…",
       "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
@@ -3651,32 +3570,32 @@
       "format": "submission",
       "area": {
         "scope": "regional",
-        "label": "新潟県",
+        "label": "群馬県",
         "prefectures": [
-          "新潟県"
+          "群馬県"
         ],
-        "note": "【一般部門】 新潟県魚沼市内での起業・創業（第二創業・企業内起業・新規事業の立ち上げを含む）を予定または検討している個人・法人、またはそのチーム"
+        "note": "群馬県内に在住している方、県内に勤務している方または県内に就学している方で、募集区分ごとに以下の要件を満たす方 【小学生の部】 2026年9月30日現在、学校教育法に規定する小学校の教育課程を置く学校"
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったビジネスプラン 【テーマ】 魚沼市の中心商業地域（小出商店街・羽根川・小出駅前エリア）の空き物件・スペースを活用した新たなにぎわいを創出するビジネスプラン",
+      "summary": "テーマにそった交通安全標語(テーマ: （1）自転車の交通安全に関する作品 （2）高齢者の交通安全に関する作品 （3）こどもの交通安全に関する作品…)",
       "tags": [
-        "起業",
-        "地域活動"
+        "文章・作文",
+        "社会科学"
       ],
-      "url": "https://compe.japandesign.ne.jp/tomos-uonuma-business-plan-2026/"
+      "url": "https://compe.japandesign.ne.jp/gunma-kotuanzen-hyougo-2026/"
     },
     {
-      "id": "tokoron-yamakaji-poster-hyogo-2026",
-      "title": "令和8年度 山火事予防ポスター用原画・標語の募集",
-      "org": "一般財団法人日本森林林業振興会 【後援】 総務省消防庁、文部科学省、林野庁、全国森林組合連合会、森林火災対策協会",
+      "id": "tokoron-osaka-chikyukankyo-digitalmedia-2026",
+      "title": "令和8年度 おおさか環境デジタルメディア学生コンテスト",
+      "org": "大阪府、豊かな環境づくり大阪府民会議",
       "type": "コンテスト",
-      "audience": "【原画の部】 全国の中学生、高校生(中等教育学校および特別支援学校等の生徒を含む) 【標語の部】 全国の中学生、高校生…",
-      "deadline": "2026年10月01日 (木) 作品提出・応募締切、消印有効 ※応募開始は6月1日(月)から",
+      "audience": "小・中・高校生、学生限定 / 応募者は、以下のいずれかに該当する方を対象とする ・府内の小学校、中学校、高等学校、大学等に在籍する学生等 ・府内在住で…",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
-      "applyEnd": "2026-10-01",
+      "applyEnd": "2026-09-30",
       "format": "submission",
       "area": {
         "scope": "national",
@@ -3686,12 +3605,66 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "森林は、雨水を貯える「緑のダム」と呼ばれ、土砂崩れを防いだり、二酸化炭素を吸収して地球温暖化を防いだり、多くの生き物の棲み家となるなど、いろいろな働きで国民の生活を守っています。 ところが、一旦山火事が発生し、森林がなく",
+      "summary": "テーマにそったデジタルポスターを募集。",
       "tags": [
-        "文章・作文",
+        "社会科学",
         "デザイン"
       ],
-      "url": "https://compe.japandesign.ne.jp/yamakaji-poster-hyogo-2026/"
+      "url": "https://compe.japandesign.ne.jp/osaka-chikyukankyo-digitalmedia-2026/"
+    },
+    {
+      "id": "tokoron-echizen-midori-tanka-2026",
+      "title": "令和8年度 海土里の短歌コンクール",
+      "org": "福井県越前町 共催:株式会社福井新聞社",
+      "type": "コンテスト",
+      "audience": "小学生以上",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「ふるさと」を題材とした短歌を募集。",
+      "tags": [
+        "短歌・俳句",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/echizen-midori-tanka-2026/"
+    },
+    {
+      "id": "tokoron-ppc-poster-2026",
+      "title": "令和8年度 個人情報に関するポスターコンクール -個人情報保護委員会創立10周年記念-",
+      "org": "個人情報保護委員会 後援:文部科学省",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 小学生・中学生・高校生",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、必着※募集開始:2026年9月1日(火)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": "2026-09-01",
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったポスター(テーマ: 個人情報保護の重要性や個人情報の有用性に関すること)を募集。",
+      "tags": [
+        "デザイン",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/ppc-poster-2026/"
     },
     {
       "id": "tokoron-osaka-seikei-art-design-2026",
@@ -3713,7 +3686,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったアート・デザイン作品 【テーマ】 「YOU」 【部門／作品ジャンル】 （1）高校生の部：グラフィックデザイン・イラストレーション／マンガ／写真／インテリア・プロダクトデザイン／ファッション／工芸／絵画／版画／立体作品／動画…",
+      "summary": "テーマにそったアート・デザイン作品(テーマ: 「YOU」)を募集。",
       "tags": [
         "アート",
         "デザイン"
@@ -3742,11 +3715,38 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "東京都内の道路上で撮影した写真 【テーマ】 （1）電柱がなければ“もっとよくなる”風景 （2）無電柱化したから“こんなにいい”風景 （3）無電柱化したい・してよかった“島”の風景（伊豆諸島、小笠原諸島等の都内島しょ部）",
+      "summary": "東京都内の道路上で撮影した写真(テーマ: （1）電柱がなければ“もっとよくなる”風景 （2）無電柱化したから“こんなにいい”風景 （3）無電柱化したい…)",
       "tags": [
         "写真"
       ],
       "url": "https://compe.japandesign.ne.jp/mudenchuka-photo-2026/"
+    },
+    {
+      "id": "tokoron-yamakaji-poster-hyogo-2026",
+      "title": "令和8年度 山火事予防ポスター用原画・標語の募集",
+      "org": "一般財団法人日本森林林業振興会 【後援】 総務省消防庁、文部科学省、林野庁、全国森林組合連合会、森林火災対策協会",
+      "type": "コンテスト",
+      "audience": "【原画の部】 全国の中学生、高校生(中等教育学校および特別支援学校等の生徒を含む) 【標語の部】 全国の中学生、高校生…",
+      "deadline": "2026年10月01日 (木) 作品提出・応募締切、消印有効 ※応募開始は6月1日(月)から",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-01",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "森林は、雨水を貯える「緑のダム」と呼ばれ、土砂崩れを防いだり、二酸化炭素を吸収して地球温暖化を防いだり、多くの生き物の棲み家となるなど、いろいろな働きで国民の生活を守っています。 ところが、一旦山火事が発生し、森林がなく",
+      "tags": [
+        "文章・作文",
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/yamakaji-poster-hyogo-2026/"
     },
     {
       "id": "tokoron-jamca-prize-2026",
@@ -3852,7 +3852,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったラジオまたはテレビCM 【テーマ】 「自転車安全利用五則」 （1）車道は原則、左側を通行／歩道は例外、歩行者を優先 （2）交差点では信号と一時停止を守って、",
+      "summary": "テーマにそったラジオまたはテレビCM(テーマ: 「自転車安全利用五則」 （1）車道は原則、左側を通行／歩道は例外、歩行者を優先 （2）交差点では信号と一時停…)",
       "tags": [
         "映像制作",
         "社会科学"
@@ -3879,7 +3879,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "ギャラリー展示が可能なオリジナル作品 【絵画】 油彩・水彩・版画等：F10号（530×455mm）程度、厚み20mm以内 イラストレーション：A3サイズ（420×297mm）以内、",
+      "summary": "ギャラリー展示が可能なオリジナル作品を募集。",
       "tags": [
         "映像制作",
         "アート"
@@ -3959,7 +3959,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった国内外で未発表の自作短歌 【テーマ】 「現代学生のものの見方・生活感覚」を詠みこんだ短歌を募集。",
+      "summary": "テーマにそった国内外で未発表の自作短歌(テーマ: 「現代学生のものの見方・生活感覚」を詠みこんだ短歌)を募集。",
       "tags": [
         "短歌・俳句"
       ],
@@ -3985,7 +3985,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表のグラフィックデザイン 【テーマ】 LOVEを募集。",
+      "summary": "テーマにそった未発表のグラフィックデザイン(テーマ: LOVE)を募集。",
       "tags": [
         "デザイン"
       ],
@@ -4039,40 +4039,13 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったアイデアやデザインの提案 【テーマ】 まち全体でスポーツに親しめる「場」づくりを募集。",
+      "summary": "テーマにそったアイデアやデザインの提案(テーマ: まち全体でスポーツに親しめる「場」づくり)を募集。",
       "tags": [
         "建築",
         "デザイン",
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/mext-sports-idea-design-2026/"
-    },
-    {
-      "id": "tokoron-ecodane-photo-2026",
-      "title": "令和8年度 いばらき自然環境フォトコンテスト",
-      "org": "茨城県、環境保全茨城県民会議",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年10月15日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-15",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった写真 【部門／テーマ】 （1）一般部門（19歳以上）：茨城県の豊かな自然の魅力を伝える写真（茨城県内の自然風景や動植物、",
-      "tags": [
-        "写真",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/ecodane-photo-2026/"
     },
     {
       "id": "tokoron-asahi-kotoba-2026",
@@ -4120,11 +4093,38 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった短編小説 【テーマ】 京都市北区を舞台に、北区の魅力が伝わり、北区を訪れたくなる作品を募集。",
+      "summary": "テーマにそった短編小説(テーマ: 京都市北区を舞台に、北区の魅力が伝わり、北区を訪れたくなる作品)を募集。",
       "tags": [
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/kyoto-kita-tanpen-2026/"
+    },
+    {
+      "id": "tokoron-ecodane-photo-2026",
+      "title": "令和8年度 いばらき自然環境フォトコンテスト",
+      "org": "茨城県、環境保全茨城県民会議",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2026年10月15日 (木) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-15",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写真を募集。",
+      "tags": [
+        "写真",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/ecodane-photo-2026/"
     },
     {
       "id": "tokoron-career-mirai-souzou-2026",
@@ -4146,7 +4146,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "高校生による、テーマにそった新たなアイデア 【テーマ】を募集。",
+      "summary": "高校生による、テーマにそった新たなアイデアを募集。",
       "tags": [
         "社会科学"
       ],
@@ -4207,7 +4207,7 @@
     },
     {
       "id": "tokoron-bisai-monozukuri-expert-bisai-creators-stu-2026",
-      "title": "EXPERT BISAI CREATORS CONTEST 2026　学生部門",
+      "title": "EXPERT BISAI CREATORS CONTEST 2026 学生部門",
       "org": "一般社団法人 微細加工工業会",
       "type": "コンテスト",
       "audience": "高校生、学生限定 / 学生(高専生、工業高校生、大学生、大学院生、専門学校生等)",
@@ -4251,7 +4251,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった風景画 【テーマ】 「私の好きな風景」 【募集区分】 （1）小学校の部（小学校5・6年生） （2）中学校の部（中学校1～3年生） （3）高校の部（高校1～3年生）",
+      "summary": "テーマにそった風景画(テーマ: 「私の好きな風景」)を募集。",
       "tags": [
         "アート"
       ],
@@ -4259,7 +4259,7 @@
     },
     {
       "id": "tokoron-akita-pu-ac-kenchiku-2026",
-      "title": "秋田県立大学　全国高校生建築提案コンテスト 2026",
+      "title": "秋田県立大学 全国高校生建築提案コンテスト 2026",
       "org": "公立大学法人 秋田県立大学",
       "type": "コンテスト",
       "audience": "高校生、学生限定 / 高校生",
@@ -4277,7 +4277,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "高校生による、テーマにそった建築的なアイデア 【テーマ】 ととのう建築 【提案形式】を募集。",
+      "summary": "高校生による、テーマにそった建築的なアイデア(テーマ: ととのう建築)を募集。",
       "tags": [
         "建築"
       ],
@@ -4303,7 +4303,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった土木デザイン 【テーマ】 「DOCKing Port」を募集。",
+      "summary": "テーマにそった土木デザイン(テーマ: 「DOCKing Port」)を募集。",
       "tags": [
         "建築",
         "デザイン"
@@ -4339,7 +4339,7 @@
     },
     {
       "id": "tokoron-okagakuen-charat-2026",
-      "title": "キャラット　キャラクターデザインサミット 2026",
+      "title": "キャラット キャラクターデザインサミット 2026",
       "org": "学校法人 岡学園トータルデザインアカデミー",
       "type": "コンテスト",
       "audience": "中・高校生限定 / 高校および中学校とそれに準ずる教育機関に在学中の生徒",
@@ -4357,7 +4357,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったオリジナルイラスト完成作品を募集。",
+      "summary": "テーマにそったオリジナルイラスト完成作品(テーマ: 夢)を募集。",
       "tags": [
         "アート",
         "デザイン"
@@ -4384,7 +4384,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "親への感謝の気持ちを伝える論文 【テーマ】 「仕事や家庭で頑張っている親へ今だから言えるありがとう」を募集。",
+      "summary": "親への感謝の気持ちを伝える論文(テーマ: 「仕事や家庭で頑張っている親へ今だから言えるありがとう」)を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -4410,7 +4410,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった動画 【テーマ】 環境問題について一人ひとりが考え、行動しよう！ ～地球温暖化、食品ロス、プラスチックごみ問題、再生可能エネルギーの普及や生態系の保護等～",
+      "summary": "テーマにそった動画(テーマ: 環境問題について一人ひとりが考え、行動しよう！ ～地球温暖化、食品ロス、プラスチックごみ問題、再生可能エネル…)",
       "tags": [
         "映像制作",
         "社会科学"
@@ -4437,7 +4437,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "JAMマスコットキャラクター「ハンナ」を擬人化したオリジナルイラスト完成作品 【テーマ】 JAMマスコットキャラクター「ハンナ」を擬人化しよう！！",
+      "summary": "JAMマスコットキャラクター「ハンナ」を擬人化したオリジナルイラスト完成作品(テーマ: JAMマスコットキャラクター「ハンナ」を擬人化しよう！！)",
       "tags": [
         "映像制作",
         "アート"
@@ -4472,32 +4472,6 @@
       "url": "https://compe.japandesign.ne.jp/ishibashi-bunka-aoki-shigeru-2026/"
     },
     {
-      "id": "tokoron-manyounosato-koinouta-2026",
-      "title": "第28回 万葉の里 短歌募集「あなたを想う恋のうた」",
-      "org": "万葉の里・恋のうた募集実行委員会 共催:福井県越前市、越前市教育委員会、公益財団法人 越前市文化振興・施設管理事業団",
-      "type": "コンテスト",
-      "audience": "高校生以上",
-      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-31",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表オリジナルの短歌 【テーマ】 あなたを想う恋のうたを募集。",
-      "tags": [
-        "短歌・俳句"
-      ],
-      "url": "https://compe.japandesign.ne.jp/manyounosato-koinouta-2026/"
-    },
-    {
       "id": "tokoron-hyouten-miura-ayako-sakubun-2026",
       "title": "第28回 三浦綾子作文賞",
       "org": "三浦綾子記念文学館 共催:北海道新聞旭川支社、北海道上富良野町、北海道和寒町、北海道旭川市",
@@ -4524,8 +4498,34 @@
       "url": "https://compe.japandesign.ne.jp/hyouten-miura-ayako-sakubun-2026/"
     },
     {
+      "id": "tokoron-manyounosato-koinouta-2026",
+      "title": "第28回 万葉の里 短歌募集「あなたを想う恋のうた」",
+      "org": "万葉の里・恋のうた募集実行委員会 共催:福井県越前市、越前市教育委員会、公益財団法人 越前市文化振興・施設管理事業団",
+      "type": "コンテスト",
+      "audience": "高校生以上",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった未発表オリジナルの短歌(テーマ: あなたを想う恋のうた)を募集。",
+      "tags": [
+        "短歌・俳句"
+      ],
+      "url": "https://compe.japandesign.ne.jp/manyounosato-koinouta-2026/"
+    },
+    {
       "id": "tokoron-yomiuri-photogp-teen-2026",
-      "title": "第48回 よみうり写真大賞　中高生フォト部門",
+      "title": "第48回 よみうり写真大賞 中高生フォト部門",
       "org": "読売新聞社",
       "type": "コンテスト",
       "audience": "中・高校生限定 / 2026年4月時点で中学・高校またはそれに準ずる学校に在学している方",
@@ -4543,11 +4543,37 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の写真 【テーマ】 題材は不問、学校行事や身近な生活等を中学生、高校生らしい視点でとらえることを募集。",
+      "summary": "テーマにそった未発表の写真(テーマ: 題材は不問、学校行事や身近な生活等を中学生、高校生らしい視点でとらえること)を募集。",
       "tags": [
         "写真"
       ],
       "url": "https://compe.japandesign.ne.jp/yomiuri-photogp-teen-2026/"
+    },
+    {
+      "id": "tokoron-machien-hamamatsu-bungaku-2026",
+      "title": "第5回 高校生やらまいか文学賞",
+      "org": "浜松文芸フォーラム",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 高校生",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高校生による小説・エッセイ・童話を募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/machien-hamamatsu-bungaku-2026/"
     },
     {
       "id": "tokoron-nodff-2026",
@@ -4577,32 +4603,6 @@
       "url": "https://compe.japandesign.ne.jp/nodff-2026/"
     },
     {
-      "id": "tokoron-machien-hamamatsu-bungaku-2026",
-      "title": "第5回 高校生やらまいか文学賞",
-      "org": "浜松文芸フォーラム",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校生",
-      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-31",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による小説・エッセイ・童話を募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/machien-hamamatsu-bungaku-2026/"
-    },
-    {
       "id": "tokoron-conomi-seifuku-design-award-2026",
       "title": "第9回 日本制服デザインアワード",
       "org": "株式会社このみ 共催:文化服装学院",
@@ -4622,7 +4622,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそったデザイン画 【テーマ】 あなたが「今、一番着たい制服デザイン」を募集。",
+      "summary": "テーマにそったデザイン画(テーマ: あなたが「今、一番着たい制服デザイン」)を募集。",
       "tags": [
         "デザイン"
       ],
@@ -4630,7 +4630,7 @@
     },
     {
       "id": "tokoron-towada-yabusame-umatan-2026",
-      "title": "馬探 2026　～地域の馬の歴史・文化探究コンテスト～",
+      "title": "馬探 2026 ～地域の馬の歴史・文化探究コンテスト～",
       "org": "十和田流鏑馬観光連盟 共催:十和田乗馬倶楽部、Future Generations",
       "type": "コンテスト",
       "audience": "中・高校生、学生限定 / ●中学生・高校生・専門学校生・大学生または相応する年齢の方",
@@ -4648,7 +4648,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった作品 【テーマ】 自分たちの地域と「馬」との関りが感じられる作品を募集。",
+      "summary": "テーマにそった作品(テーマ: 自分たちの地域と「馬」との関りが感じられる作品)を募集。",
       "tags": [
         "研究発表",
         "地域活動"
@@ -4683,11 +4683,11 @@
           "長野県",
           "新潟県"
         ],
-        "note": "関東弁護士会連合会管内の都県（東京都、神奈川県、埼玉県、千葉県、茨城県、栃木県、群馬県、静岡県、山梨県、長野県、新潟県）内の小学校5年生～高校3年生の方"
+        "note": "関東弁護士会連合会管内の都県(東京都、神奈川県、埼玉県、千葉県、茨城県、栃木県、群馬県、静岡県、山梨県、長野県、新潟県)内の小学校5年生~高校3年生の方"
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の川柳 【テーマ】 日本国憲法を募集。",
+      "summary": "テーマにそった未発表の川柳(テーマ: 日本国憲法)を募集。",
       "tags": [
         "短歌・俳句",
         "社会科学"
@@ -4741,7 +4741,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった映像作品 【テーマ】 SDGsに関する活動および国際交流・国際協力の活動について多角的な視点で捉えた映像作品",
+      "summary": "テーマにそった映像作品(テーマ: SDGsに関する活動および国際交流・国際協力の活動について多角的な視点で捉えた映像作品)",
       "tags": [
         "映像制作",
         "多文化交流",
@@ -5005,7 +5005,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった新製品・新商品のアイデアおよびデザインを募集。",
+      "summary": "テーマにそった新製品・新商品のアイデアおよびデザイン(テーマ: （1）株式会社英田エンジニアリング：コインパーキングにおける自転車もしくは自動二輪車の物理的なロック装置 （…)",
       "tags": [
         "デザイン"
       ],
@@ -5031,37 +5031,11 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった「創作ことわざ」 【テーマ】 友達を募集。",
+      "summary": "テーマにそった「創作ことわざ」(テーマ: 友達)を募集。",
       "tags": [
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/kotowaza-kentei-creative-2026/"
-    },
-    {
-      "id": "tokoron-sekkei-ryokou-plan-2026",
-      "title": "木の家設計グランプリ 2027",
-      "org": "株式会社エスクナレッジ、株式会社キャリア・ナビゲーション",
-      "type": "コンテスト",
-      "audience": "高校生・学生限定 / 住宅建築のプロを目指す、全国の建築学生",
-      "deadline": "2026年11月30日 (月) 事前登録締切、必着※作品提出期間:2026年12月1日(火)~2027年1月15日(金)15:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表の木造住宅のアイディア 【テーマ】 「澄む家」を募集。",
-      "tags": [
-        "建築"
-      ],
-      "url": "https://compe.japandesign.ne.jp/sekkei-ryokou-plan-2026/"
     },
     {
       "id": "tokoron-komoro-toson-bungaku-2026",
@@ -5165,11 +5139,37 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった未発表の写真 【テーマ】 北海道内の街路樹（街路にそって列植されている樹木）を募集。",
+      "summary": "テーマにそった未発表の写真(テーマ: 北海道内の街路樹（街路にそって列植されている樹木）)を募集。",
       "tags": [
         "写真"
       ],
       "url": "https://compe.japandesign.ne.jp/hokuzoukyou-photo-2026/"
+    },
+    {
+      "id": "tokoron-sekkei-ryokou-plan-2026",
+      "title": "木の家設計グランプリ 2027",
+      "org": "株式会社エスクナレッジ、株式会社キャリア・ナビゲーション",
+      "type": "コンテスト",
+      "audience": "高校生・学生限定 / 住宅建築のプロを目指す、全国の建築学生",
+      "deadline": "2026年11月30日 (月) 事前登録締切、必着※作品提出期間:2026年12月1日(火)~2027年1月15日(金)15:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった未発表の木造住宅のアイディア(テーマ: 「澄む家」)を募集。",
+      "tags": [
+        "建築"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sekkei-ryokou-plan-2026/"
     },
     {
       "id": "tokoron-k-manabonect-youtubekoshien-2026",
@@ -5191,7 +5191,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった動画 【テーマ】 Grapp!を募集。",
+      "summary": "テーマにそった動画(テーマ: Grapp!)を募集。",
       "tags": [
         "映像制作",
         "地域活動"
@@ -5218,7 +5218,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "小泉八雲作品を対象とする未発表の感想文または詩 【対象図書（感想文・詩共通）】 小泉八雲の作品（講義録・手紙等を含む）または小泉八雲の生涯に関する作品 【感想文部門】 （1）小学生の部 （2）中学生の部 （3）高校生の部 （4）一般の部…",
+      "summary": "小泉八雲作品を対象とする未発表の感想文または詩を募集。",
       "tags": [
         "文章・作文"
       ],
@@ -5244,7 +5244,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "スマートフォンやタブレットで動作する、オリジナルのアプリケーションの企画概要書 【テーマ】 自分が住んでいる、または高校がある市区町村または都道府県の課題を解決するアプリ",
+      "summary": "スマートフォンやタブレットで動作する、オリジナルのアプリケーションの企画概要書(テーマ: 自分が住んでいる、または高校がある市区町村または都道府県の課題を解決するアプリ)",
       "tags": [
         "プログラミング"
       ],
@@ -5297,7 +5297,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "電動アシスト自転車を活用して地域を元気にするアイデア 【探究ミッション】 2035年の「当たり前」を創り出せ！ 電動アシスト自転車の技術と発想で、この街の未来をリデザインせよ",
+      "summary": "電動アシスト自転車を活用して地域を元気にするアイデアを募集。",
       "tags": [
         "地域活動",
         "デザイン",
@@ -5325,7 +5325,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった写真 【テーマ】 わたしの推しを募集。",
+      "summary": "テーマにそった写真(テーマ: わたしの推し)を募集。",
       "tags": [
         "写真"
       ],
@@ -5333,7 +5333,7 @@
     },
     {
       "id": "tokoron-jalc-design-2027",
-      "title": "第53回 全国造園デザインコンクール　住宅庭園部門・街区公園部門・商業施設部門・実習作品部門",
+      "title": "第53回 全国造園デザインコンクール 住宅庭園部門・街区公園部門・商業施設部門・実習作品部門",
       "org": "一般社団法人 日本造園建設業協会 共催:一般社団法人 ランドスケープコンサルタンツ協会",
       "type": "コンテスト",
       "audience": "【高校生の部】 造園に興味を持つ方または、高等学校において造園に関する科目を履修している方 【大学・一般の部】 造園に興味を持つ…",
@@ -5378,7 +5378,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "高校生による個人制作作品 【テーマ】 記憶を募集。",
+      "summary": "高校生による個人制作作品(テーマ: 記憶)を募集。",
       "tags": [
         "映像制作",
         "建築",
@@ -5432,7 +5432,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった論文 【テーマ】 「科学技術と日本の将来」を主題とし、副題は自由に付けることを募集。",
+      "summary": "テーマにそった論文(テーマ: 「科学技術と日本の将来」を主題とし、副題は自由に付けること)を募集。",
       "tags": [
         "文章・作文",
         "自然科学"
@@ -5457,11 +5457,11 @@
         "prefectures": [
           "福岡県"
         ],
-        "note": "【小学生の部】 福岡県内の小学校4・5・6年生 【中高生の部】 福岡県内の中学生および高校生 【学生・一般の部】 18歳以上（高校生は除く）"
+        "note": "【小学生の部】 福岡県内の小学校4・5・6年生 【中高生の部】 福岡県内の中学生および高校生 【学生・一般の部】 18歳以上(高校生は除く)"
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "福岡県内の風景を描いたオリジナル未発表の原画を募集。",
+      "summary": "福岡県内の風景を描いたオリジナル未発表の原画(テーマ: 「みんなに見せたい わたしのまちの風景」)を募集。",
       "tags": [
         "建築",
         "アート"
@@ -5470,7 +5470,7 @@
     },
     {
       "id": "tokoron-rose-theatre-art-generation-2027",
-      "title": "新進アーティスト作品展 vol.25　Art Generation 2027",
+      "title": "新進アーティスト作品展 vol.25 Art Generation 2027",
       "org": "公益財団法人富士市文化振興財団",
       "type": "コンテスト",
       "audience": "【一般の部】 ●作家を志し、美術を通して自分を表現することに情熱をかけている方 ●18~35歳まで(2026年4月1日現在) ●…",
@@ -5486,7 +5486,7 @@
         "prefectures": [
           "静岡県"
         ],
-        "note": "【一般の部】 ●作家を志し、美術を通して自分を表現することに情熱をかけている方 ●18～35歳まで（2026年4月1日現在） ●静岡県出身者および在住、在学、在勤の方 【高校生の部】 静岡県内の高校生"
+        "note": "【一般の部】 ●作家を志し、美術を通して自分を表現することに情熱をかけている方 ●18~35歳まで(2026年4月1日現在) ●静岡県出身者および在住、在学、在勤の方 【高校生の部】 静岡県内の高校生"
       },
       "venue": null,
       "onlineTool": null,
@@ -5517,7 +5517,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった2～5分の動画 【テーマ】 「SDGs／サステナビリティを考え行動して発信する」を募集。",
+      "summary": "テーマにそった2～5分の動画(テーマ: 「SDGs／サステナビリティを考え行動して発信する」)を募集。",
       "tags": [
         "社会科学",
         "映像制作"

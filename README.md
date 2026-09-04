@@ -77,20 +77,34 @@ Claude側の毎日の自動更新タスクが、このリポジトリの `data.j
 - データの書き方: [docs/data-schema.md](docs/data-schema.md)
 - 日次更新タスクの指示文: [docs/daily-update-prompt.md](docs/daily-update-prompt.md)
 
-### データの検証
+### データの更新の仕組み
 
-`data.json` を手で直したときは、コミット前にこれを実行すると壊れていないか確認できます。
+`data.json` は**自動生成されるファイル**です。直接編集しても翌朝上書きされます。
 
-```bash
-node scripts/validate-data.mjs
+```
+data/manual-candidates.json  ┐
+                             ├─ scripts/fetch-tokoron.mjs ─→ data.json ─→ Vercel
+登竜門(毎朝スクレイピング)      ┘
 ```
 
-GitHub Actions でも自動で走ります。
+GitHub Actions が**毎日 06:00 JST**に登竜門から収集し、検証してから自動コミットします。
+push されると Vercel が再デプロイします。
 
-- `main` への push / Pull Request のたびに → 構造チェック(日付の形式、開催形式の値、ID重複など)
-- 毎日 09:00 JST に → 構造チェック + 鮮度チェック。`lastSyncedAt` が48時間以上更新されていなければ
-  **ワークフローを失敗させて通知**します(＝日次の収集タスクが止まったことに気づけます)
-- 実行ログは GitHub の「Actions」タブに残ります
+- 登竜門の約200件は**スクリプトが機械的に収集**します(APIの課金なし・Macの電源も不要)
+- Qulii・Peatix・早稲田塾など、判断が必要なものは `data/manual-candidates.json` に手で追加します。
+  **ここに置いた候補は自動更新で消えません**
+- この作りのため、誰かが `data.json` を古い内容で上書きしても翌朝の実行で元に戻ります
+
+手元で試すときは以下のとおりです。
+
+```bash
+node scripts/fetch-tokoron.mjs --dry-run   # 収集して件数だけ確認(書き換えない)
+node scripts/fetch-tokoron.mjs             # 収集して data.json を作り直す
+node scripts/validate-data.mjs             # data.json の検証
+```
+
+収集に失敗したとき(サイト構造の変更、取得失敗が1割超など)は**ワークフローが失敗して通知**され、
+`data.json` は壊れた内容で上書きされません。ログは GitHub の「Actions」タブに残ります。
 
 ---
 
