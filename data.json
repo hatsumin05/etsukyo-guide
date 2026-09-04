@@ -12,6 +12,12 @@
       "name": "登竜門(学生向けカテゴリ)",
       "url": "https://compe.japandesign.ne.jp/category/student/",
       "note": "コンテスト・公募の学生向けカテゴリ。高校生が対象に含まれるものを優先"
+    },
+    {
+      "id": "wasedajuku-tankyumatome",
+      "name": "早稲田塾「探究に役立つ！高校生のための『課外活動』まとめサイト」",
+      "url": "https://www.wasedajuku.com/sns/aosuisen_uni/tankyumatome",
+      "note": "コンテスト・公開講座・ワークショップ・弁論大会・体験実習など課外活動情報を幅広く掲載"
     }
   ],
   "candidates": [
