@@ -1,6 +1,6 @@
 {
   "lastSynced": "2026-09-08",
-  "lastSyncedAt": "2026-09-08T08:41:07+09:00",
+  "lastSyncedAt": "2026-09-08T08:50:33+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -2249,6 +2249,39 @@
         "多文化交流"
       ],
       "url": "https://compe.japandesign.ne.jp/janic-idea-2026/"
+    },
+    {
+      "id": "manual-afs-year-2027",
+      "title": "AFS年間派遣プログラム 2027年出発(第74期)",
+      "org": "公益財団法人AFS日本協会",
+      "type": "留学プログラム",
+      "audience": "高校生・10代 / 派遣先は約30か国",
+      "deadline": "C日程 応募締切 2026年9月29日(火)正午 ※選考試験 2026年10月11日(日)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": "2026-08-21",
+      "applyEnd": "2026-09-29",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": null
+      },
+      "onlineTool": null,
+      "summary": "ホームステイをしながら現地の高校に1学年間通う交換留学。約30か国へ約300人を派遣し、100人以上の奨学金枠がある。",
+      "tags": [
+        "留学",
+        "多文化交流",
+        "英語"
+      ],
+      "url": "https://www.afs.or.jp/goabroad/year-programs/"
     },
     {
       "id": "tokoron-tbc-u-illust-cg-2026",
@@ -5488,6 +5521,39 @@
       "url": "https://compe.japandesign.ne.jp/kyoto-bungaku-2027/"
     },
     {
+      "id": "manual-aig-hsd",
+      "title": "AIG高校生外交官プログラム",
+      "org": "AIG高校生外交官プログラム実行委員会",
+      "type": "留学プログラム",
+      "audience": "高校2・3年生 / 参加費無料",
+      "deadline": "2026年の募集は終了(1月29日締切)。次回の募集要項は例年12月初旬に公開(要公式確認)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": null,
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": null
+      },
+      "onlineTool": null,
+      "summary": "日米の高校生が共同生活をしながら学び合う参加費無料のプログラム。1987年の発足以来、約1,700人の日本の高校生が参加している。",
+      "tags": [
+        "留学",
+        "多文化交流",
+        "英語"
+      ],
+      "url": "https://www.highschooldiplomats.org/"
+    },
+    {
       "id": "mystory-project-briefing-2026",
       "title": "My Story Project 説明会",
       "org": "Grow and Leap",
@@ -5512,6 +5578,103 @@
         "社会科学"
       ],
       "url": "https://growandleap.com/my-story-project/"
+    },
+    {
+      "id": "manual-uwc-2027",
+      "title": "UWC 2027年度派遣生 募集",
+      "org": "UWC日本協会(経団連)",
+      "type": "奨学金",
+      "audience": "高校1年生 / 世界各地のUWCへ2年間",
+      "deadline": "募集要項は2026年10月下旬に公表予定。一次選考 2026年11月29日(日)、二次選考 2027年1月25日(月)(予定)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": null,
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": null
+      },
+      "onlineTool": null,
+      "summary": "世界各地のUWC(全寮制の国際高校)で2年間、国際バカロレアDPに沿った教育を受けられる奨学金プログラム。",
+      "tags": [
+        "留学",
+        "多文化交流",
+        "英語"
+      ],
+      "url": "https://www.keidanren.or.jp/japanese/profile/UWC/invitation2027.html"
+    },
+    {
+      "id": "manual-yfu-hs",
+      "title": "YFU 高校生留学派遣プログラム",
+      "org": "公益財団法人YFU日本国際交流財団",
+      "type": "留学プログラム",
+      "audience": "高校生 / 派遣先は15か国",
+      "deadline": "選考は年に数回実施。次回の募集期間は公式サイトでご確認ください",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": null,
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": null
+      },
+      "onlineTool": null,
+      "summary": "米国・ドイツ・フィンランドなど15か国で、ホームステイをしながら現地の高校に1学年間通う交換留学プログラム。",
+      "tags": [
+        "留学",
+        "多文化交流"
+      ],
+      "url": "https://yfu.jp/abroad/"
+    },
+    {
+      "id": "manual-tobitate-hs",
+      "title": "トビタテ！留学JAPAN 新・日本代表プログラム(高校生等対象)",
+      "org": "文部科学省 / 日本学生支援機構(JASSO)",
+      "type": "奨学金",
+      "audience": "高校生等 / 返済不要の給付型",
+      "deadline": "第11期の募集は終了。第12期は2026年秋ごろ公開予定(要公式確認)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": null,
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": null
+      },
+      "onlineTool": null,
+      "summary": "返済不要の給付型奨学金で留学を支援する文部科学省の制度。語学留学だけでなく、海外でのインターンやボランティアも対象になる。",
+      "tags": [
+        "留学",
+        "多文化交流"
+      ],
+      "url": "https://tobitate-mext.jasso.go.jp/hs/"
     }
   ]
 }
