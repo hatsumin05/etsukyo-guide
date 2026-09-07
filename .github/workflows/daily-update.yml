@@ -1,0 +1,58 @@
+name: 毎日のイベント情報更新
+
+# 目的:
+#  1) 毎朝、登竜門から高校生向けコンテストを収集して data.json を作り直す
+#     (push されると Vercel が自動で再デプロイする)
+#  2) data.json が壊れていないか検証する
+#
+# data.json は「data/manual-candidates.json + 登竜門の収集結果」で毎回作り直されるため、
+# 誰かが古い内容で上書きしても、翌朝の実行で元に戻る。
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 毎日 06:00 JST (= 前日 21:00 UTC)
+  workflow_dispatch:       # 手動でも実行できるようにする
+  push:
+    branches: [main]
+    paths:                 # データや収集ロジックを直したときは検証だけ走らせる
+      - "data.json"
+      - "data/manual-candidates.json"
+      - "scripts/**"
+
+permissions:
+  contents: write          # data.json をコミットするために必要
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # push で起動したときは収集せず、検証だけを行う
+      - name: 登竜門から収集
+        if: github.event_name != 'push'
+        run: node scripts/fetch-tokoron.mjs
+
+      - name: data.json を検証
+        run: node scripts/validate-data.mjs
+
+      - name: 変更があればコミットする
+        if: github.event_name != 'push'
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "変更なし。コミットしません"
+            exit 0
+          fi
+          COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data.json','utf8')).candidates.length)")
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "data: 日次更新 $(TZ=Asia/Tokyo date +%Y-%m-%d) (候補 ${COUNT}件)"
+          git push
