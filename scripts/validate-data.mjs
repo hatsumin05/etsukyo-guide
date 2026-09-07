@@ -100,15 +100,15 @@ function checkVenue(where, candidate) {
     return;
   }
   for (const key of Object.keys(venue)) {
-    if (!["name", "address", "prefecture"].includes(key)) {
-      err(`${where}: venue に未知のキー "${key}" があります (name / address / prefecture のみ)`);
+    if (!["name", "address", "prefecture", "country"].includes(key)) {
+      err(`${where}: venue に未知のキー "${key}" があります (name / address / prefecture / country のみ)`);
     }
     const v = venue[key];
     if (v !== null && typeof v !== "string") {
       err(`${where}: venue.${key} は文字列か null にしてください`);
     }
   }
-  const filled = ["name", "address", "prefecture"].filter((k) => typeof venue[k] === "string" && venue[k].trim() !== "");
+  const filled = ["name", "address", "prefecture", "country"].filter((k) => typeof venue[k] === "string" && venue[k].trim() !== "");
   if (filled.length === 0 && (format === "onsite" || format === "hybrid")) {
     warn(`${where}: format="${format}" ですが venue の中身が空です`);
   }

@@ -211,6 +211,7 @@
   .format-badge.is-hybrid{ background:var(--info-bg); color:var(--info-ink); border-color:var(--accent); }
   .format-badge.is-submission{ background:var(--chip-bg); color:var(--chip-ink); border-color:var(--border); }
   .format-badge.is-unknown{ background:var(--surface-2); color:var(--ink-soft); border-color:var(--border-strong); }
+  .format-badge.is-abroad{ background:var(--info-bg); color:var(--info-ink); border-color:var(--info-ink); }
 
   .badge-row{ display:flex; flex-wrap:wrap; gap:6px; align-items:center; }
 
@@ -435,9 +436,21 @@
     });
   }
   // 一覧のバッジ用: 「会場開催・宮城県」のように場所を1つだけ添える
+  // 海外開催かどうか。venue.name に「海外」が入っているものを海外として扱う
+  function isAbroad(c){
+    var v = c && c.venue;
+    return !!(v && typeof v === "object" && typeof v.name === "string" && v.name.indexOf("海外") === 0);
+  }
   function formatBadgeHtml(c){
     var meta = formatMetaOf(c);
     var label = meta.label;
+    if(isAbroad(c)){
+      // 海外開催は目的が明確なので、会場の表記より先に「海外」と分かるようにする
+      var v = c.venue;
+      var place = (typeof v.country === "string" && v.country) ? v.country : "";
+      return '<span class="format-badge is-abroad">' + GLOBE_SVG +
+        escapeHtml("海外開催" + (place ? "・" + place : "")) + '</span>';
+    }
     if((c.format === "onsite" || c.format === "hybrid")){
       var parts = venueParts(c);
       if(parts.length > 0) label += "・" + parts[0];
@@ -540,7 +553,7 @@
       ? detailRow("応募期間", applyText)
       : detailRow("応募期間", "公式サイトでご確認ください", true);
 
-    rows += detailRow("開催形式", formatMetaOf(c).label);
+    rows += detailRow("開催形式", isAbroad(c) ? "海外開催" : formatMetaOf(c).label);
 
     var areaText = areaDetailText(c);
     if(areaText) rows += detailRow("対象地域", areaText);

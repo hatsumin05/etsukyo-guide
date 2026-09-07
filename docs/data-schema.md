@@ -8,12 +8,14 @@
 `data.json` を直接編集しても、翌朝の自動更新で**上書きされます**。
 
 ```
-data/manual-candidates.json  ┐
-                             ├─ scripts/fetch-tokoron.mjs ─→ data.json
-登竜門(毎朝スクレイピング)      ┘
+data/manual-candidates.json      ┐
+登竜門(コンテスト)                ├─ scripts/fetch-tokoron.mjs ─→ data.json
+きっかけポータル(海外・奨学金等)   ┘
 ```
 
 - **登竜門のコンテスト**: `scripts/fetch-tokoron.mjs` が毎朝収集して作り直します。手で編集しないでください
+- **きっかけポータル**: `scripts/fetch-kikkake.mjs` が「高校生 × 募集中」を収集します。
+  登竜門では拾えない海外プログラム・国際交流・奨学金・インターンを補います
 - **それ以外の候補**(Qulii・Peatix・meta-school など): [`data/manual-candidates.json`](../data/manual-candidates.json)
   に書きます。ここに置いた候補は自動更新で消えません
 - `sources`(調査対象サイトの一覧)も `data/manual-candidates.json` で管理します
@@ -144,11 +146,16 @@ GitHub Actions の鮮度チェック(48時間以上更新がなければ失敗)�
 "venue": {
   "name":       "仙台市市民活動サポートセンター",  // 会場名 / 不明なら null
   "address":    "宮城県仙台市青葉区一番町4-1-3",   // 住所 / 不明なら null
-  "prefecture": "宮城県"                          // 都道府県 / 不明なら null
+  "prefecture": "宮城県",                         // 都道府県 / 不明なら null
+  "country":    null                              // 海外開催のときだけ国名 / 不明なら null
 }
 ```
 
-3つのキー以外を入れると**エラー**になります。会場情報がまったく無い場合は `venue` 自体を `null` に。
+**海外開催**の場合は `name` に `"海外"` を入れます。一覧では専用のバッジ
+「🌍 海外開催・イギリス」として表示されます(`country` があれば国名も添えます)。
+国名は公式の記載やタイトルに明記されているものだけを入れ、**推測しないでください**。
+
+4つのキー以外を入れると**エラー**になります。会場情報がまったく無い場合は `venue` 自体を `null` に。
 一覧のバッジには `prefecture` → `name` → `address` の順で最初に見つかった1つが表示され、
 詳細パネルには 3つすべてが表示されます。
 

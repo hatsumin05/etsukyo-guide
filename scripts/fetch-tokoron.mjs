@@ -10,6 +10,7 @@
 
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { fetchKikkake } from "./fetch-kikkake.mjs";
 
 const ROOT = process.cwd();
 const DATA = path.join(ROOT, "data.json");
@@ -363,12 +364,40 @@ async function main() {
     process.exit(1);
   }
 
+  // きっかけポータル(海外プログラム・国際交流・奨学金・インターン)を追加で収集する。
+  // ここが失敗しても登竜門の結果は残す
+  let kikkake = [];
+  try {
+    kikkake = await fetchKikkake(console.log);
+  } catch (e) {
+    console.warn(`きっかけポータルの収集に失敗しました(登竜門の結果はそのまま使います): ${e.message}`);
+  }
+
   const manual = JSON.parse(await readFile(MANUAL, "utf8"));
   const manualCandidates = manual.candidates || [];
-  const scrapedUrls = new Set(built.map((c) => c.url));
-  const kept = manualCandidates.filter((c) => !scrapedUrls.has(c.url));
 
-  const candidates = [...kept, ...built].sort((a, b) =>
+  // 同じ募集が複数のサイトに載っていることがあるので、タイトルで重複を除く。
+  // 情報が詳しい登竜門を優先し、次にきっかけポータル、手動管理のものは常に残す
+  const titleKey = (t) => (t || "")
+    .normalize("NFKC")
+    .replace(/[\s\u3000]/g, "")
+    .replace(/第\d+回|20\d\d年度?|20\d\d|《[^》]*》|｜.*$|\|.*$/g, "")
+    .toLowerCase();
+
+  const seenTitles = new Set(built.map((c) => titleKey(c.title)));
+  const kikkakeKept = [];
+  for (const c of kikkake) {
+    const k = titleKey(c.title);
+    if (seenTitles.has(k)) { console.log(`  重複のため除外: ${c.title.slice(0, 40)}`); continue; }
+    seenTitles.add(k);
+    kikkakeKept.push(c);
+  }
+
+  const scrapedUrls = new Set([...built, ...kikkakeKept].map((c) => c.url));
+  const kept = manualCandidates.filter(
+    (c) => !scrapedUrls.has(c.url) && !seenTitles.has(titleKey(c.title)));
+
+  const candidates = [...kept, ...kikkakeKept, ...built].sort((a, b) =>
     (a.applyEnd || "9999-99-99").localeCompare(b.applyEnd || "9999-99-99") ||
     (a.title || "").localeCompare(b.title || "", "ja"));
 
@@ -388,7 +417,8 @@ async function main() {
   let before = 0;
   try { before = JSON.parse(await readFile(DATA, "utf8")).candidates.length; } catch { /* 初回 */ }
   console.log(`\n候補: ${before}件 -> ${candidates.length}件 ` +
-              `(手動管理 ${kept.length}件 + 登竜門 ${built.length}件)`);
+              `(手動管理 ${kept.length}件 + きっかけポータル ${kikkakeKept.length}件 + 登竜門 ${built.length}件)`);
+  console.log(`海外開催 ${candidates.filter((c) => c.venue?.name === "海外").length}件`);
   console.log(`地域限定 ${candidates.filter((c) => c.area?.scope === "regional").length}件 / ` +
               `要確認(unknown) ${candidates.filter((c) => c.area?.scope === "unknown").length}件`);
 

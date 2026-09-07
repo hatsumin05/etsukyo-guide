@@ -82,15 +82,18 @@ Claude側の毎日の自動更新タスクが、このリポジトリの `data.j
 `data.json` は**自動生成されるファイル**です。直接編集しても翌朝上書きされます。
 
 ```
-data/manual-candidates.json  ┐
-                             ├─ scripts/fetch-tokoron.mjs ─→ data.json ─→ Vercel
-登竜門(毎朝スクレイピング)      ┘
+data/manual-candidates.json      ┐
+登竜門(コンテスト)                ├─ scripts/fetch-tokoron.mjs ─→ data.json ─→ Vercel
+きっかけポータル(海外・奨学金等)   ┘
 ```
 
 GitHub Actions が**毎日 06:00 JST**に登竜門から収集し、検証してから自動コミットします。
 push されると Vercel が再デプロイします。
 
 - 登竜門の約200件は**スクリプトが機械的に収集**します(APIの課金なし・Macの電源も不要)
+- きっかけポータルからは、登竜門にはない**海外プログラム・国際交流・奨学金・インターン**を収集します。
+  海外開催のものは一覧に「🌍 海外開催・イギリス」のようなバッジが出て、興味タグ「留学」で絞り込めます
+- 同じ募集が両方のサイトに載っていることがあるため、タイトルで重複を除いています
 - Qulii・Peatix・早稲田塾など、判断が必要なものは `data/manual-candidates.json` に手で追加します。
   **ここに置いた候補は自動更新で消えません**
 - この作りのため、誰かが `data.json` を古い内容で上書きしても翌朝の実行で元に戻ります
