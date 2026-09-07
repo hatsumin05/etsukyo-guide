@@ -95,8 +95,31 @@
   .sidebar{
     background:var(--surface); border:1px solid var(--border); border-radius:16px;
     padding:18px 16px 20px; box-shadow:var(--shadow); position:sticky; top:20px;
+    /* タグが増えて画面の高さを超えると、sticky だけでは下端が見えなくなる。
+       サイドバー全体を画面内に収め、タグ一覧の中だけをスクロールさせる */
+    display:flex; flex-direction:column;
+    max-height:calc(100vh - 40px);
+    max-height:calc(100dvh - 40px);
   }
-  @media (max-width:820px){ .sidebar{ position:static; } }
+  /* 見出しと「選択をクリア」は固定し、常に押せるようにする */
+  .sidebar > .sidebar-head{ flex:none; }
+  .sidebar > #tagGroups{
+    flex:1 1 auto; min-height:0; overflow-y:auto; overscroll-behavior:contain;
+    /* スクロールバーの分だけ内側に余白を作り、チップが隠れないようにする */
+    margin-right:-6px; padding-right:6px;
+    scrollbar-width:thin; scrollbar-color:var(--border-strong) transparent;
+  }
+  .sidebar > #tagGroups::-webkit-scrollbar{ width:8px; }
+  .sidebar > #tagGroups::-webkit-scrollbar-thumb{
+    background:var(--border-strong); border-radius:999px;
+  }
+  .sidebar > #tagGroups::-webkit-scrollbar-track{ background:transparent; }
+
+  /* 縦積みになる幅では入れ子スクロールにせず、そのまま全部見せる */
+  @media (max-width:820px){
+    .sidebar{ position:static; max-height:none; display:block; }
+    .sidebar > #tagGroups{ overflow:visible; margin-right:0; padding-right:0; }
+  }
   .sidebar-head{ display:flex; align-items:center; justify-content:space-between; margin-bottom:14px; }
   .sidebar-title{ display:flex; align-items:center; gap:6px; font-weight:700; font-size:14.5px; }
   .sidebar-title svg{ width:16px; height:16px; color:var(--accent-strong); }
