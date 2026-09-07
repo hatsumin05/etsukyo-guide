@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-04",
-  "lastSyncedAt": "2026-09-04T22:53:48+09:00",
+  "lastSynced": "2026-09-08",
+  "lastSyncedAt": "2026-09-08T08:27:34+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -29,246 +29,6 @@
   ],
   "candidates": [
     {
-      "id": "tokoron-koukou-essay-14-2026",
-      "title": "2026年度 第14回 大谷大学 文藝コンテスト",
-      "org": "大谷大学",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 高校生",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による小説、または中高生によるエッセイを募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/koukou-essay-14-2026/"
-    },
-    {
-      "id": "tokoron-voutrail-fashion-design-2026",
-      "title": "ヴォートレイル 高校生ファッションデザイン画コンテスト 2026",
-      "org": "学校法人 大阪文化服装学院 ヴォートレイル ファッション アカデミー",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 全国の高校生(高等専修学校生も含む)",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切、必着※持参の場合は、平日9:00~17:00受付",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったファッションデザイン画(テーマ: 「今」を感じる服)を募集。",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/voutrail-fashion-design-2026/"
-    },
-    {
-      "id": "tokoron-southeast-asia-essay-2026",
-      "title": "第10回 高校生 東南アジア小論文コンテスト",
-      "org": "神田外語大学",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 締切日時点で全国の高等学校に在学中の生徒",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切、消印有効※Web応募の場合は、14:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "日本語で書かれた未発表オリジナルの小論文を募集。",
-      "tags": [
-        "文章・作文",
-        "多文化交流"
-      ],
-      "url": "https://compe.japandesign.ne.jp/southeast-asia-essay-2026/"
-    },
-    {
-      "id": "tokoron-yamanashi-lib-okuritaihon-2026",
-      "title": "第13回 贈りたい本大賞―大切な人に贈りたい1冊―",
-      "org": "山梨県立図書館",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "大切な人に贈りたい1冊を募集。",
-      "tags": [
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/yamanashi-lib-okuritaihon-2026/"
-    },
-    {
-      "id": "tokoron-minka-koushien-2026",
-      "title": "第15回 古民家フォト甲子園",
-      "org": "一般社団法人 全国古民家再生協会 共催:一般社団法人 全国空き家アドバイザー協議会",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 小学生、中学生、高校生",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表の絵画または写真を募集。",
-      "tags": [
-        "写真",
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/minka-koushien-2026/"
-    },
-    {
-      "id": "tokoron-cuc-ecobosai-biz-highschool-2026",
-      "title": "第1回 全国高校生 防災×環境・エネルギービジネスコンテスト",
-      "org": "千葉商科大学 防災・エネルギーセンター",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 以下のいずれも満たす方 (1)日本国内に在学する高校生 (2)防災または環境問題に関心を持つ個人または3名までのグループ",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "防災または環境・エネルギーの課題に挑む高校生のビジネスアイデア(テーマ: 「あなたのアイデアで、社会をもっと安全で、もっと豊かに」 ・防災分野（例）：学校や地域で使える防災グッズのレ…)",
-      "tags": [
-        "起業",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/cuc-ecobosai-biz-highschool-2026/"
-    },
-    {
-      "id": "tokoron-koukouseishinbun-2026",
-      "title": "第22回「地域の伝承文化に学ぶ」コンテスト",
-      "org": "國學院大學、高校生新聞社",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校生",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「地域の伝承文化に学ぶ」コンテストでは、各地域に伝わる昔話・伝説や祭り・伝統行事・郷土料理・方言などの文化の調査研究や、学校や部などで行っている地域研究活動の実践報告を募集します。 レポート枚数は自由。あなたのまちにある",
-      "tags": [
-        "地域活動",
-        "研究発表"
-      ],
-      "url": "https://compe.japandesign.ne.jp/koukouseishinbun-2026/"
-    },
-    {
-      "id": "tokoron-jinken-short-letter-2026",
-      "title": "第25回 人権ショートレター",
-      "org": "大和郡山市人権のまちづくり推進協議会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切 23:00まで ※郵送は当日消印まで有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "大和郡山市人権のまちづくり推進協議会では、「人権」を大切にする気持ちをしたためた「人権ショートレター」を今年も募集します。人間らしく生きること、差別や偏見に対して感じたこと、お互いの個性を認め合うことなど、「人権」を大切",
-      "tags": [
-        "文章・作文",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/jinken-short-letter-2026/"
-    },
-    {
-      "id": "tokoron-koukouseishinbun-sousaku-2026",
-      "title": "第30回 全国高校生創作コンテスト",
-      "org": "國學院大學、高校生新聞社",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校生",
-      "deadline": "2026年09月04日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "文章を書く喜び、創り出す苦しさ、限られた言葉で表す難しさ、かたちになる達成感――。文藝創作は、自己探究の場です。第30回 全国高校生創作コンテストでは、全国の高校生から、小説・詩・短歌・俳句の文藝作品を募集します。「考え",
-      "tags": [
-        "文章・作文",
-        "短歌・俳句"
-      ],
-      "url": "https://compe.japandesign.ne.jp/koukouseishinbun-sousaku-2026/"
-    },
-    {
       "id": "metaschool-vr-season3-2026",
       "title": "バーチャル教室でディジタルに触れよう(season3)",
       "org": "meta-school(東京大学関連)",
@@ -294,166 +54,6 @@
         "自然科学"
       ],
       "url": "https://www.meta-school.t.u-tokyo.ac.jp/junior/26svd/"
-    },
-    {
-      "id": "tokoron-takushoku-u-sakubun-2026",
-      "title": "後藤新平・新渡戸稲造記念 第28回 全国高校生・留学生作文コンクール 2026",
-      "org": "拓殖大学、拓殖大学後援会",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 【高校生の部】 ●応募時点で高等学校(全学年)、中等教育学校(4~6年生)…",
-      "deadline": "2026年09月05日 (土) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-05",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表の作文を募集。",
-      "tags": [
-        "文章・作文",
-        "多文化交流"
-      ],
-      "url": "https://compe.japandesign.ne.jp/takushoku-u-sakubun-2026/"
-    },
-    {
-      "id": "tokoron-jutaku-sumai-ehon-2026",
-      "title": "第22回 家やまちの絵本コンクール",
-      "org": "住生活月間中央イベント実行委員会 共催:一般社団法人 住宅生産団体連合会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月05日 (土) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-05",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表の手作り絵本(テーマ: 「家やまち」への思い・夢、あこがれの家、好きなまち等)を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/jutaku-sumai-ehon-2026/"
-    },
-    {
-      "id": "tokoron-ehimeda-haiku-2026",
-      "title": "第23回 はぴかちゃん歯いく大賞",
-      "org": "一般社団法人 愛媛県歯科医師会",
-      "type": "コンテスト",
-      "audience": "愛媛県在住の方に限る",
-      "deadline": "2026年09月05日 (土) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-05",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "愛媛県",
-        "prefectures": [
-          "愛媛県"
-        ],
-        "note": "愛媛県在住の方に限る"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「歯」または「口」に関する俳句を募集。",
-      "tags": [
-        "短歌・俳句"
-      ],
-      "url": "https://compe.japandesign.ne.jp/ehimeda-haiku-2026/"
-    },
-    {
-      "id": "tokoron-bakemono-jack-art-summer-2026",
-      "title": "BAKEMONO-JACK バケモノの夏休み 2026",
-      "org": "バケモノ株式会社",
-      "type": "コンテスト",
-      "audience": "小・中・高校生、学生限定 / ●全学生(小学生、中学生、高校生、専門学生、大学生、大学院生)7~30歳まで",
-      "deadline": "2026年09月06日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-06",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったイラスト(テーマ: ポップ)を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/bakemono-jack-art-summer-2026/"
-    },
-    {
-      "id": "tokoron-frau-sdgs-edu-kids-presen-2026",
-      "title": "FRaU SDGs edu こども プレゼン・コンテスト 2026",
-      "org": "株式会社講談社 FRaU Web 編集部 こどもプレゼン・コンテスト事務局",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 小学生・中学生・高校生",
-      "deadline": "2026年09月06日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-06",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったアイデア(テーマ: 「私たちが2030年に創造したい世界」)を募集。",
-      "tags": [
-        "プレゼン",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/frau-sdgs-edu-kids-presen-2026/"
-    },
-    {
-      "id": "tokoron-fff-s-2026",
-      "title": "学生短編映画祭 FFF-S 第9回大会",
-      "org": "株式会社フェローズ",
-      "type": "コンテスト",
-      "audience": "学生限定 / 2026年11月末時点で日本国内の学校に在籍中の学生監督",
-      "deadline": "2026年09月06日 (日) 作品提出・応募締切",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-06",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "Fellows Film Festival for Students（FFF-S）は、株式会社フェローズが主催する学生のための短編映画祭です。 国内の学生を対象に、4分以内のショートフィルムを募集し、コンペティションを開",
-      "tags": [
-        "映像制作"
-      ],
-      "url": "https://compe.japandesign.ne.jp/fff-s-2026/"
     },
     {
       "id": "sunstar-idea-contest-2026",
@@ -4256,6 +3856,33 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/hita-iwasawa-100th-kaiga-2026/"
+    },
+    {
+      "id": "tokoron-k-kikou-kodomo-sakubun-2026",
+      "title": "第8回 全国子ども防災作文コンクール",
+      "org": "全国子ども防災作文コンクール実行委員会",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 小学生・中学生・高校生(および同年齢の方)",
+      "deadline": "2026年10月23日 (金) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-23",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった未発表の作文(テーマ: 自然災害があっても生き抜くために、みなさんが「考えたこと」)を募集。",
+      "tags": [
+        "文章・作文",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/k-kikou-kodomo-sakubun-2026/"
     },
     {
       "id": "tokoron-akita-pu-ac-kenchiku-2026",
