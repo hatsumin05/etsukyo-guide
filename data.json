@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-08",
-  "lastSyncedAt": "2026-09-08T09:07:45+09:00",
+  "lastSynced": "2026-09-09",
+  "lastSyncedAt": "2026-09-09T08:19:29+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -82,220 +82,6 @@
       "url": "https://compe.japandesign.ne.jp/sun-star-2026/"
     },
     {
-      "id": "tokoron-anta-21th-forum-trip-plan-2026",
-      "title": "学生がつくる宮城県の着地型旅行プランコンテスト",
-      "org": "一般社団法人 全国旅行業協会",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 宮城県在住もしくは宮城県内に所在する学校(高等学校、大学・短期大学・大学院、高等専修学校…",
-      "deadline": "2026年09月07日 (月) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-07",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "宮城県",
-        "prefectures": [
-          "宮城県"
-        ],
-        "note": "宮城県在住もしくは宮城県内に所在する学校(高等学校、大学・短期大学・大学院、高等専修学校、専門学校等)に在籍する高校生以上の生徒・学生、または、その学校の生徒・学生団体"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "学生による宮城県の着地型旅行プランを募集。",
-      "tags": [
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/anta-21th-forum-trip-plan-2026/"
-    },
-    {
-      "id": "tokoron-asu-highschool-business-plan-2026",
-      "title": "第12回 愛知産業大学経営学部総合経営学科 高校生ビジネスプランコンテスト",
-      "org": "愛知産業大学 経営学部 総合経営学科",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 中部圏(富山、石川、福井、長野、岐阜、静岡、愛知、三重、滋賀)に所在する高校の生徒",
-      "deadline": "2026年09月07日 (月) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による、テーマにそったビジネスプラン(テーマ: 「未来をつくるビジネスアイディア」)を募集。",
-      "tags": [
-        "起業"
-      ],
-      "url": "https://compe.japandesign.ne.jp/asu-highschool-business-plan-2026/"
-    },
-    {
-      "id": "tokoron-abiko-melhenbunko-2026",
-      "title": "第25回 我孫子市めるへん文庫 作品募集",
-      "org": "我孫子市教育委員会",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 全国の小学生・中学生・高校生",
-      "deadline": "2026年09月07日 (月) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "未発表オリジナルの童話および小説を募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/abiko-melhenbunko-2026/"
-    },
-    {
-      "id": "tokoron-itabashi-sakurai-ronbun-2026",
-      "title": "第25回 櫻井徳太郎賞 論文・作文募集",
-      "org": "板橋区教育委員会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月07日 (月) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "未発表の論文または作文を募集。",
-      "tags": [
-        "文章・作文",
-        "多文化交流",
-        "研究発表"
-      ],
-      "url": "https://compe.japandesign.ne.jp/itabashi-sakurai-ronbun-2026/"
-    },
-    {
-      "id": "tokoron-koukokuuhyo-gakusei-nihon1-2026",
-      "title": "第2回 学生広告日本一 決定戦！",
-      "org": "広告ウヒョー!",
-      "type": "コンテスト",
-      "audience": "学生限定 / 全国の大学生・大学院生・専門学生",
-      "deadline": "2026年09月07日 (月) 事前登録締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「第2回 学生広告日本一 決定戦！」の参加者を募集。",
-      "tags": [
-        "マーケティング",
-        "映像制作",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/koukokuuhyo-gakusei-nihon1-2026/"
-    },
-    {
-      "id": "tokoron-fashionschool-okayama-design-2026",
-      "title": "第51回 高校生ファッションデザインコンテスト",
-      "org": "学校法人 虫明学園 専門学校 岡山ファッションスクール",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校生またはそれに準ずる生徒",
-      "deadline": "2026年09月07日 (月) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったデザイン画(テーマ: Prism Aquarium（輝きをまとう熱帯魚）)を募集。",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/fashionschool-okayama-design-2026/"
-    },
-    {
-      "id": "tokoron-iaha-iaq-idea-2026",
-      "title": "第6回 テクノロジー×空気＝クリーン あなたのアイデアコンテスト",
-      "org": "第六回テクノロジー×空気=クリーン自身のアイデアコンテスト実行委員会、一般社団法人 日本室内空気保健協会 共催:環境理化株式会社、一般社団法人 日本環境保健機構",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月07日 (月) 作品提出・応募締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったアイデアを募集。",
-      "tags": [
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/iaha-iaq-idea-2026/"
-    },
-    {
-      "id": "tokoron-asu-highschool-nextgen-idea-2026",
-      "title": "第8回 愛知産業大学 高校生次世代アイディアコンテスト",
-      "org": "愛知産業大学 造形学部 スマートデザイン学科",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 国内全域の高等学校(高等専修学校と高等専門学校含む)に所属する生徒",
-      "deadline": "2026年09月07日 (月) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "社会課題解決のための新アイディア(テーマ: その“ちょっと不便”、あなたならどう変える？)を募集。",
-      "tags": [
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/asu-highschool-nextgen-idea-2026/"
-    },
-    {
       "id": "tokoron-39campus-artaward-2026",
       "title": "キャンパスアートアワード 2026",
       "org": "読売中高生新聞、コクヨ株式会社",
@@ -320,30 +106,6 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/39campus-artaward-2026/"
-    },
-    {
-      "id": "kikkake-7435",
-      "title": "小学生~高校生対象！日本新聞協会いっしょに読もう! 新聞コンクール",
-      "org": "公式サイトを確認",
-      "type": "プログラム",
-      "audience": "高校生 対象",
-      "deadline": "応募締切 2026年9月8日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-08",
-      "format": "unknown",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "詳細は公式サイトをご確認ください。",
-      "tags": [],
-      "url": "https://kikkakeportal.com/2026/03/13/7435"
     },
     {
       "id": "tokoron-nnn-shimbun-kansou-2026",
@@ -3787,6 +3549,34 @@
       "url": "https://compe.japandesign.ne.jp/mext-sports-idea-design-2026/"
     },
     {
+      "id": "tokoron-kepco-collabo-art-2026",
+      "title": "26th かんでん コラボ・アート 作品募集",
+      "org": "関西電力株式会社、一般財団法人 共済会記念文化財団",
+      "type": "コンテスト",
+      "audience": "【一般部門】 障がいのある方で関西2府4県または福井県に在住の方",
+      "deadline": "2026年10月15日 (木) 作品写真提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-15",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "福井県",
+        "prefectures": [
+          "福井県"
+        ],
+        "note": "【一般部門】 障がいのある方で関西2府4県または福井県に在住の方"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "関西圏に在住の障がいのある方によるアート作品を募集。",
+      "tags": [
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kepco-collabo-art-2026/"
+    },
+    {
       "id": "tokoron-asahi-kotoba-2026",
       "title": "私の折々のことばコンテスト 2026",
       "org": "朝日新聞 共催:朝日中高生新聞",
@@ -4697,6 +4487,33 @@
       "url": "https://compe.japandesign.ne.jp/resas-portal-2026/"
     },
     {
+      "id": "tokoron-cee-videocontest-2026",
+      "title": "第4回 小・中・高校生のためのエコノミクスビデオコンテスト",
+      "org": "一般社団法人 CEEジャパン 特別協賛:KPMGジャパン",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 国内在住の小学4年生~高校3年生",
+      "deadline": "2026年11月18日 (水) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-18",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった60秒以内の動画(テーマ: 暮らしの中にある自分と経済との関わり)を募集。",
+      "tags": [
+        "映像制作",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/cee-videocontest-2026/"
+    },
+    {
       "id": "tokoron-ceramic-stillimage-movie-2026-2",
       "title": "「こんなところに！セラミックス」 静止画・動画コンテスト",
       "org": "公益社団法人 日本セラミックス協会",
@@ -5521,291 +5338,6 @@
       "url": "https://compe.japandesign.ne.jp/kyoto-bungaku-2027/"
     },
     {
-      "id": "peatix-4791285",
-      "title": "【R8年度大阪教育大学公開講座】数学で15パズルを考えよう（中・高校生向け）",
-      "org": "大阪教育大学（社会連携係）",
-      "type": "セミナー",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/12/13 (日曜日 10:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-12-13",
-      "eventEnd": "2026-12-13",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "大阪教育大学 天王寺キャンパス",
-        "address": "大阪市天王寺区南河堀町４−８８",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "講座番号39「数学で15パズルを考えよう（中・高校生向け）」 講座概要：15パズルとは4×4のマス目に15枚のピース...",
-      "tags": [
-        "自然科学",
-        "社会科学"
-      ],
-      "url": "https://peatix.com/event/4791285"
-    },
-    {
-      "id": "peatix-5031315",
-      "title": "【高校生限定！】2026年 秋の高校生キャンプ",
-      "org": "認定NPO法人大東市青少年協会",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/21〜2026/09/22 (月曜日 9:00 (2 日間)) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-21",
-      "eventEnd": "2026-09-22",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "キャンピィだいとう",
-        "address": "大阪府大東市龍間1846",
-        "prefecture": "大阪府",
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "青春を楽しみたいそこのアナタ！！！ ぜひ秋の高校生キャンプに参加してみませんか？！ ★ 高校生キャンプ 略して 高キャンとは？ 飯盛山にあるキャンピィだいとうで、高校生リ...",
-      "tags": [
-        "アウトドア"
-      ],
-      "url": "https://peatix.com/event/5031315"
-    },
-    {
-      "id": "peatix-5159024",
-      "title": "【全国の小・中・高校生募集】「作品にして物語を届ける」アート・デザインコンテスト｜NIJIN教育万博2026",
-      "org": "NIJIN｜教育から世界を照らす",
-      "type": "コンテスト",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/11/21〜2026/11/22 (土曜日 11:00 (2 日間)) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-11-21",
-      "eventEnd": "2026-11-22",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "合同会社DMM",
-        "address": "東京都港区六本木3丁目2-1 住友不動産六本木グランドタワー24階",
-        "prefecture": "東京都",
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "「作品」にして、物語を届ける。まだ見ぬ才能を、社会に届ける。 2026年11月21日(土)・22日（日）の2日間、DMM六本木本社で開催される「NIJIN教育万博2026」にて、...",
-      "tags": [
-        "デザイン",
-        "アート",
-        "社会科学"
-      ],
-      "url": "https://peatix.com/event/5159024"
-    },
-    {
-      "id": "peatix-5115502",
-      "title": "【全国の小・中・高校生募集】好きで社会を動かせ！子どもプレゼンコンテスト｜NIJIN教育万博2026",
-      "org": "NIJIN｜教育から世界を照らす",
-      "type": "コンテスト",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/11/22 (日曜日 14:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-11-22",
-      "eventEnd": "2026-11-22",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "合同会社DMM",
-        "address": "港区六本木３丁目２−１ 住友不動産六本木グランドタワー 24階",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "2026年11月22日（日）、DMM六本木本社で開催される「NIJIN教育万博2026」にて、全国の小・中・高校生を対象とした「子どもプレゼンコンテスト」を開催します。 &nbs...",
-      "tags": [
-        "社会科学",
-        "プレゼン"
-      ],
-      "url": "https://peatix.com/event/5115502"
-    },
-    {
-      "id": "peatix-4681650",
-      "title": "2026年度冬季高校生インターンシップ",
-      "org": "コムロコンサルティンググループ",
-      "type": "インターン",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/12/26〜2026/12/27 (土曜日 9:00 (2 日間)) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-12-26",
-      "eventEnd": "2026-12-27",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "Komuro Consulting Group ： コムロ（小室）コンサルティンググループ",
-        "address": "渋谷区代々木１丁目３０−１５",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "詳細は公式ページをご確認ください。",
-      "tags": [
-        "インターン"
-      ],
-      "url": "https://peatix.com/event/4681650"
-    },
-    {
-      "id": "peatix-5145187",
-      "title": "2026年度冬季高校生ビジネスコンテスト（テーマ：お金教育）",
-      "org": "コムロコンサルティンググループ",
-      "type": "コンテスト",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/12/26 (土曜日 9:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-12-26",
-      "eventEnd": "2026-12-26",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "Komuro Consulting Group｜コムロコンサルティンググループ",
-        "address": "渋谷区代々木１丁目３０−１５",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "コムロコンサルティンググループでは，VentryXとの共催で2026年12月に2026年度高校生ビジネスコンテストを実施します．2026年度高校生ビジネスコンテスト概要は下記をご参...",
-      "tags": [
-        "社会科学",
-        "起業"
-      ],
-      "url": "https://peatix.com/event/5145187"
-    },
-    {
-      "id": "peatix-5145215",
-      "title": "2026年度冬季高校生ビジネスコンテスト（テーマ：キャリア）",
-      "org": "コムロコンサルティンググループ",
-      "type": "コンテスト",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/12/26 (土曜日 13:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-12-26",
-      "eventEnd": "2026-12-26",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "Komuro Consulting Group｜コムロコンサルティンググループ",
-        "address": "渋谷区代々木１丁目３０−１５",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "コムロコンサルティンググループでは，VXAとの共催で2026年12月に2026年度高校生ビジネスコンテストを実施します．2026年度高校生ビジネスコンテスト概要は下記...",
-      "tags": [
-        "起業",
-        "インターン"
-      ],
-      "url": "https://peatix.com/event/5145215"
-    },
-    {
-      "id": "peatix-5074909",
-      "title": "2027年度夏季高校生インターンシップ",
-      "org": "コムロコンサルティンググループ",
-      "type": "インターン",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2027/08/13〜2027/08/15 (金曜日 9:00 (3 日間)) / 申込締切はPeatixのページで確認",
-      "eventStart": "2027-08-13",
-      "eventEnd": "2027-08-15",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "Komuro Consulting Group｜コムロコンサルティンググループ",
-        "address": "渋谷区代々木１丁目３０−１５",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "詳細は公式ページをご確認ください。",
-      "tags": [
-        "インターン"
-      ],
-      "url": "https://peatix.com/event/5074909"
-    },
-    {
-      "id": "peatix-4976601",
-      "title": "2027年度春季高校生インターンシップ",
-      "org": "コムロコンサルティンググループ",
-      "type": "インターン",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2027/03/27〜2027/03/28 (土曜日 9:00 (2 日間)) / 申込締切はPeatixのページで確認",
-      "eventStart": "2027-03-27",
-      "eventEnd": "2027-03-28",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "Komuro Consulting Group｜コムロコンサルティンググループ",
-        "address": "渋谷区代々木１丁目３０−１５",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "詳細は公式ページをご確認ください。",
-      "tags": [
-        "インターン"
-      ],
-      "url": "https://peatix.com/event/4976601"
-    },
-    {
       "id": "manual-aig-hsd",
       "title": "AIG高校生外交官プログラム",
       "org": "AIG高校生外交官プログラム実行委員会",
@@ -5839,32 +5371,6 @@
       "url": "https://www.highschooldiplomats.org/"
     },
     {
-      "id": "peatix-5137507",
-      "title": "AIと挑戦する“高校生になりきり探究”体験",
-      "org": "松倉由紀",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/10/25 (日曜日 13:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-10-25",
-      "eventEnd": "2026-10-25",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "探究的な学びへの転換が必要？だけど実は大人が探究を経験してないんです・・・ 高校を中心に「探究的な学び」が必要と言われ、いろいろな取り組みが話題になっています。探究は「コンテンツ」...",
-      "tags": [
-        "研究発表"
-      ],
-      "url": "https://peatix.com/event/5137507"
-    },
-    {
       "id": "mystory-project-briefing-2026",
       "title": "My Story Project 説明会",
       "org": "Grow and Leap",
@@ -5889,63 +5395,6 @@
         "社会科学"
       ],
       "url": "https://growandleap.com/my-story-project/"
-    },
-    {
-      "id": "peatix-5128179",
-      "title": "No10_〈TOKYO GREEN BIZ 関連講座４〉 「水の中の生きもの観察会 浜離宮恩賜庭園」高校生以上の部",
-      "org": "公益財団法人東京都公園協会 緑と水の市民カレッジ事務局",
-      "type": "ワークショップ",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/12/05 (土曜日 13:30) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-12-05",
-      "eventEnd": "2026-12-05",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "浜離宮恩賜庭園",
-        "address": "中央区浜離宮庭園１−１",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "300年以上の歴史を持つ浜離宮恩賜庭園は、植物・昆虫・鳥など様々な生きものが棲み、東京の生物多様性の豊かさに大きく貢献しています。今回は、特別の許可を受け、浜離宮恩賜庭園の大泉水等...",
-      "tags": [
-        "自然科学"
-      ],
-      "url": "https://peatix.com/event/5128179"
-    },
-    {
-      "id": "peatix-5151221",
-      "title": "Python でプログラミングを 0 から学ぶ講座 (中高生対象)【A, B, C, S1, S2コースを開講】2026-09-26「略称: JOI 入門講座」",
-      "org": "JCIOI",
-      "type": "セミナー",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/26 (土曜日 14:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-26",
-      "eventEnd": "2026-09-26",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "1. 開催概要プログラミングや情報オリンピック (JOI) に興味のある中高生を対象に、Python でプログラミングを 0 から学ぶ講座を毎月開講しています。少人数グループで実施...",
-      "tags": [
-        "プログラミング"
-      ],
-      "url": "https://peatix.com/event/5151221"
     },
     {
       "id": "manual-uwc-2027",
@@ -6043,322 +5492,6 @@
         "多文化交流"
       ],
       "url": "https://tobitate-mext.jasso.go.jp/hs/"
-    },
-    {
-      "id": "peatix-5162409",
-      "title": "火曜3時ふらっと下町【ゆる哲学カフェこいわ】テーマ「趣味は何ですか？」話して聞いて考える､意外と貴重な濃い時間？高校生以上どなたでもお気軽に(主催者女性）",
-      "org": "哲学カフェこいわ",
-      "type": "交流イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/29 (火曜日 15:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-29",
-      "eventEnd": "2026-09-29",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "南小岩コミュニティ会館",
-        "address": "江戸川区南小岩７丁目１７−１０",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "詳細は公式ページをご確認ください。",
-      "tags": [],
-      "url": "https://peatix.com/event/5162409"
-    },
-    {
-      "id": "peatix-5165573",
-      "title": "高校生・大学生向け【学生起業大学オープンキャンパス】AI活用・業務効率化「AI社員を雇ってみよう」 ～Gemini Notebookで、自分だけのAI社員をつくる90分～",
-      "org": "学生起業大学",
-      "type": "説明会",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/19 (土曜日 20:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-19",
-      "eventEnd": "2026-09-19",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "学生起業大学：https://missionwork.jp/ “セルフデザイン力を磨き 社会を変える力を手に入れろ”自分のやりたい...",
-      "tags": [
-        "プログラミング",
-        "デザイン",
-        "社会科学"
-      ],
-      "url": "https://peatix.com/event/5165573"
-    },
-    {
-      "id": "peatix-5155234",
-      "title": "高校生キャリアイベント・STEP FOR TOMORROW",
-      "org": "STEP FOR TOMORROW",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/10/01〜2026/12/10 (木曜日 18:00 (71 日間)) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-10-01",
-      "eventEnd": "2026-12-10",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "TKPガーデンシティPREMIUM京橋ANNEX",
-        "address": "中央区京橋２丁目７−１９ 京橋イーストビル 5階",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "J.P.モルガンオフィスで、自分に合う未来の選択肢を見つけるプログラム保護者の方にも毎年好評の無料キャリア教育プログラムの参加者を募集中！ 🎉 参加費無料 🚃 交通費支給...",
-      "tags": [
-        "社会科学",
-        "インターン"
-      ],
-      "url": "https://peatix.com/event/5155234"
-    },
-    {
-      "id": "peatix-5143651",
-      "title": "高校生の「リアルな声」から考える、私たちの性教育 ― 乳幼児から高校生まで、つながる学びと対話の時間 ―",
-      "org": "大阪“人間と性”教育研究協議会",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/11/01 (日曜日 13:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-11-01",
-      "eventEnd": "2026-11-01",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生の「リアルな声」から考える、私たちの性教育「性教育って、何をどこまで伝えたらいいんだろう？」 「子どもたちは、本当はどんなことを知りたいと思っている？」 「伝えているつもりだ...",
-      "tags": [
-        "社会科学"
-      ],
-      "url": "https://peatix.com/event/5143651"
-    },
-    {
-      "id": "peatix-5161237",
-      "title": "集まれ中高生！本物の起業家から起業を学ぶブートキャンプin仙台",
-      "org": "EO North Japan",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/11/07 (土曜日 15:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-11-07",
-      "eventEnd": "2026-11-07",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "enspace",
-        "address": "仙台市青葉区国分町１丁目４−９ enspace",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "「やってみたい」を、最初の一歩へ。やりたいことが、まだ決まっていなくても大丈夫。 好きなこと。気になっていること。「なんか変だな」と感じていること。いつか挑戦してみたいと思っている...",
-      "tags": [
-        "起業",
-        "アウトドア"
-      ],
-      "url": "https://peatix.com/event/5161237"
-    },
-    {
-      "id": "peatix-5162386",
-      "title": "神保町で、自分の未来を見つけよう！ ～Jimboみらい発見ゼミ：中高生編～ vol. 4",
-      "org": "東京文化資源会議",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/19 (土曜日 14:30) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-19",
-      "eventEnd": "2026-09-19",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "共立女子中学校・高等学校",
-        "address": "千代田区一ツ橋２丁目２−１",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "■どんなイベント？本や文化のまち「神保町」で、いろんな分野で活躍している大人たちと出会い、話を聞いたり質問したりできる特別なゼミです。普段の授業ではなかなか聞けない「仕事の選び方」...",
-      "tags": [
-        "研究発表"
-      ],
-      "url": "https://peatix.com/event/5162386"
-    },
-    {
-      "id": "peatix-5161451",
-      "title": "第６回高校生麻雀交流会",
-      "org": "小泉志信",
-      "type": "交流イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/27 (日曜日 13:30) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-27",
-      "eventEnd": "2026-09-27",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "渋谷区 地域交流センター新橋",
-        "address": "渋谷区恵比寿１丁目２７−１０ 新橋区民複合施設 3階・地下1階",
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "リアルで麻雀打って、麻雀コミュニティを拡げよう！ 第６回高校生麻雀交流会 （第５回高校生麻雀交流会の様子・・・は撮影し忘れました・・・） ※お詫びに・・・ほぼ捨て牌...",
-      "tags": [],
-      "url": "https://peatix.com/event/5161451"
-    },
-    {
-      "id": "peatix-5165903",
-      "title": "東京都立大学オープンユニバーシティ：理系大学を満喫するための実践英語 ～理系大学を目指す（かもしれない）高校生のために～",
-      "org": "東京都立大学オープンユニバーシティ",
-      "type": "説明会",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/12/16 (水曜日 15:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-12-16",
-      "eventEnd": "2026-12-16",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "■事前申込制（Web申込）※高校生の参加は無料です。お申込はこちらから：https://www.ou.tmu.ac.jp/course/detail/8415 東京都...",
-      "tags": [
-        "英語"
-      ],
-      "url": "https://peatix.com/event/5165903"
-    },
-    {
-      "id": "peatix-5092768",
-      "title": "偏差値では測れない力が社会を動かす-経済界のフロントランナーが島の高校生との対話で感じた、非認知能力の価値と地域で学ぶ可能性-",
-      "org": "隠岐島前教育魅力化プロジェクト",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/29 (火曜日 20:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-29",
-      "eventEnd": "2026-09-29",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "社会が急速に変化し、いわゆる「正解のない時代」を迎える中で、企業が求める人材像や必要な能力も大きく変わり始めています。 本企画では、世界的企業の経営を担ってきた日色保氏をお迎えし、...",
-      "tags": [
-        "多文化交流",
-        "社会科学",
-        "起業"
-      ],
-      "url": "https://peatix.com/event/5092768"
-    },
-    {
-      "id": "peatix-5056144",
-      "title": "便を薬にする!? ― 便移植治療の臨床最前線 日曜朝最先端探訪シリーズ #67 高校生から社会人まで、文系理系不問",
-      "org": "冨田 勝",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/27 (日曜日 9:00) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-27",
-      "eventEnd": "2026-09-27",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "私たちの体には、約40兆個もの腸内細菌が暮らしています。近年、この小さな「共生パートナー」が、腸だけでなく、免疫、代謝、さらには脳や神経の健康にも深く関わっていることがわかってきま...",
-      "tags": [
-        "自然科学",
-        "社会科学"
-      ],
-      "url": "https://peatix.com/event/5056144"
-    },
-    {
-      "id": "peatix-5055666",
-      "title": "累計２万人が受講した人気の「日曜朝最先端探訪シリーズ」2026年秋学期 9月27日スタート 高校生から社会人まで、文系理系不問",
-      "org": "冨田 勝",
-      "type": "イベント",
-      "audience": "高校生を含む(詳細は公式ページで確認)",
-      "deadline": "開催 2026/09/27〜2026/12/13 (日曜日 9:00 (78 日間)) / 申込締切はPeatixのページで確認",
-      "eventStart": "2026-09-27",
-      "eventEnd": "2026-12-13",
-      "applyStart": null,
-      "applyEnd": null,
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "日曜朝最先端探訪シリーズ（午前９時～10時15分） まだ多くの人が知らない「現代の教養」を、一足先に。 2026年秋学期は、「医学」「物理学」「美学」「生命科学」「農学」「ロボット...",
-      "tags": [
-        "ロボティクス",
-        "自然科学",
-        "社会科学"
-      ],
-      "url": "https://peatix.com/event/5055666"
     }
   ]
 }
