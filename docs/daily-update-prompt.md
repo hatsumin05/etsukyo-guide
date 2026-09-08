@@ -3,15 +3,19 @@
 Claude側の定期実行タスクに設定する指示文です。データ仕様を変えたときは、
 `docs/data-schema.md` と**この指示文の両方**を直してください。
 
-## ⚠️ 登竜門は自動化済みです
+## ⚠️ 登竜門・きっかけポータル・Peatix は自動化済みです
 
-**登竜門(compe.japandesign.ne.jp)は GitHub Actions が毎朝06:00 JSTに収集するので、
-Claude側のタスクで扱う必要はありません。** Claude側が担当するのは、判断が必要で
-機械的に取れない次のサイトだけです。
+**次の3サイトは GitHub Actions が毎朝06:00 JSTに収集するので、Claude側のタスクで
+扱う必要はありません。**
+
+- 登竜門(compe.japandesign.ne.jp) … `scripts/fetch-tokoron.mjs`
+- きっかけポータル(kikkakeportal.com) … `scripts/fetch-kikkake.mjs`
+- Peatix「高校生」検索(peatix.com) … `scripts/fetch-peatix.mjs`
+
+Claude側が担当するのは、判断が必要で機械的に取れない次のサイトだけです。
 
 - Qulii
 - 早稲田塾「課外活動」まとめサイト
-- Peatix「高校生」検索
 
 **重要**: これらの候補は `data.json` ではなく **`data/manual-candidates.json`** に書いてください。
 `data.json` は毎朝作り直されるため、そこに書いた内容は翌朝消えます。
@@ -38,14 +42,15 @@ Claude側のタスクで扱う必要はありません。** Claude側が担当�
 
 # 1. 調査
 リポジトリ hatsumin05/etsukyo-guide の data/manual-candidates.json を取得し、
-Qulii・早稲田塾「課外活動」まとめ・Peatix「高校生」検索を確認して、
+Qulii・早稲田塾「課外活動」まとめを確認して、
 高校生が参加・応募できる体験・イベントを収集してください。
 
-登竜門は GitHub Actions が自動で収集するので、対象外です。
+登竜門・きっかけポータル・Peatix「高校生」検索は GitHub Actions が自動で収集するので、
+対象外です。
 
 - すでに data.json にあるものは、締切や開催日が変わっていないか確認する
 - 応募締切を過ぎたもの、開催が終わったものは candidates から削除する
-  (ただし「これから1ヶ月の開催」一覧のため、開催予定日が未来のものは必ず残す)
+  (ただし「イベント・セミナー」一覧のため、開催予定日が未来のものは必ず残す)
 - 新しく見つかったものを追加する
 
 ## 網羅すること(重要)
@@ -60,7 +65,6 @@ Qulii・早稲田塾「課外活動」まとめ・Peatix「高校生」検索を
 |---|---|---|
 | Qulii | オンラインイベント一覧 | 数十件 |
 | 早稲田塾 課外活動まとめ | ページ全体 | 数十件 |
-| Peatix「高校生」検索 | 検索結果の複数ページ | 数十件 |
 
 登竜門はジャンル別の絞り込みURLも使えます(`category/<ジャンル>/高校生/`)。
 ジャンルは art / character / comic / craft / digital-media / entertainment /

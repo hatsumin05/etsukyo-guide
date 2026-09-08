@@ -9,14 +9,18 @@
 
 ```
 data/manual-candidates.json      ┐
-登竜門(コンテスト)                ├─ scripts/fetch-tokoron.mjs ─→ data.json
-きっかけポータル(海外・奨学金等)   ┘
+登竜門(コンテスト)                │
+きっかけポータル(海外・奨学金等)   ├─ scripts/fetch-tokoron.mjs ─→ data.json
+Peatix(ワークショップ・説明会)    ┘
 ```
 
 - **登竜門のコンテスト**: `scripts/fetch-tokoron.mjs` が毎朝収集して作り直します。手で編集しないでください
 - **きっかけポータル**: `scripts/fetch-kikkake.mjs` が「高校生 × 募集中」を収集します。
   登竜門では拾えない海外プログラム・国際交流・奨学金・インターンを補います
-- **それ以外の候補**(Qulii・Peatix・meta-school など): [`data/manual-candidates.json`](../data/manual-candidates.json)
+- **Peatix**: `scripts/fetch-peatix.mjs` が「高校生」検索から、単発のワークショップ・説明会・
+  交流イベントを収集します。申込締切は公開されていないため `applyEnd` は `null` です
+  (「応募受付中」タブには出ず、「イベント・セミナー」に出ます)
+- **それ以外の候補**(Qulii・meta-school など): [`data/manual-candidates.json`](../data/manual-candidates.json)
   に書きます。ここに置いた候補は自動更新で消えません
 - `sources`(調査対象サイトの一覧)も `data/manual-candidates.json` で管理します
 
@@ -69,7 +73,7 @@ GitHub Actions の鮮度チェック(48時間以上更新がなければ失敗)�
 
 | フィールド | 型 | 内容 |
 |---|---|---|
-| `eventStart` | `"YYYY-MM-DD"` \| `null` | 開催初日。**これが無いと「これから1ヶ月の開催」一覧に出ません** |
+| `eventStart` | `"YYYY-MM-DD"` \| `null` | 開催初日。**これが無いと「イベント・セミナー」一覧に出ません** |
 | `eventEnd` | `"YYYY-MM-DD"` \| `null` | 開催最終日。単日開催なら `eventStart` と同じ値 |
 | `applyStart` | `"YYYY-MM-DD"` \| `null` | 応募受付の開始日。不明なら `null`(締切前なら受付中とみなされます) |
 | `applyEnd` | `"YYYY-MM-DD"` \| `null` | 応募締切日。**これが無いと「応募受付中」一覧に出ません** |

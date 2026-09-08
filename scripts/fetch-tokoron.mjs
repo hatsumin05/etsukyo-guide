@@ -5,12 +5,13 @@
 //   node scripts/fetch-tokoron.mjs            … 収集して data.json を書き換える
 //   node scripts/fetch-tokoron.mjs --dry-run  … 書き換えず、差分の件数だけ表示する
 //
-// data.json は「data/manual-candidates.json の内容 + 登竜門の収集結果」で毎回作り直される。
+// data.json は「data/manual-candidates.json の内容 + 各サイトの収集結果」で毎回作り直される。
 // そのため、誰かが data.json を古い内容で上書きしても、次の実行で元に戻る(自己修復)。
 
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fetchKikkake } from "./fetch-kikkake.mjs";
+import { fetchPeatix } from "./fetch-peatix.mjs";
 
 const ROOT = process.cwd();
 const DATA = path.join(ROOT, "data.json");
@@ -373,6 +374,15 @@ async function main() {
     console.warn(`きっかけポータルの収集に失敗しました(登竜門の結果はそのまま使います): ${e.message}`);
   }
 
+  // Peatix(単発のワークショップ・説明会・交流イベント)も追加で収集する。
+  // ここも失敗しても他のサイトの結果は残す
+  let peatix = [];
+  try {
+    peatix = await fetchPeatix(console.log);
+  } catch (e) {
+    console.warn(`Peatix の収集に失敗しました(他のサイトの結果はそのまま使います): ${e.message}`);
+  }
+
   const manual = JSON.parse(await readFile(MANUAL, "utf8"));
   const manualCandidates = manual.candidates || [];
 
@@ -385,19 +395,24 @@ async function main() {
     .toLowerCase();
 
   const seenTitles = new Set(built.map((c) => titleKey(c.title)));
-  const kikkakeKept = [];
-  for (const c of kikkake) {
-    const k = titleKey(c.title);
-    if (seenTitles.has(k)) { console.log(`  重複のため除外: ${c.title.slice(0, 40)}`); continue; }
-    seenTitles.add(k);
-    kikkakeKept.push(c);
-  }
+  const dedupe = (list, label) => {
+    const kept = [];
+    for (const c of list) {
+      const k = titleKey(c.title);
+      if (seenTitles.has(k)) { console.log(`  重複のため除外(${label}): ${c.title.slice(0, 40)}`); continue; }
+      seenTitles.add(k);
+      kept.push(c);
+    }
+    return kept;
+  };
+  const kikkakeKept = dedupe(kikkake, "きっかけポータル");
+  const peatixKept = dedupe(peatix, "Peatix");
 
-  const scrapedUrls = new Set([...built, ...kikkakeKept].map((c) => c.url));
+  const scrapedUrls = new Set([...built, ...kikkakeKept, ...peatixKept].map((c) => c.url));
   const kept = manualCandidates.filter(
     (c) => !scrapedUrls.has(c.url) && !seenTitles.has(titleKey(c.title)));
 
-  const candidates = [...kept, ...kikkakeKept, ...built].sort((a, b) =>
+  const candidates = [...kept, ...peatixKept, ...kikkakeKept, ...built].sort((a, b) =>
     (a.applyEnd || "9999-99-99").localeCompare(b.applyEnd || "9999-99-99") ||
     (a.title || "").localeCompare(b.title || "", "ja"));
 
@@ -417,7 +432,8 @@ async function main() {
   let before = 0;
   try { before = JSON.parse(await readFile(DATA, "utf8")).candidates.length; } catch { /* 初回 */ }
   console.log(`\n候補: ${before}件 -> ${candidates.length}件 ` +
-              `(手動管理 ${kept.length}件 + きっかけポータル ${kikkakeKept.length}件 + 登竜門 ${built.length}件)`);
+              `(手動管理 ${kept.length}件 + Peatix ${peatixKept.length}件 + ` +
+              `きっかけポータル ${kikkakeKept.length}件 + 登竜門 ${built.length}件)`);
   console.log(`海外開催 ${candidates.filter((c) => c.venue?.name === "海外").length}件`);
   console.log(`地域限定 ${candidates.filter((c) => c.area?.scope === "regional").length}件 / ` +
               `要確認(unknown) ${candidates.filter((c) => c.area?.scope === "unknown").length}件`);

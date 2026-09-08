@@ -23,7 +23,7 @@
       "id": "peatix-koukousei-search",
       "name": "Peatix「高校生」検索結果",
       "url": "https://peatix.com/search?q=高校生",
-      "note": "イベント予約サービスPeatix内の「高校生」キーワード検索結果。ワークショップ・説明会・交流イベント等を幅広く掲載"
+      "note": "イベント予約サービスPeatix内の「高校生」キーワード検索結果。ワークショップ・説明会・交流イベント等を幅広く掲載。scripts/fetch-peatix.mjs が毎朝自動で収集する"
     }
   ],
   "candidates": [
