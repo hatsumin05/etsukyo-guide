@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-11",
-  "lastSyncedAt": "2026-09-11T08:04:33+09:00",
+  "lastSynced": "2026-09-12",
+  "lastSyncedAt": "2026-09-12T08:09:24+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -82,33 +82,6 @@
       "url": "https://compe.japandesign.ne.jp/sun-star-2026/"
     },
     {
-      "id": "tokoron-aichi-select-ai-2026",
-      "title": "ユメカタリ 学生生成AIコンテスト 2026",
-      "org": "愛知100選編集事務局",
-      "type": "コンテスト",
-      "audience": "大学生・大学院生、専門学校生、高等専門学校生、高校生、第二新卒(学校卒業後3年以内)",
-      "deadline": "2026年09月10日 (木) 作品提出・応募締切、必着※応募者多数の場合、一次選考を実施(最終選考参加者には9月21日ごろまでに連絡)",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-10",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "生成AIを使ったアプリ・ツール・サービスの開発、または企画・アイデアを募集。",
-      "tags": [
-        "プログラミング",
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/aichi-select-ai-2026/"
-    },
-    {
       "id": "metaschool-soft-material-2026",
       "title": "柔らかい材料のさわり心地を科学する",
       "org": "東京大学大学院(meta-school)",
@@ -133,144 +106,6 @@
         "自然科学"
       ],
       "url": "https://www.meta-school.t.u-tokyo.ac.jp/junior/26ssm/"
-    },
-    {
-      "id": "tokoron-scb-chikan-yokushi-badge-2026",
-      "title": "第12回 痴漢抑止バッジデザインコンテスト",
-      "org": "一般社団法人 痴漢抑止活動センター",
-      "type": "コンテスト",
-      "audience": "中・高校生、学生限定 / デザインを学ぶ学生(中学校、高校、専門学校、短期大学、高等専門学校、職業訓練校、大学および大学院の在学生)",
-      "deadline": "2026年09月10日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-10",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「痴漢抑止バッジ」のデザインを募集。",
-      "tags": [
-        "デザイン",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/scb-chikan-yokushi-badge-2026/"
-    },
-    {
-      "id": "tokoron-blood-donation-poster-2026",
-      "title": "第15回 献血ポスターコンペティション",
-      "org": "日本赤十字社東海北陸ブロック血液センター",
-      "type": "コンテスト",
-      "audience": "東海北陸7県(富山・石川・福井・岐阜・静岡・愛知・三重)に在住または在勤・在学の方",
-      "deadline": "2026年09月10日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-10",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった献血ポスターデザイン(テーマ: 若い世代に向けて、献血の「重要性」「役割・意義」等を伝え、今後の献血協力に繋げていくことができる作品)",
-      "tags": [
-        "デザイン",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/blood-donation-poster-2026/"
-    },
-    {
-      "id": "tokoron-takaoka-yamacho-poem-2026",
-      "title": "第23回 高岡・山町ポエム大賞",
-      "org": "「高岡・山町ポエム大賞」実行委員会(富山銀行、土蔵造りのある山町筋まちづくり協議会、まちづくり会社・末広開発、北日本新聞社で構成)",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 全国の小・中・高校生",
-      "deadline": "2026年09月10日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-10",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "未発表の詩を募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/takaoka-yamacho-poem-2026/"
-    },
-    {
-      "id": "tokoron-aoiro-tax-douga-2026",
-      "title": "第2回 青色申告会 税に関する動画グランプリ",
-      "org": "一般社団法人 東京青色申告会連合会 共催:東京都内47青色申告会",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 東京都内に在住、在学の高校生、大学生(大学院生含む)または専門学校生",
-      "deadline": "2026年09月10日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-10",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "東京都",
-        "prefectures": [
-          "東京都"
-        ],
-        "note": "東京都内に在住、在学の高校生、大学生(大学院生含む)または専門学校生"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった動画(テーマ: 「身近な税」「税について学んだこと」「税について知ってほしいこと」「○○税について」等)を募集。",
-      "tags": [
-        "映像制作",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/aoiro-tax-douga-2026/"
-    },
-    {
-      "id": "tokoron-kyoto-woody-idea-2026",
-      "title": "令和8年度 京都ウッドアワード（旧Woodyコンテスト／旧京都の木の家づくり表彰事業）",
-      "org": "京都府 共催:京都府産木材利用推進協議会",
-      "type": "コンテスト",
-      "audience": "【建築竣工部門】 京都府内産木材を使用した建築物の建築主、設計者、工事施工者(建築基準法第二条第十六号、第十七号…",
-      "deadline": "2026年09月10日 (木) 作品提出・応募締切、17:00必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-10",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "京都府",
-        "prefectures": [
-          "京都府"
-        ],
-        "note": "【建築竣工部門】 京都府内産木材を使用した建築物の建築主、設計者、工事施工者(建築基準法第二条第十六号、第十七号、第十八号のこととする) 【建築構想部門】 一般の部:建築やインテリア業務に携わる方(学"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "京都府産スギ、ヒノキの特性を活かした建築や木製家具における実作品・アイデアを募集。",
-      "tags": [
-        "建築",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kyoto-woody-idea-2026/"
     },
     {
       "id": "tokoron-kaichi-kenshoronbun-2026",
@@ -625,6 +460,42 @@
         "マーケティング"
       ],
       "url": "https://compe.japandesign.ne.jp/takimoto-highschool-cm-2026/"
+    },
+    {
+      "id": "tokoron-kan-koueki-road-photo-2026",
+      "title": "第39回 道のある風景写真コンクール",
+      "org": "一般社団法人 関東地域づくり協会",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、山梨県または長野県に在住している小学校、中学校、高等学校に在学中の方",
+      "deadline": "2026年09月14日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-14",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "茨城県・栃木県ほか",
+        "prefectures": [
+          "茨城県",
+          "栃木県",
+          "群馬県",
+          "埼玉県",
+          "千葉県",
+          "東京都",
+          "神奈川県",
+          "山梨県",
+          "長野県"
+        ],
+        "note": "茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、山梨県または長野県に在住している小学校、中学校、高等学校に在学中の方"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写真(テーマ: 毎日の豊かな暮らしを支える「道」)を募集。",
+      "tags": [
+        "写真"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kan-koueki-road-photo-2026/"
     },
     {
       "id": "tokoron-yunomae-comic-2026",
@@ -1156,6 +1027,39 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/fujiwara-masahiko-bungaku-2026/"
+    },
+    {
+      "id": "kikkake-8506",
+      "title": "【最大2,000万円給付】しのはら財団 海外留学奨学金2026｜米・英・カナダの大学へ",
+      "org": "公式サイトを確認",
+      "type": "奨学金",
+      "audience": "高校生・大学生 対象",
+      "deadline": "応募締切 2026年9月18日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-18",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": "カナダ"
+      },
+      "onlineTool": null,
+      "summary": "海外大学への留学に、年間最大500万円を最長4年間給付。 一般財団法人 篠原欣子記念財団（しのはら財団）が、 「アメリカ・イギリス・カナダ英語留学 グローバルリーダー育成奨学金」 の2026年度奨学生を募集しています。",
+      "tags": [
+        "留学",
+        "多文化交流",
+        "英語"
+      ],
+      "url": "https://kikkakeportal.com/2026/09/11/8506"
     },
     {
       "id": "tokoron-seisadohto-interior-design-2026",
@@ -3146,6 +3050,32 @@
       "url": "https://compe.japandesign.ne.jp/kaiyu-art-artist-debut-2026/"
     },
     {
+      "id": "tokoron-setouchi-drone-video-fes-2026",
+      "title": "第5回 瀬戸内ドローン映像祭",
+      "org": "一般社団法人 瀬戸内ドローン推進協議会",
+      "type": "コンテスト",
+      "audience": "●ドローンを飛行している方 ●可能な限り「第5回 ドローン映像祭」当日に参加できる方",
+      "deadline": "2026年10月04日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-04",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「第5回 瀬戸内ドローン映像祭」の出品作品を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/setouchi-drone-video-fes-2026/"
+    },
+    {
       "id": "tokoron-infratechcon-visual-2026",
       "title": "「第8回 インフラテクコン 2027」メインビジュアルコンテスト",
       "org": "インフラテクコン実行委員会(NPO法人 シビルNPO連携プラットフォーム)",
@@ -3171,6 +3101,36 @@
         "マーケティング"
       ],
       "url": "https://compe.japandesign.ne.jp/infratechcon-visual-2026/"
+    },
+    {
+      "id": "tokoron-tsucrea-kanagawa-kikusuta-2026",
+      "title": "令和8年度 かながわ学生ビジネスアイデアコンテスト",
+      "org": "神奈川県",
+      "type": "コンテスト",
+      "audience": "中・高校生、学生限定 / ●神奈川県内在住または在学の30歳未満の学生(中学生・高校生・専門学校生・大学生・大学院生)",
+      "deadline": "2026年10月06日 (火) 事前登録締切、17:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-06",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "神奈川県",
+        "prefectures": [
+          "神奈川県"
+        ],
+        "note": "●神奈川県内在住または在学の30歳未満の学生(中学生・高校生・専門学校生・大学生・大学院生)"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったビジネスアイデア(テーマ: 「社会や地域の課題解決」や「研究の社会実装」等を目指したビジネスアイデア)を募集。",
+      "tags": [
+        "起業",
+        "社会科学",
+        "研究発表"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tsucrea-kanagawa-kikusuta-2026/"
     },
     {
       "id": "tokoron-kokuyo-design-award-2027",
@@ -3223,6 +3183,33 @@
         "短歌・俳句"
       ],
       "url": "https://compe.japandesign.ne.jp/toyo-gakusei-tanka-2026/"
+    },
+    {
+      "id": "tokoron-wakayama-data-idea-2026",
+      "title": "第10回 和歌山県データ利活用コンペティション",
+      "org": "和歌山県",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 2026年12月12日に開催する最終審査会に参加可能であること",
+      "deadline": "2026年10月08日 (木) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-08",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "行政課題に対するデータを利活用した解決アイデア(テーマ: 「データで描くウェルビーング 地域の幸福度を高めるためのまちづくり」)",
+      "tags": [
+        "短歌・俳句",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/wakayama-data-idea-2026/"
     },
     {
       "id": "tokoron-miyagi-pia-dgp-tohoku-2026",
