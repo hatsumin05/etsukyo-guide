@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-14",
-  "lastSyncedAt": "2026-09-14T08:05:23+09:00",
+  "lastSynced": "2026-09-15",
+  "lastSyncedAt": "2026-09-15T08:49:25+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -106,33 +106,6 @@
         "自然科学"
       ],
       "url": "https://www.meta-school.t.u-tokyo.ac.jp/junior/26ssm/"
-    },
-    {
-      "id": "tokoron-senbatsutennis-cover-pinbadge-design-2026",
-      "title": "大正製薬リポビタン 第49回 全国選抜高校テニス大会 パンフレット表紙デザイン・ピンバッジデザイン公募",
-      "org": "一般社団法人 全国選抜高校テニス大会事務局",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 日本国内に在住の高等学校に在籍する高校生",
-      "deadline": "2026年09月13日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-13",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「大正製薬リポビタン 第49回 全国選抜高校テニス大会」パンフレットの表紙デザインおよびピンバッジのデザインを募集。",
-      "tags": [
-        "デザイン",
-        "スポーツ科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/senbatsutennis-cover-pinbadge-design-2026/"
     },
     {
       "id": "tokoron-unilife-2026",
@@ -1984,6 +1957,32 @@
       "url": "https://compe.japandesign.ne.jp/megriba-gakusei-business-idea-2026/"
     },
     {
+      "id": "tokoron-imajo-haiku-2026",
+      "title": "創立者没後百年 同窓会記念企画 桐舎 俳句募集",
+      "org": "今泉服飾専門学校同窓会",
+      "type": "コンテスト",
+      "audience": "中学生・高校生・一般",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "日常を詠んだ俳句を募集。",
+      "tags": [
+        "短歌・俳句"
+      ],
+      "url": "https://compe.japandesign.ne.jp/imajo-haiku-2026/"
+    },
+    {
       "id": "tokoron-kenkon-photo-jr-2026",
       "title": "第13回 建コンフォト大賞Jr.",
       "org": "一般社団法人 建設コンサルタンツ協会",
@@ -3247,6 +3246,30 @@
       "url": "https://compe.japandesign.ne.jp/kyoto-kita-tanpen-2026/"
     },
     {
+      "id": "tokoron-nskitchen-obento-recipe-2026",
+      "title": "第5回 N’s KITCHEN お弁当コンテスト",
+      "org": "N’s KITCHEN",
+      "type": "コンテスト",
+      "audience": "【大人部門】 自分弁当、家族弁当等、お弁当づくりをする大人の方",
+      "deadline": "2026年10月15日 (木) 作品提出・応募締切、11:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-15",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったお弁当のレシピを募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/nskitchen-obento-recipe-2026/"
+    },
+    {
       "id": "tokoron-ecodane-photo-2026",
       "title": "令和8年度 いばらき自然環境フォトコンテスト",
       "org": "茨城県、環境保全茨城県民会議",
@@ -3511,6 +3534,32 @@
       "url": "https://compe.japandesign.ne.jp/keikan-kaika-2026/"
     },
     {
+      "id": "tokoron-sumire-shigatan-tedukuri-ehon-2026",
+      "title": "2026年 高校生 手づくり絵本コンク－ル",
+      "org": "滋賀短期大学 図書館",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 高校生",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "オリジナル未発表の手づくり絵本を募集。",
+      "tags": [
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sumire-shigatan-tedukuri-ehon-2026/"
+    },
+    {
       "id": "tokoron-turner-award-2026",
       "title": "TURNER AWARD 2026",
       "org": "ターナー色彩株式会社",
@@ -3563,6 +3612,33 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/okagakuen-charat-2026/"
+    },
+    {
+      "id": "tokoron-sist-monokoto-idea-2026",
+      "title": "高校生「ものづくり・ことづくり」プランコンテスト 2026",
+      "org": "浜松市、静岡理工科大学",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 高校生",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高校生による「ものづくり」や「ことづくり」のオリジナルアイデア(テーマ: （1）ものづくり分野：機械加工物、電子部品、生活用品の改良等 （2）ことづくり分野：イベント企画、ビジネスプ…)",
+      "tags": [
+        "起業",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sist-monokoto-idea-2026/"
     },
     {
       "id": "tokoron-logoo-sk-yell-2026",
