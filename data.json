@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-15",
-  "lastSyncedAt": "2026-09-15T08:49:25+09:00",
+  "lastSynced": "2026-09-16",
+  "lastSyncedAt": "2026-09-16T08:31:32+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -108,32 +108,6 @@
       "url": "https://www.meta-school.t.u-tokyo.ac.jp/junior/26ssm/"
     },
     {
-      "id": "tokoron-unilife-2026",
-      "title": "UniLife学生下宿年鑑2027 表紙デザインコンテスト",
-      "org": "株式会社ジェイ・エス・ビー",
-      "type": "コンテスト",
-      "audience": "学生限定 / 学生",
-      "deadline": "2026年09月14日 (月) 作品提出・応募締切",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-14",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "ジェイ・エス・ビーグループが、「UniLife学生下宿年鑑2027 表紙デザインコンテスト」を開催します。 学生下宿年鑑は1985年の創刊以来、受験生・大学生・専門学生向けの「お部屋探し情報誌」として多くの学生を支えてき",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/unilife-2026/"
-    },
-    {
       "id": "sendai-ai-club-2026-01",
       "title": "せんだいAI部 2026 基礎編 第1回",
       "org": "せんだいAI部運営事務局(要公式確認)",
@@ -164,123 +138,6 @@
         "プログラミング"
       ],
       "url": "https://sendaiaiclub2026-basiclec01.peatix.com/"
-    },
-    {
-      "id": "tokoron-manga-kansoubun-2026",
-      "title": "マンガ感想文コンクール 2026",
-      "org": "一般財団法人 出版文化産業振興財団(JPIC) 共催:マンガ感想文コンクール実行委員会",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 小学生、中学生、高校生",
-      "deadline": "2026年09月14日 (月) 作品提出・応募締切、9:00必着※郵送応募は、2026年9月11日(金)必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-14",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "小中高生によるマンガ感想文を募集。",
-      "tags": [
-        "文章・作文",
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/manga-kansoubun-2026/"
-    },
-    {
-      "id": "tokoron-houki-town-ueda-photo-2026",
-      "title": "第27回 植田正治写真美術館フォトコンテスト",
-      "org": "一般財団法人 植田正治写真美術財団",
-      "type": "コンテスト",
-      "audience": "日本国内在住の方に限る",
-      "deadline": "2026年09月14日 (月) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-14",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "山陰地方（鳥取県、島根県、京都府北部、兵庫県北部、山口県北部）で撮影した写真を募集。",
-      "tags": [
-        "写真",
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/houki-town-ueda-photo-2026/"
-    },
-    {
-      "id": "tokoron-takimoto-highschool-cm-2026",
-      "title": "第2回 学校CMコンテスト",
-      "org": "瀧本株式会社",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 全国の18歳以下の中学生・高校生",
-      "deadline": "2026年09月14日 (月) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-14",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "自分たちの学校の魅力をPRする30秒以内の動画(テーマ: 魅せろ！日本一の学校愛)を募集。",
-      "tags": [
-        "映像制作",
-        "マーケティング"
-      ],
-      "url": "https://compe.japandesign.ne.jp/takimoto-highschool-cm-2026/"
-    },
-    {
-      "id": "tokoron-kan-koueki-road-photo-2026",
-      "title": "第39回 道のある風景写真コンクール",
-      "org": "一般社団法人 関東地域づくり協会",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、山梨県または長野県に在住している小学校、中学校、高等学校に在学中の方",
-      "deadline": "2026年09月14日 (月) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-14",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "茨城県・栃木県ほか",
-        "prefectures": [
-          "茨城県",
-          "栃木県",
-          "群馬県",
-          "埼玉県",
-          "千葉県",
-          "東京都",
-          "神奈川県",
-          "山梨県",
-          "長野県"
-        ],
-        "note": "茨城県、栃木県、群馬県、埼玉県、千葉県、東京都、神奈川県、山梨県または長野県に在住している小学校、中学校、高等学校に在学中の方"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった写真(テーマ: 毎日の豊かな暮らしを支える「道」)を募集。",
-      "tags": [
-        "写真"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kan-koueki-road-photo-2026/"
     },
     {
       "id": "tokoron-yunomae-comic-2026",
@@ -1293,7 +1150,7 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "CERASTA 2026は、タイル ⽣産の地「名古屋」から、タイル発祥の地「横浜」に場所を移し、the TILE competition 2026を開催いたします。 タイルは、耐久性や防汚性といった「機能」によって私たち",
+      "summary": "タイルを用いたファサードのデザインを募集。",
       "tags": [
         "建築",
         "デザイン"
