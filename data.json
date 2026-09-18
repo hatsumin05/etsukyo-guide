@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-18",
-  "lastSyncedAt": "2026-09-18T08:32:43+09:00",
+  "lastSynced": "2026-09-19",
+  "lastSyncedAt": "2026-09-19T08:13:23+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -138,32 +138,6 @@
         "プログラミング"
       ],
       "url": "https://sendaiaiclub2026-basiclec01.peatix.com/"
-    },
-    {
-      "id": "tokoron-fujiwara-masahiko-bungaku-2026",
-      "title": "第12回 藤原正彦エッセイコンクール",
-      "org": "姫路文学館",
-      "type": "コンテスト",
-      "audience": "中学生以上",
-      "deadline": "2026年09月17日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-17",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "日本語で書かれた自作未発表のエッセイを募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/fujiwara-masahiko-bungaku-2026/"
     },
     {
       "id": "tokoron-seisadohto-interior-design-2026",
@@ -1451,6 +1425,32 @@
       "url": "https://compe.japandesign.ne.jp/sakaorirenga-2026/"
     },
     {
+      "id": "tokoron-kma-movie-2026",
+      "title": "第2回 江東区ムービーアワード（KMA）",
+      "org": "東京都江東区、株式会社宣伝会議",
+      "type": "コンテスト",
+      "audience": "日本国内在住の方",
+      "deadline": "2026年09月30日 (水) 作品提出・応募締切",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "江東区では、江東区の魅力をより多くの方に伝えるために「第2回江東区ムービーアワード」を開催します。 今回の募集テーマは『トーキョーの、ちょっと東。すごく今。』。 審査員には、高崎卓馬氏や岩崎亜矢氏をはじめとする第一線のト",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kma-movie-2026/"
+    },
+    {
       "id": "tokoron-nualwd-hsl-2026",
       "title": "第2回 名古屋芸術大学 文芸ライティングコンテスト 2026 High School Lines",
       "org": "名古屋芸術大学 芸術学部デザイン領域 文芸・ライティングコース",
@@ -2234,6 +2234,33 @@
       "url": "https://compe.japandesign.ne.jp/kokuyo-design-award-2027/"
     },
     {
+      "id": "tokoron-expo-nijin-art-design-2026",
+      "title": "NIJIN教育万博 2026 アートデザインコンテスト",
+      "org": "株式会社NIJIN",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 国内外在住の小・中・高校生の個人",
+      "deadline": "2026年10月07日 (水) 事前登録締切、必着※規定人数に達し次第、受付終了(先着36名/展示スペースに余裕がある場合は最大45名まで受付)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-07",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「NIJIN教育万博 2026」の出展作品を募集。",
+      "tags": [
+        "アート",
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/expo-nijin-art-design-2026/"
+    },
+    {
       "id": "tokoron-toyo-gakusei-tanka-2026",
       "title": "第40回 東洋大学 「現代学生百人一首」",
       "org": "学校法人 東洋大学",
@@ -2526,6 +2553,56 @@
         "社会科学"
       ],
       "url": "https://compe.japandesign.ne.jp/ecodane-photo-2026/"
+    },
+    {
+      "id": "tokoron-nias-koukousei-sekkei-idea-2026",
+      "title": "2026年度 第29回 全国高校生設計アイデアコンテスト",
+      "org": "長崎総合科学大学 工学部工学科 建築学コース",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 2026年度に在学の高校生",
+      "deadline": "2026年10月16日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-16",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高校生による、テーマにそった設計アイデア(テーマ: 涼がある空間)を募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/nias-koukousei-sekkei-idea-2026/"
+    },
+    {
+      "id": "tokoron-sumitomolife-jukugo-2026",
+      "title": "住友生命「創作四字熟語」 2026",
+      "org": "住友生命保険相互会社",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2026年10月18日 (日) 作品提出・応募締切、必着※郵便ハガキ・応募用紙・学校応募は、2026年10月9日(金)必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-18",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "2026年の世相を的確に表現した未発表の「創作四字熟語」を募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sumitomolife-jukugo-2026/"
     },
     {
       "id": "tokoron-career-mirai-souzou-2026",
