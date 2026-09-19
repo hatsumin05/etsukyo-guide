@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-19",
-  "lastSyncedAt": "2026-09-19T08:13:23+09:00",
+  "lastSynced": "2026-09-20",
+  "lastSyncedAt": "2026-09-20T08:03:38+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -140,141 +140,6 @@
       "url": "https://sendaiaiclub2026-basiclec01.peatix.com/"
     },
     {
-      "id": "tokoron-seisadohto-interior-design-2026",
-      "title": "星槎道都大学 第8回 高校生インテリアデザインコンクール",
-      "org": "星槎道都大学美術学部建築学科",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 2026年6月現在、高等学校に在籍の生徒(1~3年)、定時制高等学校に在籍の生徒、および高等専門学校に在籍の1~3年の生徒",
-      "deadline": "2026年09月18日 (金) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-18",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "課題にそったインテリアデザインを募集。",
-      "tags": [
-        "建築",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/seisadohto-interior-design-2026/"
-    },
-    {
-      "id": "tokoron-fashion-highschool-design-2026",
-      "title": "倉敷ファッションカレッジ高校生デザイン画コンテスト 2026",
-      "org": "学校法人 専門学校 倉敷ファッションカレッジ",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校生またはこれに準ずる方",
-      "deadline": "2026年09月18日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-18",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "未発表のデザイン画を募集。",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/fashion-highschool-design-2026/"
-    },
-    {
-      "id": "tokoron-kanken-kizuna-2026",
-      "title": "第14回 今、あなたに贈りたい漢字コンテスト",
-      "org": "公益財団法人 日本漢字能力検定協会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月18日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-18",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "自身が伝えたい気持ちを表す漢字1文字とメッセージ(テーマ: 贈りたい漢字とメッセージ)を募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kanken-kizuna-2026/"
-    },
-    {
-      "id": "tokoron-kanko-gakuseifuku-uniform-photo-2026",
-      "title": "第5回 学校制服フォトコンテスト",
-      "org": "菅公学生服株式会社",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 応募時点で中学生・高校生であること",
-      "deadline": "2026年09月18日 (金) 作品提出・応募締切、12:00必着※一括応募は9月11日(金)",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-18",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった写真(テーマ: 「#私たちのキセツ」)を募集。",
-      "tags": [
-        "写真",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kanko-gakuseifuku-uniform-photo-2026/"
-    },
-    {
-      "id": "tokoron-tokyo-heiwakinen-kadan-design-2026",
-      "title": "令和8年度 「東京空襲犠牲者を追悼し平和を祈念する碑」 花壇デザイン画募集",
-      "org": "東京都",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 東京都内に在住または在学の児童・生徒",
-      "deadline": "2026年09月18日 (金) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-18",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "東京都",
-        "prefectures": [
-          "東京都"
-        ],
-        "note": "東京都内に在住または在学の児童・生徒"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「東京空襲犠牲者を追悼し平和を祈念する碑」の花壇デザイン画を募集。",
-      "tags": [
-        "デザイン",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/tokyo-heiwakinen-kadan-design-2026/"
-    },
-    {
       "id": "tokoron-sho-in-creative-award-2026",
       "title": "U-18 Creative Award 2026",
       "org": "学校法人 至誠義塾 松陰高等学校",
@@ -299,6 +164,34 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/sho-in-creative-award-2026/"
+    },
+    {
+      "id": "kikkake-8171",
+      "title": "あなたの声をユネスコへ届けよう！ 2030年以降の世界の教育を考えるオンライン調査にご参加ください （対象：11歳～30歳／締切：2026年9月20日）",
+      "org": "公式サイトを確認",
+      "type": "プログラム",
+      "audience": "小学生・中学生 対象",
+      "deadline": "応募締切 2026年9月20日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-20",
+      "format": "unknown",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「未来の教育はどうあるべきだろう？」 「AI時代に必要な学びとは？」 「学校でどんな力を身に付けたい？」 ユネスコでは現在、2030年以降の教育の在り方（ポスト2030教育アジェンダ）について、世界中の若者や学生の意見を募集しています。",
+      "tags": [
+        "多文化交流",
+        "社会科学",
+        "プログラミング"
+      ],
+      "url": "https://kikkakeportal.com/2026/07/01/8171"
     },
     {
       "id": "tokoron-kokoronobansoukou-manga-2026",
@@ -699,6 +592,39 @@
       "url": "https://compe.japandesign.ne.jp/inpit-patent-2026/"
     },
     {
+      "id": "kikkake-8522",
+      "title": "【3か月で280万円支給】IAPS AI Policy Fellowship 2027｜D.C.研修＋リモート可",
+      "org": "公式サイトを確認",
+      "type": "インターン",
+      "audience": "中学生・高校生 対象",
+      "deadline": "応募締切 2026年9月27日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-27",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": null
+      },
+      "onlineTool": null,
+      "summary": "3か月間のAI政策フェローシップに参加し、US$18,000のStipendを受給。 AI政策を研究する米国のシンクタンクInstitute for AI Policy and Strategy（IAPS）が、",
+      "tags": [
+        "留学",
+        "多文化交流",
+        "自然科学"
+      ],
+      "url": "https://kikkakeportal.com/2026/09/13/8522"
+    },
+    {
       "id": "tokoron-janic-idea-2026",
       "title": "JANICユースアワード 2026",
       "org": "特定非営利活動法人 国際協力NGOセンター(JANIC)",
@@ -1080,6 +1006,33 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/aichishikai-gakusei-2026/"
+    },
+    {
+      "id": "kikkake-2073",
+      "title": "山田進太郎D&I財団 STEM(理系)女子奨学助成金募集：500名に10万円",
+      "org": "公式サイトを確認",
+      "type": "奨学金",
+      "audience": "高校生 対象",
+      "deadline": "応募締切 2026年9月30日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "理系へ進むか、まだ決めきれていなくても応募できます。 高校1・2年生と高専1・2年生の女子を対象に、10万円を給付する 「2026年度 STEM（理系）女子奨学助成金」 が募集中。 運営するのは、公益財団法人 山田進太郎D&I財団。",
+      "tags": [
+        "自然科学",
+        "社会科学"
+      ],
+      "url": "https://kikkakeportal.com/2023/11/19/2073"
     },
     {
       "id": "tokoron-soumu-shikoku-movie-2026",
@@ -2631,6 +2584,32 @@
       "url": "https://compe.japandesign.ne.jp/career-mirai-souzou-2026/"
     },
     {
+      "id": "kikkake-4088",
+      "title": "【大賞100万円】第37回ヤンマー学生懸賞論文・作文募集｜大学生・大学院生など対象",
+      "org": "公式サイトを確認",
+      "type": "コンテスト",
+      "audience": "高校生・大学生 対象",
+      "deadline": "応募締切 2026年10月20日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-20",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "学生のアイデアに大賞100万円。 ヤンマーアグリ株式会社が、 「第37回ヤンマー学生懸賞論文・作文」 の作品を募集しています。 テーマは、これからの農業や食、地域社会の未来。 スマート農業、フードロス、地域活性化、気候変動、",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://kikkakeportal.com/2024/07/23/4088"
+    },
+    {
       "id": "tokoron-fujifilm-photo-2026",
       "title": "第65回 富士フイルムフォトコンテスト",
       "org": "富士フイルム株式会社",
@@ -3212,6 +3191,32 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/towada-yabusame-umatan-2026/"
+    },
+    {
+      "id": "kikkake-4725",
+      "title": "誰でも参加可！東京大学E.S.S.杯争奪英語弁論大会 (東大杯)参加者募集",
+      "org": "公式サイトを確認",
+      "type": "プログラム",
+      "audience": "小学生・中学生 対象",
+      "deadline": "応募締切 2026年11月1日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-01",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "詳細は公式サイトをご確認ください。",
+      "tags": [
+        "英語"
+      ],
+      "url": "https://kikkakeportal.com/2024/10/01/4725"
     },
     {
       "id": "tokoron-kanto-ba-kodomo-kenpou-senryu-2026",
@@ -3864,6 +3869,39 @@
       "url": "https://compe.japandesign.ne.jp/kccollege-it-app-2026/"
     },
     {
+      "id": "kikkake-1626",
+      "title": "無料でデンマークへ！アンデルセン公園きりがみコンクール募集",
+      "org": "公式サイトを確認",
+      "type": "プログラム",
+      "audience": "小学生・中学生 対象",
+      "deadline": "応募締切 2026年12月20日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-20",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": "デンマーク"
+      },
+      "onlineTool": null,
+      "summary": "詳細は公式サイトをご確認ください。",
+      "tags": [
+        "留学",
+        "多文化交流",
+        "アート"
+      ],
+      "url": "https://kikkakeportal.com/2023/10/01/1626"
+    },
+    {
       "id": "tokoron-nenrin-tanba-etegami-2026",
       "title": "第10回 心を届ける たんば絵てがみコンクール",
       "org": "兵庫県立丹波年輪の里",
@@ -3919,6 +3957,38 @@
       "url": "https://compe.japandesign.ne.jp/resas-edu-idea-connect-2027/"
     },
     {
+      "id": "kikkake-2043",
+      "title": "【英国留学5年間を支援】Tazaki財団2026年度奨学生募集｜高校生対象",
+      "org": "公式サイトを確認",
+      "type": "奨学金",
+      "audience": "高校生・大学生 対象",
+      "deadline": "応募締切 2027年1月8日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": "2026-11-02",
+      "applyEnd": "2027-01-08",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": "イギリス"
+      },
+      "onlineTool": null,
+      "summary": "高校2年生からイギリスへ。パブリックスクール2年間＋英国大学3年間、原則5年間の留学を支援。 公益財団法人 Tazaki財団が、 2026年度（第11期生）奨学生 を募集します。 対象は、日本国内の高校に通う高校1年生。 選考後、",
+      "tags": [
+        "留学",
+        "多文化交流"
+      ],
+      "url": "https://kikkakeportal.com/2023/11/14/2043"
+    },
+    {
       "id": "tokoron-camerakan-woder-photo-2027",
       "title": "ワンダーフォトコンテスト 2026-2027",
       "org": "ミュゼふくおかカメラ館",
@@ -3943,6 +4013,32 @@
         "写真"
       ],
       "url": "https://compe.japandesign.ne.jp/camerakan-woder-photo-2027/"
+    },
+    {
+      "id": "kikkake-4938",
+      "title": "東京創元社 創作SF短編賞募集",
+      "org": "公式サイトを確認",
+      "type": "コンテスト",
+      "audience": "中学生・高校生 対象",
+      "deadline": "応募締切 2027年1月12日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-12",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "詳細は公式サイトをご確認ください。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://kikkakeportal.com/2024/10/20/4938"
     },
     {
       "id": "tokoron-jalc-design-2027",
@@ -4080,6 +4176,39 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/b-machi-keikansen-kaiga-2027/"
+    },
+    {
+      "id": "kikkake-2381",
+      "title": "アメリカでバスケを！スラムダンク奨学金募集：高校生対象",
+      "org": "公式サイトを確認",
+      "type": "奨学金",
+      "audience": "高校生 対象",
+      "deadline": "応募締切 2027年1月31日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-31",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": "アメリカ"
+      },
+      "onlineTool": null,
+      "summary": "詳細は公式サイトをご確認ください。",
+      "tags": [
+        "留学",
+        "多文化交流",
+        "スポーツ科学"
+      ],
+      "url": "https://kikkakeportal.com/2023/12/25/2381"
     },
     {
       "id": "tokoron-rose-theatre-art-generation-2027",
