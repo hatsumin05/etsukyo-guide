@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-20",
-  "lastSyncedAt": "2026-09-20T08:03:38+09:00",
+  "lastSynced": "2026-09-21",
+  "lastSyncedAt": "2026-09-21T08:07:56+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -164,34 +164,6 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/sho-in-creative-award-2026/"
-    },
-    {
-      "id": "kikkake-8171",
-      "title": "あなたの声をユネスコへ届けよう！ 2030年以降の世界の教育を考えるオンライン調査にご参加ください （対象：11歳～30歳／締切：2026年9月20日）",
-      "org": "公式サイトを確認",
-      "type": "プログラム",
-      "audience": "小学生・中学生 対象",
-      "deadline": "応募締切 2026年9月20日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-20",
-      "format": "unknown",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「未来の教育はどうあるべきだろう？」 「AI時代に必要な学びとは？」 「学校でどんな力を身に付けたい？」 ユネスコでは現在、2030年以降の教育の在り方（ポスト2030教育アジェンダ）について、世界中の若者や学生の意見を募集しています。",
-      "tags": [
-        "多文化交流",
-        "社会科学",
-        "プログラミング"
-      ],
-      "url": "https://kikkakeportal.com/2026/07/01/8171"
     },
     {
       "id": "tokoron-kokoronobansoukou-manga-2026",
@@ -595,7 +567,7 @@
       "id": "kikkake-8522",
       "title": "【3か月で280万円支給】IAPS AI Policy Fellowship 2027｜D.C.研修＋リモート可",
       "org": "公式サイトを確認",
-      "type": "インターン",
+      "type": "プログラム",
       "audience": "中学生・高校生 対象",
       "deadline": "応募締切 2026年9月27日",
       "eventStart": null,
