@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-21",
-  "lastSyncedAt": "2026-09-21T08:07:56+09:00",
+  "lastSynced": "2026-09-22",
+  "lastSyncedAt": "2026-09-22T09:00:11+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -138,32 +138,6 @@
         "プログラミング"
       ],
       "url": "https://sendaiaiclub2026-basiclec01.peatix.com/"
-    },
-    {
-      "id": "tokoron-sho-in-creative-award-2026",
-      "title": "U-18 Creative Award 2026",
-      "org": "学校法人 至誠義塾 松陰高等学校",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 中学生、高校生、または12~18歳の方",
-      "deadline": "2026年09月20日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-20",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "私たちは、キミの頭の中のちょっと変わった部分に出会いたい。 「こんなの作品って呼べるのかな？」「未来って言っても、ただの妄想かも…」 そんな迷いこそが、まだ誰も見たことのない未来への入り口です。 未来への希望や夢、楽しみ",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/sho-in-creative-award-2026/"
     },
     {
       "id": "tokoron-kokoronobansoukou-manga-2026",
@@ -567,7 +541,7 @@
       "id": "kikkake-8522",
       "title": "【3か月で280万円支給】IAPS AI Policy Fellowship 2027｜D.C.研修＋リモート可",
       "org": "公式サイトを確認",
-      "type": "プログラム",
+      "type": "奨学金",
       "audience": "中学生・高校生 対象",
       "deadline": "応募締切 2026年9月27日",
       "eventStart": null,
@@ -2237,6 +2211,30 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/wakayama-data-idea-2026/"
+    },
+    {
+      "id": "kikkake-6723",
+      "title": "【参加無料・交通費全額支援】かめのり未来をつくるリーダーシッププロジェクト2026",
+      "org": "公式サイトを確認",
+      "type": "プログラム",
+      "audience": "高校生・大学生 対象",
+      "deadline": "応募締切 2026年10月9日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-09",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "参加費無料。東京での宿泊研修にかかる宿泊費・食費に加え、往復交通費も全額支援。 公益財団法人かめのり財団が、 「かめのり未来をつくるリーダーシッププロジェクト2026」 の参加者を募集しています。 対象は高校生から大学3年生まで。",
+      "tags": [],
+      "url": "https://kikkakeportal.com/2025/09/17/6723"
     },
     {
       "id": "tokoron-miyagi-pia-dgp-tohoku-2026",
