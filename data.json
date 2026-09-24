@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-24",
-  "lastSyncedAt": "2026-09-24T08:32:37+09:00",
+  "lastSynced": "2026-09-25",
+  "lastSyncedAt": "2026-09-25T08:50:34+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -138,86 +138,6 @@
         "プログラミング"
       ],
       "url": "https://sendaiaiclub2026-basiclec01.peatix.com/"
-    },
-    {
-      "id": "tokoron-kokoronobansoukou-manga-2026",
-      "title": "こころの絆創膏マンガコンテスト 2026",
-      "org": "名古屋市",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月23日 (水) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-23",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったマンガ(テーマ: あなたにとっての「こころの絆創膏」)を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kokoronobansoukou-manga-2026/"
-    },
-    {
-      "id": "tokoron-asia-u-koukousei-asia-photo-2026",
-      "title": "第6回 亜細亜大学 高校生アジアフォトコンテスト",
-      "org": "亜細亜大学 企画部 経営企画課 高校生アジアフォトコンテスト事務局",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 日本国内に在住の高校生",
-      "deadline": "2026年09月23日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-23",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生によるテーマにそった未発表の写真(テーマ: わたしが見つけたアジア)を募集。",
-      "tags": [
-        "写真",
-        "多文化交流"
-      ],
-      "url": "https://compe.japandesign.ne.jp/asia-u-koukousei-asia-photo-2026/"
-    },
-    {
-      "id": "tokoron-kagakunobi-2026",
-      "title": "第9回 サイエンスフォトコンテスト",
-      "org": "科学技術団体連合 共催:文部科学省 協力:公益財団法人日本宇宙少年団、全国科学館連携協議会",
-      "type": "コンテスト",
-      "audience": "日本国内在住の方",
-      "deadline": "2026年09月23日 (水) 作品提出・応募締切",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-23",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった写真(テーマ: 発見！身近な科学の不思議や驚き)を募集。",
-      "tags": [
-        "写真",
-        "自然科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kagakunobi-2026/"
     },
     {
       "id": "tokoron-dsa-jsd-student-2026",
@@ -3446,6 +3366,34 @@
         "多文化交流"
       ],
       "url": "https://compe.japandesign.ne.jp/oac-gakusei-2026/"
+    },
+    {
+      "id": "tokoron-fukushima-mirai-challenge-2026",
+      "title": "いっしょに考える「福島、その先の環境へ。」チャレンジ・アワード 2026",
+      "org": "環境省 共催:福島県、福島県教育委員会",
+      "type": "コンテスト",
+      "audience": "中・高校生、学生限定 / ●中学生 ●高校生",
+      "deadline": "2026年11月15日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-15",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったプレゼンテーション、またはアートポスター(テーマ: いっしょに考える「福島、その先の環境へ。」)を募集。",
+      "tags": [
+        "社会科学",
+        "アート",
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/fukushima-mirai-challenge-2026/"
     },
     {
       "id": "tokoron-clt-design-award-2026",
