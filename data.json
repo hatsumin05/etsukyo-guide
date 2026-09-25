@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-25",
-  "lastSyncedAt": "2026-09-25T08:50:34+09:00",
+  "lastSynced": "2026-09-26",
+  "lastSyncedAt": "2026-09-26T08:56:40+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -138,112 +138,6 @@
         "プログラミング"
       ],
       "url": "https://sendaiaiclub2026-basiclec01.peatix.com/"
-    },
-    {
-      "id": "tokoron-dsa-jsd-student-2026",
-      "title": "DSA 日本空間デザイン学生賞 2026",
-      "org": "一般社団法人 日本空間デザイン協会(DSA)",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 高校生、高等専門学校生、専門学校生、大学生、大学院生",
-      "deadline": "2026年09月24日 (木) 作品提出・応募締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-24",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった空間デザイン(テーマ: ワクワクする「空間」から生まれる感動や体験を、自由な発想で「デザイン」し、発表すること)",
-      "tags": [
-        "建築",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/dsa-jsd-student-2026/"
-    },
-    {
-      "id": "tokoron-urawa-toy-2026",
-      "title": "第10回 浦和大学おもちゃコンテスト",
-      "org": "浦和大学",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校に在学する生徒",
-      "deadline": "2026年09月24日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-24",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "1～6歳のこどもが安全に遊べるおもちゃを募集。",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/urawa-toy-2026/"
-    },
-    {
-      "id": "tokoron-jfc-highschool-business-plan-2026",
-      "title": "第14回 高校生ビジネスプラン・グランプリ",
-      "org": "日本政策金融公庫",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 全国の高等学校(中等教育学校後期課程を含む)および高等専門学校(1~3年生のみを対象)の生徒・学生からなるグループまたは個人",
-      "deadline": "2026年09月24日 (木) ビジネスプランシート応募・提出締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-24",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生・高専生ならではの、日本の未来、地域の未来を切り拓くビジネスプランを募集。",
-      "tags": [
-        "起業",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/jfc-highschool-business-plan-2026/"
-    },
-    {
-      "id": "tokoron-niigata-manga-2026",
-      "title": "第29回 にいがたマンガ大賞",
-      "org": "にいがたマンガ大賞実行委員会(新潟市、株式会社ガタケット、JAM日本アニメ・マンガ専門学校、開志専門職大学アニメ・マンガ学部)",
-      "type": "コンテスト",
-      "audience": "プロ・アマ不問",
-      "deadline": "2026年09月24日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-24",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "未発表のオリジナルマンガを募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/niigata-manga-2026/"
     },
     {
       "id": "tokoron-hchs-illust-2026",
@@ -1948,6 +1842,34 @@
         "社会科学"
       ],
       "url": "https://compe.japandesign.ne.jp/kbs-kyoto-jitensha-koutsuanzen-cm-2026/"
+    },
+    {
+      "id": "tokoron-fbc-highschool-radio-cm-2026",
+      "title": "第5回 FBC高校生ラジオCMコンテスト",
+      "org": "福井放送株式会社(FBC)",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 福井県内の高校生",
+      "deadline": "2026年10月04日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-04",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "福井県",
+        "prefectures": [
+          "福井県"
+        ],
+        "note": "福井県内の高校生"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにもとづく20秒・40秒・60秒のラジオCMコピー（原稿）(テーマ: 「しあわせ」)を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/fbc-highschool-radio-cm-2026/"
     },
     {
       "id": "tokoron-kaiyu-art-artist-debut-2026",
@@ -3912,6 +3834,30 @@
       "url": "https://compe.japandesign.ne.jp/nenrin-tanba-etegami-2026/"
     },
     {
+      "id": "tokoron-roperope675-highschool-sekkei-2026",
+      "title": "高校生設計競技 2026-27",
+      "org": "建築競技会",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 2026年4月現在、関東の工業高等学校等在籍の生徒",
+      "deadline": "2026年12月31日 (木) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "授業や課題で取り組んだ設計作品を募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/roperope675-highschool-sekkei-2026/"
+    },
+    {
       "id": "tokoron-resas-edu-idea-connect-2027",
       "title": "地域応援アイデアコネクト 7th",
       "org": "RESAS活用教育推進委員会",
@@ -4223,6 +4169,58 @@
       "url": "https://compe.japandesign.ne.jp/rose-theatre-art-generation-2027/"
     },
     {
+      "id": "tokoron-kurushimatakehiko-douwa-2027",
+      "title": "第9回 久留島武彦童話賞 ～子ども創作童話コンクール～",
+      "org": "久留島武彦記念館",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 小学生~高校生(18歳未満)",
+      "deadline": "2027年01月31日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "未発表オリジナルの創作童話を募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kurushimatakehiko-douwa-2027/"
+    },
+    {
+      "id": "tokoron-fukui-sam-2027",
+      "title": "第43回 FUKUIサムホール美術展",
+      "org": "公益財団法人 金津創作の森財団、FBC",
+      "type": "コンテスト",
+      "audience": "【一般】 不問 【学生】 学校教育法所定の大学・大学院・短期大学・高等学校・高等専門学校・専門学校・専修学校の学生または生徒",
+      "deadline": "2027年02月19日 (金) 作品提出・応募締切、必着※直接搬入の場合は、10:00~17:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-02-19",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "画面の大きさがサムホールサイズの絵画を募集。",
+      "tags": [
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/fukui-sam-2027/"
+    },
+    {
       "id": "tokoron-sdgs-award-2027",
       "title": "#SASS2026「大学生による中高生のためのSDGs／サスティナビリティアワード」",
       "org": "#SASS2026実行委員会",
@@ -4328,6 +4326,34 @@
         "多文化交流"
       ],
       "url": "https://compe.japandesign.ne.jp/kyoto-bungaku-2027/"
+    },
+    {
+      "id": "tokoron-komatsu-8882-2027",
+      "title": "第13回 小松ビジュアル俳句コンテスト",
+      "org": "石川県小松市",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2027年06月25日 (金) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-06-25",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「俳句」と「写真または絵」を組み合わせた“ビジュアル俳句”を募集。",
+      "tags": [
+        "短歌・俳句",
+        "多文化交流",
+        "英語"
+      ],
+      "url": "https://compe.japandesign.ne.jp/komatsu-8882-2027/"
     },
     {
       "id": "manual-aig-hsd",
