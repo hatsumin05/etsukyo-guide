@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-26",
-  "lastSyncedAt": "2026-09-26T08:56:40+09:00",
+  "lastSynced": "2026-09-27",
+  "lastSyncedAt": "2026-09-27T08:29:02+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -138,218 +138,6 @@
         "プログラミング"
       ],
       "url": "https://sendaiaiclub2026-basiclec01.peatix.com/"
-    },
-    {
-      "id": "tokoron-hchs-illust-2026",
-      "title": "2026 中学生・高校生 イラストコンテスト",
-      "org": "学校法人 佐藤学園 ヒューマンキャンパス高等学校、学校法人 佐藤学園 ヒューマンキャンパスのぞみ高等学校",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 2026年9月25日(締切日)時点で中学生、もしくは高校生であること",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったイラスト(テーマ: ひゅーにゃんとそのなかま)を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/hchs-illust-2026/"
-    },
-    {
-      "id": "tokoron-iiiartman-cell-2026",
-      "title": "IIIARTMAN-CELL ～ Students’ Show 2026～",
-      "org": "株式会社アートチューンズ | artTunes Co.,Ltd. オフィシャルパートナー:株式会社JERA",
-      "type": "コンテスト",
-      "audience": "学生限定 / 日本国内の高校生、専門学校生、大学生(大学院生は除く)による3人1組のチーム",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "3人1組のチームによるアートの企画を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/iiiartman-cell-2026/"
-    },
-    {
-      "id": "tokoron-cerasta-tile-compe-2026",
-      "title": "the TILE competition 2026",
-      "org": "CERASTA 2026実行委員会",
-      "type": "コンテスト",
-      "audience": "学生限定 / 国内外の大学院・大学・短期大学・高専・専門学校・高校に在籍する29歳以下(2026年4月1日時点)の学生",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、必着※郵送分も9月25日必着とする",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "タイルを用いたファサードのデザインを募集。",
-      "tags": [
-        "建築",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/cerasta-tile-compe-2026/"
-    },
-    {
-      "id": "tokoron-wfp-essay-2026",
-      "title": "WFPチャリティー エッセイコンテスト 2026",
-      "org": "認定NPO法人 国連WFP協会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、必着※Web応募は、2026年9月30日必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表のエッセイ(テーマ: 今日の食事が当たり前でなくなったら)を募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/wfp-essay-2026/"
-    },
-    {
-      "id": "tokoron-kunisakicc-kansoubun-2026",
-      "title": "ゆめほたる 環境読書感想文コンクール 2026",
-      "org": "国崎クリーンセンター啓発施設「ゆめほたる」",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 日本全国の小学3年生~高校3年生",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった読書感想文(テーマ: 「地球の環境問題」)を募集。",
-      "tags": [
-        "文章・作文",
-        "自然科学",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kunisakicc-kansoubun-2026/"
-    },
-    {
-      "id": "tokoron-gunmabunkazigyodan-2026",
-      "title": "第14回 GUNMAマンガ・アニメフェスタ 作品募集",
-      "org": "GUNMAマンガ・アニメフェスタ実行委員会、群馬県、公益財団法人 群馬県教育文化事業団",
-      "type": "コンテスト",
-      "audience": "日本国内に在住の方",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "オリジナルのマンガ、4コマまんが、アニメーション、またはイラストを募集。",
-      "tags": [
-        "映像制作",
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/gunmabunkazigyodan-2026/"
-    },
-    {
-      "id": "tokoron-junior-jpling-nihongo-2026",
-      "title": "第5回 中高生日本語研究コンテスト",
-      "org": "日本語学会",
-      "type": "コンテスト",
-      "audience": "中・高校生、学生限定 / 中学生、高校生、高専生(3年生まで)からなる六人以下のグループまたは個人",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、15:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "日本語に関する研究(テーマ: 研究の内容は、日本語に関することであればどんなことでも可)を募集。",
-      "tags": [
-        "研究発表"
-      ],
-      "url": "https://compe.japandesign.ne.jp/junior-jpling-nihongo-2026/"
-    },
-    {
-      "id": "tokoron-inpit-patent-2026",
-      "title": "令和8年度 パテントコンテスト／デザインパテントコンテスト",
-      "org": "文部科学省、特許庁、日本弁理士会、独立行政法人 工業所有権情報・研修館(INPIT)",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 日本国内の学校に在籍する高校生、高等専門学校生、大学生、専修学校生、大学校生",
-      "deadline": "2026年09月25日 (金) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "パテントコンテスト・デザインパテントコンテス（パテコン）は、高校生、高等専門学校生、大学生、専修学校生及び大学校生の皆さんが、自分で考えた発明（技術的アイデア）や意匠（モノのデザイン）を応募できるコンテ",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/inpit-patent-2026/"
     },
     {
       "id": "kikkake-8522",
@@ -608,6 +396,32 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/osaka-seikei-2026/"
+    },
+    {
+      "id": "kikkake-4496",
+      "title": "WFPチャリティー エッセイコンテスト2026｜応募1作品で給食2人分、小学4年生から大人まで",
+      "org": "公式サイトを確認",
+      "type": "コンテスト",
+      "audience": "小学生・中学生 対象",
+      "deadline": "応募締切 2026年9月30日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "200文字から応募できるエッセイが、途上国の子ども2人分の学校給食につながります。 認定NPO法人 国連WFP協会が、 「WFPチャリティー エッセイコンテスト2026」 を開催しています。 今回のテーマは、",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://kikkakeportal.com/2024/08/28/4496"
     },
     {
       "id": "tokoron-seimu-sekkei-2026",
