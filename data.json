@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-28",
-  "lastSyncedAt": "2026-09-28T08:44:45+09:00",
+  "lastSynced": "2026-09-29",
+  "lastSyncedAt": "2026-09-29T09:55:29+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -138,32 +138,6 @@
         "プログラミング"
       ],
       "url": "https://sendaiaiclub2026-basiclec01.peatix.com/"
-    },
-    {
-      "id": "tokoron-janic-idea-2026",
-      "title": "JANICユースアワード 2026",
-      "org": "特定非営利活動法人 国際協力NGOセンター(JANIC)",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 全国の高校生、大学生、大学院生、専門学生",
-      "deadline": "2026年09月27日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-09-27",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったアイデア(テーマ: 世界を救う、私の日常。 ～毎日の「暮らし」から新しい発見とアイデアで世界をちょっとずつ変えていこう。～)",
-      "tags": [
-        "多文化交流"
-      ],
-      "url": "https://compe.japandesign.ne.jp/janic-idea-2026/"
     },
     {
       "id": "manual-afs-year-2027",
@@ -363,6 +337,38 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/osaka-seikei-2026/"
+    },
+    {
+      "id": "kikkake-4586",
+      "title": "IRENA Youth Forum 2027参加者募集｜最大40名が渡航費・宿泊費支援でUAEへ",
+      "org": "公式サイトを確認",
+      "type": "プログラム",
+      "audience": "高校生・大学生 対象",
+      "deadline": "応募締切 2026年9月30日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-09-30",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": null
+      },
+      "onlineTool": null,
+      "summary": "渡航費・宿泊費などの支援を受け、UAE・アブダビで世界の若者やエネルギー分野の専門家と議論するチャンスです。 国際再生可能エネルギー機関（IRENA）は、",
+      "tags": [
+        "留学",
+        "多文化交流"
+      ],
+      "url": "https://kikkakeportal.com/2024/09/07/4586"
     },
     {
       "id": "kikkake-4496",
@@ -2001,6 +2007,38 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/mext-sports-idea-design-2026/"
+    },
+    {
+      "id": "kikkake-8597",
+      "title": "東京都の中高生募集！国内外4都市の10代と交流「TEENS SQUARE TOKYO PROJECT 2027」",
+      "org": "公式サイトを確認",
+      "type": "プログラム",
+      "audience": "中学生・高校生 対象",
+      "deadline": "応募締切 2026年10月13日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-13",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": null
+      },
+      "onlineTool": null,
+      "summary": "海外2都市・国内2都市から集まる10代と、東京で意見を交わすチャンス。 東京都が、都内在住または在学の中高生世代を対象に「TEENS SQUARE TOKYO PROJECT 2027」の参加者20〜24名程度を募集しています。",
+      "tags": [
+        "留学",
+        "多文化交流"
+      ],
+      "url": "https://kikkakeportal.com/2026/09/28/8597"
     },
     {
       "id": "tokoron-kepco-collabo-art-2026",
