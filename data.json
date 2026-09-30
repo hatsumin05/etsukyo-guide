@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-09-29",
-  "lastSyncedAt": "2026-09-29T09:55:29+09:00",
+  "lastSynced": "2026-09-30",
+  "lastSyncedAt": "2026-09-30T09:15:04+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -3053,6 +3053,32 @@
       "url": "https://compe.japandesign.ne.jp/iimefukurame-tokyo-27-2026/"
     },
     {
+      "id": "tokoron-ono-uedamiyoji-tanka-2026",
+      "title": "第38回 上田三四二記念「小野市短歌フォーラム」",
+      "org": "兵庫県小野市、小野市教育委員会、小野市文化連盟",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2026年11月10日 (火) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-10",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "自作未発表の短歌を募集。",
+      "tags": [
+        "短歌・俳句"
+      ],
+      "url": "https://compe.japandesign.ne.jp/ono-uedamiyoji-tanka-2026/"
+    },
+    {
       "id": "tokoron-ngu-pop-design-2026",
       "title": "POPコンテスト 2026",
       "org": "名古屋学院大学 商学部",
@@ -3324,6 +3350,32 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/monomake-okayama-idea-2026/"
+    },
+    {
+      "id": "tokoron-tobiseiban-instagram-photo-2026",
+      "title": "JR山陽本線・赤穂線 インスタグラムフォトコンテスト 2026",
+      "org": "東備西播定住自立圏域JR利用促進協議会",
+      "type": "コンテスト",
+      "audience": "賞品発送の都合上、応募は国内在住の方に限る",
+      "deadline": "2026年11月30日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写真(テーマ: JR山陽本線またはJR赤穂線の車内および車窓または駅構内からの風景)を募集。",
+      "tags": [
+        "写真"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tobiseiban-instagram-photo-2026/"
     },
     {
       "id": "tokoron-kotowaza-kentei-creative-2026",
