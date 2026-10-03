@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-02",
-  "lastSyncedAt": "2026-10-02T09:38:12+09:00",
+  "lastSynced": "2026-10-03",
+  "lastSyncedAt": "2026-10-03T09:20:18+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,88 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-osaka-seikei-art-design-2026",
-      "title": "第16回 大阪成蹊全国アート＆デザインコンペティション 2026",
-      "org": "学校法人 大阪成蹊学園",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 【高校生の部】 日本国内在住の高校生、または文部科学大臣から日本の高等学校課程相当と認定された在外教育施設に在籍する者",
-      "deadline": "2026年10月01日 (木) 作品データ提出・応募締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-01",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったアート・デザイン作品(テーマ: 「YOU」)を募集。",
-      "tags": [
-        "アート",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/osaka-seikei-art-design-2026/"
-    },
-    {
-      "id": "tokoron-mudenchuka-photo-2026",
-      "title": "第6回 「無電柱化の日」フォトコンテスト",
-      "org": "東京都",
-      "type": "コンテスト",
-      "audience": "東京都内在住、在勤、在学の方",
-      "deadline": "2026年10月01日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-01",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "東京都",
-        "prefectures": [
-          "東京都"
-        ],
-        "note": "東京都内在住、在勤、在学の方"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "東京都内の道路上で撮影した写真(テーマ: （1）電柱がなければ“もっとよくなる”風景 （2）無電柱化したから“こんなにいい”風景 （3）無電柱化したい…)",
-      "tags": [
-        "写真"
-      ],
-      "url": "https://compe.japandesign.ne.jp/mudenchuka-photo-2026/"
-    },
-    {
-      "id": "tokoron-yamakaji-poster-hyogo-2026",
-      "title": "令和8年度 山火事予防ポスター用原画・標語の募集",
-      "org": "一般財団法人日本森林林業振興会 【後援】 総務省消防庁、文部科学省、林野庁、全国森林組合連合会、森林火災対策協会",
-      "type": "コンテスト",
-      "audience": "【原画の部】 全国の中学生、高校生(中等教育学校および特別支援学校等の生徒を含む) 【標語の部】 全国の中学生、高校生…",
-      "deadline": "2026年10月01日 (木) 作品提出・応募締切、消印有効 ※応募開始は6月1日(月)から",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-01",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "森林は、雨水を貯える「緑のダム」と呼ばれ、土砂崩れを防いだり、二酸化炭素を吸収して地球温暖化を防いだり、多くの生き物の棲み家となるなど、いろいろな働きで国民の生活を守っています。 ところが、一旦山火事が発生し、森林がなく",
-      "tags": [
-        "文章・作文",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/yamakaji-poster-hyogo-2026/"
     },
     {
       "id": "tokoron-jamca-prize-2026",
@@ -1094,6 +1012,33 @@
       "url": "https://compe.japandesign.ne.jp/fujifilm-photo-2026/"
     },
     {
+      "id": "tokoron-kagakunohi-kan-badge-2026",
+      "title": "2026年版 化学の日「缶バッジデザイン」募集",
+      "org": "公益社団法人日本化学会",
+      "type": "コンテスト",
+      "audience": "小学生以上",
+      "deadline": "2026年10月23日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-23",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "日本化学会、化学工学会、新化学技術推進協会、日本化学工業協会は毎年10月23日を「化学の日」、その日を含む一週間を「化学週間」と決め、さまざまな活動を行っています。さらに多くの皆様に「化学の日」に参加していただくことを目",
+      "tags": [
+        "デザイン",
+        "自然科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kagakunohi-kan-badge-2026/"
+    },
+    {
       "id": "tokoron-bisai-monozukuri-expert-bisai-creators-stu-2026",
       "title": "EXPERT BISAI CREATORS CONTEST 2026 学生部門",
       "org": "一般社団法人 微細加工工業会",
@@ -1120,16 +1065,16 @@
       "url": "https://compe.japandesign.ne.jp/bisai-monozukuri-expert-bisai-creators-stu-2026/"
     },
     {
-      "id": "tokoron-akita-pu-ac-kenchiku-2026",
-      "title": "秋田県立大学 全国高校生建築提案コンテスト 2026",
-      "org": "公立大学法人 秋田県立大学",
+      "id": "tokoron-hita-iwasawa-100th-kaiga-2026",
+      "title": "岩澤重夫賞「私の好きな風景画コンクール」 作品募集",
+      "org": "大分県日田市、日田市民文化振興基金実行委員会",
       "type": "コンテスト",
-      "audience": "高校生、学生限定 / 高校生",
-      "deadline": "2026年10月25日 (日) 応募締切、消印有効",
+      "audience": "小・中・高校生限定 / 小学5・6年生、中学生、高校性",
+      "deadline": "2026年10月23日 (金) 作品提出・応募締切、必着",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
-      "applyEnd": "2026-10-25",
+      "applyEnd": "2026-10-23",
       "format": "submission",
       "area": {
         "scope": "national",
@@ -1139,23 +1084,23 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "高校生による、テーマにそった建築的なアイデア(テーマ: ととのう建築)を募集。",
+      "summary": "テーマにそった風景画(テーマ: 「私の好きな風景」)を募集。",
       "tags": [
-        "建築"
+        "アート"
       ],
-      "url": "https://compe.japandesign.ne.jp/akita-pu-ac-kenchiku-2026/"
+      "url": "https://compe.japandesign.ne.jp/hita-iwasawa-100th-kaiga-2026/"
     },
     {
-      "id": "tokoron-keikan-kaika-2026",
-      "title": "景観開花。 2026",
-      "org": "東北大学工学部建築・社会環境工学科 平野研究室、景観開花。実行委員会",
+      "id": "tokoron-k-kikou-kodomo-sakubun-2026",
+      "title": "第8回 全国子ども防災作文コンクール",
+      "org": "全国子ども防災作文コンクール実行委員会",
       "type": "コンテスト",
-      "audience": "以下の条件を満たす人物・団体を応募対象者とする ・2026年4月1日現在…",
-      "deadline": "2026年10月27日 (火) 作品提出・応募締切、必着",
+      "audience": "小・中・高校生限定 / 小学生・中学生・高校生(および同年齢の方)",
+      "deadline": "2026年10月23日 (金) 作品提出・応募締切、消印有効",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
-      "applyEnd": "2026-10-27",
+      "applyEnd": "2026-10-23",
       "format": "submission",
       "area": {
         "scope": "national",
@@ -1165,38 +1110,12 @@
       },
       "venue": null,
       "onlineTool": null,
-      "summary": "テーマにそった土木デザイン(テーマ: 「DOCKing Port」)を募集。",
+      "summary": "テーマにそった未発表の作文(テーマ: 自然災害があっても生き抜くために、みなさんが「考えたこと」)を募集。",
       "tags": [
-        "建築",
-        "デザイン"
+        "文章・作文",
+        "社会科学"
       ],
-      "url": "https://compe.japandesign.ne.jp/keikan-kaika-2026/"
-    },
-    {
-      "id": "tokoron-cfo-4-2026",
-      "title": "“未来よし”ビジネスコンテスト（CFO第4期生募集）",
-      "org": "株式会社ホロニック",
-      "type": "コンテスト",
-      "audience": "高・大学生限定 / ・満16歳以上満20歳以下の全国の高校・大学に在籍する学生 ・個人または最大3名までのグループ ・一次選考通過者は…",
-      "deadline": "2026年10月30日 (金) 作品提出・応募締切 11:00まで",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "CFOとは、“CHIEF FUTURESHIP ORGANIZER”の略で、株式会社ホロニックの未来創造最高責任者として自分たちが理想とする社会、そこに帰属する理想的な会社（組織像）を創造し経営ボードへの具申・提言を行っ",
-      "tags": [
-        "起業"
-      ],
-      "url": "https://compe.japandesign.ne.jp/cfo-4-2026/"
+      "url": "https://compe.japandesign.ne.jp/k-kikou-kodomo-sakubun-2026/"
     },
     {
       "id": "tokoron-sumire-shigatan-tedukuri-ehon-2026",
@@ -1223,6 +1142,32 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/sumire-shigatan-tedukuri-ehon-2026/"
+    },
+    {
+      "id": "tokoron-26-shortstory-2026",
+      "title": "26 短編小説コンテスト",
+      "org": "北海道大学 COI-NEXT「こころとカラダのライフデザイン共創拠点」",
+      "type": "コンテスト",
+      "audience": "中・高校生、学生限定 / 中学生・高等専門学生・高校生",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった短編小説(テーマ: 以下のいずれか一つまたは複数をテーマにした短編小説 ・「距離感／Sense of Distance」-心地よ…)",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/26-shortstory-2026/"
     },
     {
       "id": "tokoron-turner-award-2026",
@@ -1277,33 +1222,6 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/okagakuen-charat-2026/"
-    },
-    {
-      "id": "tokoron-sist-monokoto-idea-2026",
-      "title": "高校生「ものづくり・ことづくり」プランコンテスト 2026",
-      "org": "浜松市、静岡理工科大学",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 高校生",
-      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-31",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による「ものづくり」や「ことづくり」のオリジナルアイデア(テーマ: （1）ものづくり分野：機械加工物、電子部品、生活用品の改良等 （2）ことづくり分野：イベント企画、ビジネスプ…)",
-      "tags": [
-        "起業",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/sist-monokoto-idea-2026/"
     },
     {
       "id": "tokoron-logoo-sk-yell-2026",
@@ -1489,6 +1407,35 @@
         "写真"
       ],
       "url": "https://compe.japandesign.ne.jp/yomiuri-photogp-teen-2026/"
+    },
+    {
+      "id": "tokoron-miyazaki-ebooks-kankyo-ehon-2026",
+      "title": "第4回 みやざき環境絵本コンテスト",
+      "org": "宮崎県環境森林部環境森林課",
+      "type": "コンテスト",
+      "audience": "宮崎県内在住の方に限る",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "宮崎県",
+        "prefectures": [
+          "宮崎県"
+        ],
+        "note": "宮崎県内在住の方に限る"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった創作絵本(テーマ: 「4R」をテーマとした創作絵本)を募集。",
+      "tags": [
+        "アート",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/miyazaki-ebooks-kankyo-ehon-2026/"
     },
     {
       "id": "tokoron-machien-hamamatsu-bungaku-2026",
