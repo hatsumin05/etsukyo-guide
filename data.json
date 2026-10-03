@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-03",
-  "lastSyncedAt": "2026-10-03T09:20:18+09:00",
+  "lastSynced": "2026-10-04",
+  "lastSyncedAt": "2026-10-04T08:41:56+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,117 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-jamca-prize-2026",
-      "title": "JAMCA PRIZE 2026 フォトコンテスト 絵画／イラストコンテスト",
-      "org": "JAMCA(全国自動車大学校・整備専門学校協会)",
-      "type": "コンテスト",
-      "audience": "【フォトコンテスト】 学生部門:小・中・高等学校・専門学校・大学・大学院に籍を置く方 一般部門:不問(学生も応募可) 【絵画・イ…",
-      "deadline": "2026年10月02日 (金) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-02",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "JAMCA（全国自動車大学校・整備専門学校協会）が、「JAMCA PRIZE 2026」を開催します。若者たちの青春のワンシーンや身近なクルマをテーマにした写真、理想のクルマや未来のクルマをテーマにした絵画・イラスト等を",
-      "tags": [
-        "写真",
-        "アート",
-        "マーケティング"
-      ],
-      "url": "https://compe.japandesign.ne.jp/jamca-prize-2026/"
-    },
-    {
-      "id": "tokoron-smtb-watashi-taishou-2026",
-      "title": "三井住友信託銀行 第4回 「わたし大賞」",
-      "org": "三井住友信託銀行株式会社 協力:株式会社朝日新聞社 後援:日本郵便株式会社",
-      "type": "コンテスト",
-      "audience": "アマチュアの方",
-      "deadline": "2026年10月02日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-02",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「わたし大賞」は、一人ひとりの心を動かした「人 モノ コト」に光を当て、賞状とエピソードにして讃え、書く人読む人の前向きな気持ちを共有することで、みなさまや社会の「幸せ」を創造する活動です。 三井住友信託銀行は、“心の財",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/smtb-watashi-taishou-2026/"
-    },
-    {
-      "id": "tokoron-med-inochi-photo-essay-2026",
-      "title": "第10回 生命（いのち）を見つめるフォト＆エッセー",
-      "org": "日本医師会、読売新聞社 後援:厚生労働省、文部科学省 協賛:東京海上日動火災保険株式会社、東京海上日動あんしん生命保険株式会社",
-      "type": "コンテスト",
-      "audience": "小学生以上",
-      "deadline": "2026年10月02日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-02",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "日本医師会と読売新聞社は、「第10回 生命（いのち）を見つめるフォト＆エッセー」を開催します。 フォト部門は、生命の尊さを感じさせる、あるいは生命の輝く瞬間をとらえた作品を募集。人、動物、自然など被写体は自由です。 エッ",
-      "tags": [
-        "文章・作文",
-        "写真",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/med-inochi-photo-essay-2026/"
-    },
-    {
-      "id": "tokoron-kbs-kyoto-jitensha-koutsuanzen-cm-2026",
-      "title": "第16回 自転車交通安全CMコンテスト",
-      "org": "KBS京都、京都府警察",
-      "type": "コンテスト",
-      "audience": "中・高校生、学生限定 / 【中学生部門】 京都府内の中学校に在学している中学生 【高校生部門】 京都府内の高等学校に在学している高校生 【大学・専門学校生…",
-      "deadline": "2026年10月02日 (金) 作品提出・応募締切、必着※警察署での受付は、平日9:00~17:45必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-02",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "京都府",
-        "prefectures": [
-          "京都府"
-        ],
-        "note": "【中学生部門】 京都府内の中学校に在学している中学生 【高校生部門】 京都府内の高等学校に在学している高校生 【大学・専門学校生部門】 2026年4月1日時点で30歳以下の京都府内の大学・専門学校に在"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったラジオまたはテレビCM(テーマ: 「自転車安全利用五則」 （1）車道は原則、左側を通行／歩道は例外、歩行者を優先 （2）交差点では信号と一時停…)",
-      "tags": [
-        "映像制作",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kbs-kyoto-jitensha-koutsuanzen-cm-2026/"
     },
     {
       "id": "tokoron-fbc-highschool-radio-cm-2026",
@@ -1118,6 +1007,85 @@
       "url": "https://compe.japandesign.ne.jp/k-kikou-kodomo-sakubun-2026/"
     },
     {
+      "id": "tokoron-akita-pu-ac-kenchiku-2026",
+      "title": "秋田県立大学 全国高校生建築提案コンテスト 2026",
+      "org": "公立大学法人 秋田県立大学",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 高校生",
+      "deadline": "2026年10月25日 (日) 応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-25",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高校生による、テーマにそった建築的なアイデア(テーマ: ととのう建築)を募集。",
+      "tags": [
+        "建築"
+      ],
+      "url": "https://compe.japandesign.ne.jp/akita-pu-ac-kenchiku-2026/"
+    },
+    {
+      "id": "tokoron-keikan-kaika-2026",
+      "title": "景観開花。 2026",
+      "org": "東北大学工学部建築・社会環境工学科 平野研究室、景観開花。実行委員会",
+      "type": "コンテスト",
+      "audience": "以下の条件を満たす人物・団体を応募対象者とする ・2026年4月1日現在…",
+      "deadline": "2026年10月27日 (火) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-27",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった土木デザイン(テーマ: 「DOCKing Port」)を募集。",
+      "tags": [
+        "建築",
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/keikan-kaika-2026/"
+    },
+    {
+      "id": "tokoron-cfo-4-2026",
+      "title": "“未来よし”ビジネスコンテスト（CFO第4期生募集）",
+      "org": "株式会社ホロニック",
+      "type": "コンテスト",
+      "audience": "高・大学生限定 / ・満16歳以上満20歳以下の全国の高校・大学に在籍する学生 ・個人または最大3名までのグループ ・一次選考通過者は…",
+      "deadline": "2026年10月30日 (金) 作品提出・応募締切 11:00まで",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "CFOとは、“CHIEF FUTURESHIP ORGANIZER”の略で、株式会社ホロニックの未来創造最高責任者として自分たちが理想とする社会、そこに帰属する理想的な会社（組織像）を創造し経営ボードへの具申・提言を行っ",
+      "tags": [
+        "起業"
+      ],
+      "url": "https://compe.japandesign.ne.jp/cfo-4-2026/"
+    },
+    {
       "id": "tokoron-sumire-shigatan-tedukuri-ehon-2026",
       "title": "2026年 高校生 手づくり絵本コンク－ル",
       "org": "滋賀短期大学 図書館",
@@ -1222,6 +1190,33 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/okagakuen-charat-2026/"
+    },
+    {
+      "id": "tokoron-sist-monokoto-idea-2026",
+      "title": "高校生「ものづくり・ことづくり」プランコンテスト 2026",
+      "org": "浜松市、静岡理工科大学",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 高校生",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高校生による「ものづくり」や「ことづくり」のオリジナルアイデア(テーマ: （1）ものづくり分野：機械加工物、電子部品、生活用品の改良等 （2）ことづくり分野：イベント企画、ビジネスプ…)",
+      "tags": [
+        "起業",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sist-monokoto-idea-2026/"
     },
     {
       "id": "tokoron-logoo-sk-yell-2026",
