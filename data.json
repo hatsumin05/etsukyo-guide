@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-05",
-  "lastSyncedAt": "2026-10-05T08:55:13+09:00",
+  "lastSynced": "2026-10-06",
+  "lastSyncedAt": "2026-10-06T10:43:36+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,114 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-fbc-highschool-radio-cm-2026",
-      "title": "第5回 FBC高校生ラジオCMコンテスト",
-      "org": "福井放送株式会社(FBC)",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 福井県内の高校生",
-      "deadline": "2026年10月04日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-04",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "福井県",
-        "prefectures": [
-          "福井県"
-        ],
-        "note": "福井県内の高校生"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにもとづく20秒・40秒・60秒のラジオCMコピー（原稿）(テーマ: 「しあわせ」)を募集。",
-      "tags": [
-        "映像制作"
-      ],
-      "url": "https://compe.japandesign.ne.jp/fbc-highschool-radio-cm-2026/"
-    },
-    {
-      "id": "tokoron-kaiyu-art-artist-debut-2026",
-      "title": "第5回 アーティストデビュー展",
-      "org": "池袋モンパルナス回遊美術館実行委員会",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 【個人】 豊島区で作品を発表したい中学生・高校生 【団体】 豊島区近郊の中学校・高等学校の美術部、アート教室等",
-      "deadline": "2026年10月04日 (日) 事前登録締切、必着※事務局へ持込みの場合:10月16日(金)~19日(月) 10:00~17:00受付※発払いで送付する場合:搬入の案内受信後(10月13日〈火〉ごろ)~10月19日(月)必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "ギャラリー展示が可能なオリジナル作品を募集。",
-      "tags": [
-        "映像制作",
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kaiyu-art-artist-debut-2026/"
-    },
-    {
-      "id": "tokoron-setouchi-drone-video-fes-2026",
-      "title": "第5回 瀬戸内ドローン映像祭",
-      "org": "一般社団法人 瀬戸内ドローン推進協議会",
-      "type": "コンテスト",
-      "audience": "●ドローンを飛行している方 ●可能な限り「第5回 ドローン映像祭」当日に参加できる方",
-      "deadline": "2026年10月04日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「第5回 瀬戸内ドローン映像祭」の出品作品を募集。",
-      "tags": [
-        "映像制作"
-      ],
-      "url": "https://compe.japandesign.ne.jp/setouchi-drone-video-fes-2026/"
-    },
-    {
-      "id": "tokoron-infratechcon-visual-2026",
-      "title": "「第8回 インフラテクコン 2027」メインビジュアルコンテスト",
-      "org": "インフラテクコン実行委員会(NPO法人 シビルNPO連携プラットフォーム)",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 大学院、大学、高専、短大、専門学校、高校に通っている学生",
-      "deadline": "2026年10月05日 (月) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-05",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「第8回 インフラテクコン 2027」の広報活動で使用するメインビジュアルデザインを募集。",
-      "tags": [
-        "デザイン",
-        "マーケティング"
-      ],
-      "url": "https://compe.japandesign.ne.jp/infratechcon-visual-2026/"
     },
     {
       "id": "tokoron-tsucrea-kanagawa-kikusuta-2026",
@@ -1976,6 +1868,32 @@
       "url": "https://compe.japandesign.ne.jp/cygames-saga-cc-2026/"
     },
     {
+      "id": "tokoron-andante21-hamaguri-art-2026",
+      "title": "第17回 ハマグリ貝アート展",
+      "org": "益田川と海をつなぐ自然環境保全活動組織",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2026年11月25日 (水) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-25",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "ハマグリ貝に描いたアートを募集。",
+      "tags": [
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/andante21-hamaguri-art-2026/"
+    },
+    {
       "id": "tokoron-nitf-fashion-design-2026",
       "title": "NITFファッションデザイン画コンテスト 2026",
       "org": "国際トータルファッション専門学校",
@@ -2000,6 +1918,32 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/nitf-fashion-design-2026/"
+    },
+    {
+      "id": "tokoron-nitf-fashion-snap-2026",
+      "title": "NITF高校生ファッションスナップコンテスト 2026",
+      "org": "国際トータルファッション専門学校",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 高校生",
+      "deadline": "2026年11月27日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-27",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったファッションスナップ(テーマ: 「AW（秋冬）コーディネート」)を募集。",
+      "tags": [
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/nitf-fashion-snap-2026/"
     },
     {
       "id": "tokoron-monomake-okayama-idea-2026",
@@ -2293,6 +2237,32 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/matsue-herun-yomu-2026/"
+    },
+    {
+      "id": "tokoron-kokoronouta-short-letter-2026",
+      "title": "令和8年度 10代のための「ありがとう」のショートレター募集",
+      "org": "島根県",
+      "type": "コンテスト",
+      "audience": "10~19歳の方(応募時)",
+      "deadline": "2026年12月07日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-07",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "10代のための「ありがとう」のショートレターを募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kokoronouta-short-letter-2026/"
     },
     {
       "id": "tokoron-kccollege-it-app-2026",
