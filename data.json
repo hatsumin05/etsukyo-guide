@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-06",
-  "lastSyncedAt": "2026-10-06T10:43:36+09:00",
+  "lastSynced": "2026-10-07",
+  "lastSyncedAt": "2026-10-07T09:32:11+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1082,33 +1082,6 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/okagakuen-charat-2026/"
-    },
-    {
-      "id": "tokoron-sist-monokoto-idea-2026",
-      "title": "高校生「ものづくり・ことづくり」プランコンテスト 2026",
-      "org": "浜松市、静岡理工科大学",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 高校生",
-      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-31",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による「ものづくり」や「ことづくり」のオリジナルアイデア(テーマ: （1）ものづくり分野：機械加工物、電子部品、生活用品の改良等 （2）ことづくり分野：イベント企画、ビジネスプ…)",
-      "tags": [
-        "起業",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/sist-monokoto-idea-2026/"
     },
     {
       "id": "tokoron-logoo-sk-yell-2026",
