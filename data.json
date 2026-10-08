@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-07",
-  "lastSyncedAt": "2026-10-07T09:32:11+09:00",
+  "lastSynced": "2026-10-08",
+  "lastSyncedAt": "2026-10-08T09:53:17+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,36 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-tsucrea-kanagawa-kikusuta-2026",
-      "title": "令和8年度 かながわ学生ビジネスアイデアコンテスト",
-      "org": "神奈川県",
-      "type": "コンテスト",
-      "audience": "中・高校生、学生限定 / ●神奈川県内在住または在学の30歳未満の学生(中学生・高校生・専門学校生・大学生・大学院生)",
-      "deadline": "2026年10月06日 (火) 事前登録締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-06",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "神奈川県",
-        "prefectures": [
-          "神奈川県"
-        ],
-        "note": "●神奈川県内在住または在学の30歳未満の学生(中学生・高校生・専門学校生・大学生・大学院生)"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったビジネスアイデア(テーマ: 「社会や地域の課題解決」や「研究の社会実装」等を目指したビジネスアイデア)を募集。",
-      "tags": [
-        "起業",
-        "社会科学",
-        "研究発表"
-      ],
-      "url": "https://compe.japandesign.ne.jp/tsucrea-kanagawa-kikusuta-2026/"
     },
     {
       "id": "tokoron-kokuyo-design-award-2027",
@@ -1108,33 +1078,6 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/logoo-sk-yell-2026/"
-    },
-    {
-      "id": "tokoron-kurukuru-plaza-eco-movie-2026",
-      "title": "第11回 環境啓発動画コンテスト",
-      "org": "公益財団法人 千里リサイクルプラザ",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-31",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった動画(テーマ: 環境問題について一人ひとりが考え、行動しよう！ ～地球温暖化、食品ロス、プラスチックごみ問題、再生可能エネル…)",
-      "tags": [
-        "映像制作",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kurukuru-plaza-eco-movie-2026/"
     },
     {
       "id": "tokoron-jam-character-illust-2026",
