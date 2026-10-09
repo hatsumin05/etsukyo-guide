@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-08",
-  "lastSyncedAt": "2026-10-08T09:53:17+09:00",
+  "lastSynced": "2026-10-09",
+  "lastSyncedAt": "2026-10-09T10:06:42+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,112 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-kokuyo-design-award-2027",
-      "title": "KOKUYO DESIGN AWARD 2027",
-      "org": "コクヨ株式会社",
-      "type": "コンテスト",
-      "audience": "最終審査にてプレゼンテーションが可能な方",
-      "deadline": "2026年10月07日 (水) 作品提出・応募締切",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「コクヨデザインアワード2027」では、“dialogue”をテーマに作品を募集します。本テーマは、「モノをつくる人と、つかう人」「つかう人とモノ」「モノとそれを取り巻く環境」との間にあり、優れたデザインの裏にある双方向",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kokuyo-design-award-2027/"
-    },
-    {
-      "id": "tokoron-expo-nijin-art-design-2026",
-      "title": "NIJIN教育万博 2026 アートデザインコンテスト",
-      "org": "株式会社NIJIN",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 国内外在住の小・中・高校生の個人",
-      "deadline": "2026年10月07日 (水) 事前登録締切、必着※規定人数に達し次第、受付終了(先着36名/展示スペースに余裕がある場合は最大45名まで受付)",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「NIJIN教育万博 2026」の出展作品を募集。",
-      "tags": [
-        "アート",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/expo-nijin-art-design-2026/"
-    },
-    {
-      "id": "tokoron-toyo-gakusei-tanka-2026",
-      "title": "第40回 東洋大学 「現代学生百人一首」",
-      "org": "学校法人 東洋大学",
-      "type": "コンテスト",
-      "audience": "小・中・高校生、学生限定 / ●中学生・高校生・高等専門学校生・短期大学生・大学生・大学院生・専修学校生・各種学校(予備校含む)生 ●小学生",
-      "deadline": "2026年10月07日 (水) 作品提出・応募締切",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-07",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった国内外で未発表の自作短歌(テーマ: 「現代学生のものの見方・生活感覚」を詠みこんだ短歌)を募集。",
-      "tags": [
-        "短歌・俳句"
-      ],
-      "url": "https://compe.japandesign.ne.jp/toyo-gakusei-tanka-2026/"
-    },
-    {
-      "id": "tokoron-wakayama-data-idea-2026",
-      "title": "第10回 和歌山県データ利活用コンペティション",
-      "org": "和歌山県",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 2026年12月12日に開催する最終審査会に参加可能であること",
-      "deadline": "2026年10月08日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-08",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "行政課題に対するデータを利活用した解決アイデア(テーマ: 「データで描くウェルビーング 地域の幸福度を高めるためのまちづくり」)",
-      "tags": [
-        "短歌・俳句",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/wakayama-data-idea-2026/"
     },
     {
       "id": "kikkake-6723",
@@ -1054,6 +948,33 @@
       "url": "https://compe.japandesign.ne.jp/okagakuen-charat-2026/"
     },
     {
+      "id": "tokoron-sist-monokoto-idea-2026",
+      "title": "高校生「ものづくり・ことづくり」プランコンテスト 2026",
+      "org": "浜松市、静岡理工科大学",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 高校生",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高校生による「ものづくり」や「ことづくり」のオリジナルアイデア(テーマ: （1）ものづくり分野：機械加工物、電子部品、生活用品の改良等 （2）ことづくり分野：イベント企画、ビジネスプ…)",
+      "tags": [
+        "起業",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sist-monokoto-idea-2026/"
+    },
+    {
       "id": "tokoron-logoo-sk-yell-2026",
       "title": "子から親へのエール論文コンクール 2026",
       "org": "ダイバーシティ推進実行委員会おかやま(岡山県、一般社団法人 岡山経済同友会、国立大学法人 岡山大学)",
@@ -1078,6 +999,33 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/logoo-sk-yell-2026/"
+    },
+    {
+      "id": "tokoron-kurukuru-plaza-eco-movie-2026",
+      "title": "第11回 環境啓発動画コンテスト",
+      "org": "公益財団法人 千里リサイクルプラザ",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった動画(テーマ: 環境問題について一人ひとりが考え、行動しよう！ ～地球温暖化、食品ロス、プラスチックごみ問題、再生可能エネル…)",
+      "tags": [
+        "映像制作",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kurukuru-plaza-eco-movie-2026/"
     },
     {
       "id": "tokoron-jam-character-illust-2026",
@@ -1239,6 +1187,32 @@
         "社会科学"
       ],
       "url": "https://compe.japandesign.ne.jp/miyazaki-ebooks-kankyo-ehon-2026/"
+    },
+    {
+      "id": "tokoron-ni-g-vege-gyoza-recipe-2026",
+      "title": "第4回 高校生 静岡県産野菜を使った餃子レシピコンテスト",
+      "org": "株式会社にしはらグループ",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 静岡県内に在住の高校生、または県内の高校に通っている高校生",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "静岡県",
+        "prefectures": [
+          "静岡県"
+        ],
+        "note": "静岡県内に在住の高校生、または県内の高校に通っている高校生"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "静岡県内産の野菜を使用した餃子レシピを募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/ni-g-vege-gyoza-recipe-2026/"
     },
     {
       "id": "tokoron-machien-hamamatsu-bungaku-2026",
@@ -2602,6 +2576,30 @@
       "url": "https://compe.japandesign.ne.jp/rose-theatre-art-generation-2027/"
     },
     {
+      "id": "tokoron-jdpa-tole-painting-2027",
+      "title": "第12回 JDPA 小・中・高校生ペイントコンクール 2027",
+      "org": "日本デコラティブペインティング協会",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 国内在住の小学生・中学生・高校生",
+      "deadline": "2027年01月31日 (日) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったトールペインティング(テーマ: 出会い)を募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/jdpa-tole-painting-2027/"
+    },
+    {
       "id": "tokoron-kurushimatakehiko-douwa-2027",
       "title": "第9回 久留島武彦童話賞 ～子ども創作童話コンクール～",
       "org": "久留島武彦記念館",
@@ -2652,6 +2650,32 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/fukui-sam-2027/"
+    },
+    {
+      "id": "tokoron-jcga-haiku-2027",
+      "title": "第8回 「海上保安の日」俳句コンテスト",
+      "org": "公益財団法人 海上保安協会",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2027年02月19日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-02-19",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった俳句(テーマ: 海上保安の日)を募集。",
+      "tags": [
+        "短歌・俳句"
+      ],
+      "url": "https://compe.japandesign.ne.jp/jcga-haiku-2027/"
     },
     {
       "id": "tokoron-sdgs-award-2027",
