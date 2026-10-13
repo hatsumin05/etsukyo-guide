@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-12",
-  "lastSyncedAt": "2026-10-12T09:23:26+09:00",
+  "lastSynced": "2026-10-13",
+  "lastSyncedAt": "2026-10-13T11:30:29+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -525,6 +525,32 @@
       "url": "https://kikkakeportal.com/2024/07/23/4088"
     },
     {
+      "id": "tokoron-eigakoushien-2026",
+      "title": "eiga worldcup 2026",
+      "org": "特定非営利活動法人 映画甲子園",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 制作者の中核メンバー(企画、監督、脚本、撮影、編集、美術、音楽、録音の担当者/ただし出演者を除く…",
+      "deadline": "2026年10月20日 (火) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-20",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高校生による映像作品を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/eigakoushien-2026/"
+    },
+    {
       "id": "tokoron-fujifilm-photo-2026",
       "title": "第65回 富士フイルムフォトコンテスト",
       "org": "富士フイルム株式会社",
@@ -922,6 +948,32 @@
       "url": "https://compe.japandesign.ne.jp/kurukuru-plaza-eco-movie-2026/"
     },
     {
+      "id": "tokoron-chichi-5storys-kansoubun-2026",
+      "title": "第14回 「心に響く小さな5つの物語」 読書感想文コンクール",
+      "org": "株式会社致知出版社",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 小学生・中学生・高校生",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "応募対象本の読書感想文を募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/chichi-5storys-kansoubun-2026/"
+    },
+    {
       "id": "tokoron-jam-character-illust-2026",
       "title": "第15回 日本アニメ・マンガ専門学校 キャラクターイラストコンテスト",
       "org": "日本アニメ・マンガ専門学校",
@@ -1188,6 +1240,34 @@
       "url": "https://compe.japandesign.ne.jp/conomi-seifuku-design-award-2026/"
     },
     {
+      "id": "tokoron-wntdd-2026",
+      "title": "第四回 顧みられない熱帯病コンテスト",
+      "org": "世界NTDの日・日本実行委員会",
+      "type": "コンテスト",
+      "audience": "中・高校生、学生限定 / ●中学校、高等学校、大学(短期大学・大学院・放送大学を含む)、高等専門学校…",
+      "deadline": "2026年10月31日 (土) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったプレゼン動画またはポスターを募集。",
+      "tags": [
+        "映像制作",
+        "デザイン",
+        "プレゼン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/wntdd-2026/"
+    },
+    {
       "id": "tokoron-towada-yabusame-umatan-2026",
       "title": "馬探 2026 ～地域の馬の歴史・文化探究コンテスト～",
       "org": "十和田流鏑馬観光連盟 共催:十和田乗馬倶楽部、Future Generations",
@@ -1359,6 +1439,32 @@
         "社会科学"
       ],
       "url": "https://compe.japandesign.ne.jp/onefes-movie-2026/"
+    },
+    {
+      "id": "tokoron-kawasaki-museum-exhibition-2026",
+      "title": "第60回 かわさき市美術展",
+      "org": "川崎市市民ミュージアム",
+      "type": "コンテスト",
+      "audience": "【一般】 15歳以上の川崎市在住・在勤・在学の方、または市内を活動の場とする方 【中高生】 川崎市内在住または在学の…",
+      "deadline": "2026年11月05日 (木) 事前登録締切、16:00必着※当日申込は、2026年11月28日(土)12:00~17:00、11月29日(日)10:00~16:00(※業者搬入 10:00~12:00)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-05",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "未発表の美術作品を募集。",
+      "tags": [
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kawasaki-museum-exhibition-2026/"
     },
     {
       "id": "tokoron-iimefukurame-tokyo-27-2026",
@@ -1996,6 +2102,30 @@
       "url": "https://compe.japandesign.ne.jp/sekkei-ryokou-plan-2026/"
     },
     {
+      "id": "tokoron-yodogawa-park-sketch-2026",
+      "title": "淀川河川公園写生画コンテスト 2026",
+      "org": "淀川河川公園管理センター",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2026年11月30日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写生画(テーマ: わたしたちのよどがわかせんこうえん)を募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/yodogawa-park-sketch-2026/"
+    },
+    {
       "id": "tokoron-k-manabonect-youtubekoshien-2026",
       "title": "第9回 全国動画クリエイト甲子園",
       "org": "カンコーマナボネクト株式会社",
@@ -2021,6 +2151,34 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/k-manabonect-youtubekoshien-2026/"
+    },
+    {
+      "id": "tokoron-osaka-asunaro-2026",
+      "title": "第36回 「あすなろ夢建築」 大阪府公共建築設計コンクール",
+      "org": "大阪府、公益社団法人 大阪府建築士会、大阪府住宅供給公社",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 大阪府内に所在する学校のうち、学校教育法の規定による工業高等学校(工科高等学校)・短期大学・工業高等専門学校・専修学校・各種学校…",
+      "deadline": "2026年12月04日 (金) 事前登録締切、17:00必着※作品受付:2027年1月4日(月)~1月12日(火)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-04",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "大阪府",
+        "prefectures": [
+          "大阪府"
+        ],
+        "note": "大阪府内に所在する学校のうち、学校教育法の規定による工業高等学校(工科高等学校)・短期大学・工業高等専門学校・専修学校・各種学校および、職業能力開発促進法に基づく高等職業技術専門校の建築関連学科(建築"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "課題にそった未発表の設計提案(テーマ: 旅人を迎える空間)を募集。",
+      "tags": [
+        "建築"
+      ],
+      "url": "https://compe.japandesign.ne.jp/osaka-asunaro-2026/"
     },
     {
       "id": "tokoron-matsue-herun-yomu-2026",
