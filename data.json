@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-13",
-  "lastSyncedAt": "2026-10-13T11:30:29+09:00",
+  "lastSynced": "2026-10-14",
+  "lastSyncedAt": "2026-10-14T09:13:49+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -199,38 +199,6 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/mext-sports-idea-design-2026/"
-    },
-    {
-      "id": "kikkake-8597",
-      "title": "東京都の中高生募集！国内外4都市の10代と交流「TEENS SQUARE TOKYO PROJECT 2027」",
-      "org": "公式サイトを確認",
-      "type": "プログラム",
-      "audience": "中学生・高校生 対象",
-      "deadline": "応募締切 2026年10月13日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-13",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "海外",
-        "address": null,
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "海外2都市・国内2都市から集まる10代と、東京で意見を交わすチャンス。 東京都が、都内在住または在学の中高生世代を対象に「TEENS SQUARE TOKYO PROJECT 2027」の参加者20〜24名程度を募集しています。",
-      "tags": [
-        "留学",
-        "多文化交流"
-      ],
-      "url": "https://kikkakeportal.com/2026/09/28/8597"
     },
     {
       "id": "tokoron-kepco-collabo-art-2026",
