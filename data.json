@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-14",
-  "lastSyncedAt": "2026-10-14T09:13:49+09:00",
+  "lastSynced": "2026-10-15",
+  "lastSyncedAt": "2026-10-15T08:49:19+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,34 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-mext-sports-idea-design-2026",
-      "title": "スポーツ・健康まちづくりデザイン 学生コンペティション 2026",
-      "org": "スポーツ庁",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 応募時に、大学院、大学、短期大学、専門学校、高等専門学校、高等学校に在籍する学生の個人またはグループ",
-      "deadline": "2026年10月13日 (火) 事前登録締切、12:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-13",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったアイデアやデザインの提案(テーマ: まち全体でスポーツに親しめる「場」づくり)を募集。",
-      "tags": [
-        "建築",
-        "デザイン",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/mext-sports-idea-design-2026/"
     },
     {
       "id": "tokoron-kepco-collabo-art-2026",
@@ -2260,6 +2232,32 @@
       "url": "https://kikkakeportal.com/2023/10/01/1626"
     },
     {
+      "id": "tokoron-nippon-monodzukuri-design-award-2026",
+      "title": "ニッポンものづくりデザインアワード 2026",
+      "org": "ニッポンものづくりデザインアワード実行委員会",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / ●応募時に全国の高校、専門学校、短大、大学、大学院に在籍している学生・生徒 ●受賞後…",
+      "deadline": "2026年12月25日 (金) 作品提出・応募締切、必着※フィードバック希望提出期限:2026年11月16日(月)",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-25",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったデザイン提案(テーマ: （1）株式会社エクセレ：生活の明暗を美しく彩るペンダントライト （2）岡崎製材株式会社：「樹種の違い」を活か…)",
+      "tags": [
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/nippon-monodzukuri-design-award-2026/"
+    },
+    {
       "id": "tokoron-nenrin-tanba-etegami-2026",
       "title": "第10回 心を届ける たんば絵てがみコンクール",
       "org": "兵庫県立丹波年輪の里",
@@ -2369,6 +2367,34 @@
         "多文化交流"
       ],
       "url": "https://kikkakeportal.com/2023/11/14/2043"
+    },
+    {
+      "id": "tokoron-trident-highschool-design-2027",
+      "title": "全国高校生デザインコンテスト2026",
+      "org": "【キャラクターイラスト部門/建築・インテリア部門】 学校法人 河合塾学園 トライデント デザイン専門学校 【パッケージデザイン部門】 KABURIGUMA CO",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 2026年4月現在、高校生の方(高等専修学校等を含む)",
+      "deadline": "2027年01月08日 (金) 作品提出・応募締切、消印有効※持参の場合は、校舎開館日9:00~18:00、もしくはオープンキャンパス開催日(公式ホームページ参照)受付",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-08",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったデザインを募集。",
+      "tags": [
+        "デザイン",
+        "建築",
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/trident-highschool-design-2027/"
     },
     {
       "id": "tokoron-camerakan-woder-photo-2027",
