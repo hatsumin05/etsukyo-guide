@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-15",
-  "lastSyncedAt": "2026-10-15T08:49:19+09:00",
+  "lastSynced": "2026-10-16",
+  "lastSyncedAt": "2026-10-16T08:38:11+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -201,38 +201,6 @@
       "url": "https://compe.japandesign.ne.jp/kepco-collabo-art-2026/"
     },
     {
-      "id": "kikkake-4424",
-      "title": "クイズに挑んで無料でアメリカへ！アメリカボウル参加者募集",
-      "org": "公式サイトを確認",
-      "type": "プログラム",
-      "audience": "高校生 対象",
-      "deadline": "応募締切 2026年10月15日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-15",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "海外",
-        "address": null,
-        "prefecture": null,
-        "country": "アメリカ"
-      },
-      "onlineTool": null,
-      "summary": "詳細は公式サイトをご確認ください。",
-      "tags": [
-        "留学",
-        "多文化交流"
-      ],
-      "url": "https://kikkakeportal.com/2024/08/22/4424"
-    },
-    {
       "id": "tokoron-asahi-kotoba-2026",
       "title": "私の折々のことばコンテスト 2026",
       "org": "朝日新聞 共催:朝日中高生新聞",
@@ -415,7 +383,7 @@
       "id": "kikkake-8600",
       "title": "【10/21開催・参加無料】2030年以降の教育を一緒に考えよう！11〜30歳対象のオンラインイベント",
       "org": "公式サイトを確認",
-      "type": "プログラム",
+      "type": "イベント",
       "audience": "小学生・中学生 対象",
       "deadline": "応募締切 2026年10月20日",
       "eventStart": null,
@@ -1238,14 +1206,14 @@
       "id": "kikkake-4725",
       "title": "誰でも参加可！東京大学E.S.S.杯争奪英語弁論大会 (東大杯)参加者募集",
       "org": "公式サイトを確認",
-      "type": "プログラム",
+      "type": "コンテスト",
       "audience": "小学生・中学生 対象",
       "deadline": "応募締切 2026年11月1日",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
       "applyEnd": "2026-11-01",
-      "format": "onsite",
+      "format": "submission",
       "area": {
         "scope": "national",
         "label": "地域制限なし",
@@ -2421,6 +2389,57 @@
         "写真"
       ],
       "url": "https://compe.japandesign.ne.jp/camerakan-woder-photo-2027/"
+    },
+    {
+      "id": "tokoron-jps-2027",
+      "title": "第52回 2027 JPS展",
+      "org": "公益社団法人 日本写真家協会(JPS)",
+      "type": "コンテスト",
+      "audience": "プロ・アマ、年齢、性別、国籍不問",
+      "deadline": "2027年01月12日 (火) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-12",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "応募者本人が撮影した写真を募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/jps-2027/"
+    },
+    {
+      "id": "tokoron-tobe-etegami-2027",
+      "title": "第9回 ふるさと砥部 井上正夫 絵手紙コンクール",
+      "org": "井上正夫会 共催:砥部町教育委員会",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2027年01月12日 (火) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-12",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった絵手紙(テーマ: 思い出)を募集。",
+      "tags": [
+        "文章・作文",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tobe-etegami-2027/"
     },
     {
       "id": "kikkake-4938",
