@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-16",
-  "lastSyncedAt": "2026-10-16T08:38:11+09:00",
+  "lastSynced": "2026-10-17",
+  "lastSyncedAt": "2026-10-17T08:23:44+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -173,137 +173,6 @@
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
     },
     {
-      "id": "tokoron-kepco-collabo-art-2026",
-      "title": "26th かんでん コラボ・アート 作品募集",
-      "org": "関西電力株式会社、一般財団法人 共済会記念文化財団",
-      "type": "コンテスト",
-      "audience": "【一般部門】 障がいのある方で関西2府4県または福井県に在住の方",
-      "deadline": "2026年10月15日 (木) 作品写真提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-15",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "福井県",
-        "prefectures": [
-          "福井県"
-        ],
-        "note": "【一般部門】 障がいのある方で関西2府4県または福井県に在住の方"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "関西圏に在住の障がいのある方によるアート作品を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kepco-collabo-art-2026/"
-    },
-    {
-      "id": "tokoron-asahi-kotoba-2026",
-      "title": "私の折々のことばコンテスト 2026",
-      "org": "朝日新聞 共催:朝日中高生新聞",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 中学生・高校生",
-      "deadline": "2026年10月15日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-15",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "友だちや先輩、親や先生など、身近なだれかのひと言。 メールやLINE、手紙で、ふと心にとまったメッセージ。 本やテレビ、歌詞、マンガにも、大切なことばとの出会いはあるはずです。 朝日新聞の朝刊コラム『折々のことば』では、",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/asahi-kotoba-2026/"
-    },
-    {
-      "id": "tokoron-kyoto-kita-tanpen-2026",
-      "title": "第4回 京都キタ短編文学賞",
-      "org": "京都市北区",
-      "type": "コンテスト",
-      "audience": "小学4年生以上の方",
-      "deadline": "2026年10月15日 (木) 作品提出・応募締切、必着※郵送応募(ジュニア部門のみ)の場合は消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-15",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった短編小説(テーマ: 京都市北区を舞台に、北区の魅力が伝わり、北区を訪れたくなる作品)を募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kyoto-kita-tanpen-2026/"
-    },
-    {
-      "id": "tokoron-nskitchen-obento-recipe-2026",
-      "title": "第5回 N’s KITCHEN お弁当コンテスト",
-      "org": "N’s KITCHEN",
-      "type": "コンテスト",
-      "audience": "【大人部門】 自分弁当、家族弁当等、お弁当づくりをする大人の方",
-      "deadline": "2026年10月15日 (木) 作品提出・応募締切、11:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-15",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったお弁当のレシピを募集。",
-      "tags": [],
-      "url": "https://compe.japandesign.ne.jp/nskitchen-obento-recipe-2026/"
-    },
-    {
-      "id": "tokoron-ecodane-photo-2026",
-      "title": "令和8年度 いばらき自然環境フォトコンテスト",
-      "org": "茨城県、環境保全茨城県民会議",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年10月15日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-15",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった写真を募集。",
-      "tags": [
-        "写真",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/ecodane-photo-2026/"
-    },
-    {
       "id": "tokoron-nias-koukousei-sekkei-idea-2026",
       "title": "2026年度 第29回 全国高校生設計アイデアコンテスト",
       "org": "長崎総合科学大学 工学部工学科 建築学コース",
@@ -352,6 +221,32 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/sumitomolife-jukugo-2026/"
+    },
+    {
+      "id": "kikkake-8633",
+      "title": "【10/17・18開催】TCSがグローバルフェスタJAPAN2026に参加！元参加者の体験談＆バーチャルマスコット・トッキーに注目！",
+      "org": "公式サイトを確認",
+      "type": "イベント",
+      "audience": "小学生・中学生 対象",
+      "deadline": "応募締切 2026年10月19日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-19",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "日中韓の国際交流プログラムについて、実際の参加者から直接話を聞いてみませんか？ 2026年10月17日（土）・18日（日）、東京・新宿で開催される 「グローバルフェスタJAPAN2026」 に、日中韓協力事務局（TCS）が参加します。",
+      "tags": [
+        "多文化交流"
+      ],
+      "url": "https://kikkakeportal.com/2026/10/17/8633"
     },
     {
       "id": "tokoron-career-mirai-souzou-2026",
@@ -1229,6 +1124,34 @@
       "url": "https://kikkakeportal.com/2024/10/01/4725"
     },
     {
+      "id": "tokoron-otemon-business-plan-2026",
+      "title": "明治安田杯 第17回 追大 学生ビジネスプランコンテスト",
+      "org": "追手門学院大学 ベンチャービジネス研究所、経営学部",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 近畿2府5県(大阪府・京都府・兵庫県・奈良県・三重県・滋賀県・和歌山県)圏内の高校、大阪府下の大学・大学院に通う学生・生徒",
+      "deadline": "2026年11月01日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-01",
+      "format": "submission",
+      "area": {
+        "scope": "unknown",
+        "label": "",
+        "prefectures": [],
+        "note": "近畿2府5県(大阪府・京都府・兵庫県・奈良県・三重県・滋賀県・和歌山県)圏内の高校、大阪府下の大学・大学院に通う学生・生徒"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "学生による、テーマにそったビジネスプランを募集。",
+      "tags": [
+        "起業",
+        "社会科学",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/otemon-business-plan-2026/"
+    },
+    {
       "id": "tokoron-smc-power-ai-idea-2026",
       "title": "学生AI活用アイデアコンテスト by SMC-POWER",
       "org": "株式会社SMC-POWER",
@@ -1820,6 +1743,30 @@
         "写真"
       ],
       "url": "https://compe.japandesign.ne.jp/tobiseiban-instagram-photo-2026/"
+    },
+    {
+      "id": "tokoron-mitsubachi-artfest-2026",
+      "title": "みつばち芸術祭 彫刻作品募集",
+      "org": "株式会社山田養蜂場",
+      "type": "コンテスト",
+      "audience": "学生限定 / 2026年4月1日時点で全国の大学・大学院・短期大学・専門学校・高校等に在籍し…",
+      "deadline": "2026年11月30日 (月) 作品提出・応募締切",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "山田養蜂場は、2027年9月に開催するアートフェスティバル「みつばち芸術祭 ─ Be(e) the Future ミツバチと共に描く、生命の未来 ─」（アートディレクター：長谷川祐子氏）の一環として、美術大学・芸術大学な",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/mitsubachi-artfest-2026/"
     },
     {
       "id": "tokoron-kotowaza-kentei-creative-2026",
