@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-17",
-  "lastSyncedAt": "2026-10-17T08:23:44+09:00",
+  "lastSynced": "2026-10-18",
+  "lastSyncedAt": "2026-10-18T08:00:21+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -173,30 +173,6 @@
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
     },
     {
-      "id": "tokoron-nias-koukousei-sekkei-idea-2026",
-      "title": "2026年度 第29回 全国高校生設計アイデアコンテスト",
-      "org": "長崎総合科学大学 工学部工学科 建築学コース",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 2026年度に在学の高校生",
-      "deadline": "2026年10月16日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-16",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による、テーマにそった設計アイデア(テーマ: 涼がある空間)を募集。",
-      "tags": [],
-      "url": "https://compe.japandesign.ne.jp/nias-koukousei-sekkei-idea-2026/"
-    },
-    {
       "id": "tokoron-sumitomolife-jukugo-2026",
       "title": "住友生命「創作四字熟語」 2026",
       "org": "住友生命保険相互会社",
@@ -223,32 +199,6 @@
       "url": "https://compe.japandesign.ne.jp/sumitomolife-jukugo-2026/"
     },
     {
-      "id": "kikkake-8633",
-      "title": "【10/17・18開催】TCSがグローバルフェスタJAPAN2026に参加！元参加者の体験談＆バーチャルマスコット・トッキーに注目！",
-      "org": "公式サイトを確認",
-      "type": "イベント",
-      "audience": "小学生・中学生 対象",
-      "deadline": "応募締切 2026年10月19日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-19",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "日中韓の国際交流プログラムについて、実際の参加者から直接話を聞いてみませんか？ 2026年10月17日（土）・18日（日）、東京・新宿で開催される 「グローバルフェスタJAPAN2026」 に、日中韓協力事務局（TCS）が参加します。",
-      "tags": [
-        "多文化交流"
-      ],
-      "url": "https://kikkakeportal.com/2026/10/17/8633"
-    },
-    {
       "id": "tokoron-career-mirai-souzou-2026",
       "title": "高校生未来創造コンテスト 2026",
       "org": "学校法人 神野学園",
@@ -273,59 +223,6 @@
         "社会科学"
       ],
       "url": "https://compe.japandesign.ne.jp/career-mirai-souzou-2026/"
-    },
-    {
-      "id": "kikkake-8600",
-      "title": "【10/21開催・参加無料】2030年以降の教育を一緒に考えよう！11〜30歳対象のオンラインイベント",
-      "org": "公式サイトを確認",
-      "type": "イベント",
-      "audience": "小学生・中学生 対象",
-      "deadline": "応募締切 2026年10月20日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-20",
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「これからの教育は、どう変わっていくといいだろう？」 「自分が経験してきた学びについて、同世代の人と話してみたい」 そんな思いや疑問を出発点に、教育の未来を一緒に考えてみませんか。 次世代ユネスコ国内委員会は、",
-      "tags": [
-        "多文化交流",
-        "社会科学"
-      ],
-      "url": "https://kikkakeportal.com/2026/10/01/8600"
-    },
-    {
-      "id": "kikkake-4088",
-      "title": "【大賞100万円】第37回ヤンマー学生懸賞論文・作文募集｜大学生・大学院生など対象",
-      "org": "公式サイトを確認",
-      "type": "コンテスト",
-      "audience": "高校生・大学生 対象",
-      "deadline": "応募締切 2026年10月20日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-20",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "学生のアイデアに大賞100万円。 ヤンマーアグリ株式会社が、 「第37回ヤンマー学生懸賞論文・作文」 の作品を募集しています。 テーマは、これからの農業や食、地域社会の未来。 スマート農業、フードロス、地域活性化、気候変動、",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://kikkakeportal.com/2024/07/23/4088"
     },
     {
       "id": "tokoron-eigakoushien-2026",
@@ -1096,32 +993,6 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/towada-yabusame-umatan-2026/"
-    },
-    {
-      "id": "kikkake-4725",
-      "title": "誰でも参加可！東京大学E.S.S.杯争奪英語弁論大会 (東大杯)参加者募集",
-      "org": "公式サイトを確認",
-      "type": "コンテスト",
-      "audience": "小学生・中学生 対象",
-      "deadline": "応募締切 2026年11月1日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-01",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "詳細は公式サイトをご確認ください。",
-      "tags": [
-        "英語"
-      ],
-      "url": "https://kikkakeportal.com/2024/10/01/4725"
     },
     {
       "id": "tokoron-otemon-business-plan-2026",
@@ -2114,39 +1985,6 @@
       "url": "https://compe.japandesign.ne.jp/kccollege-it-app-2026/"
     },
     {
-      "id": "kikkake-1626",
-      "title": "無料でデンマークへ！アンデルセン公園きりがみコンクール募集",
-      "org": "公式サイトを確認",
-      "type": "プログラム",
-      "audience": "小学生・中学生 対象",
-      "deadline": "応募締切 2026年12月20日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-12-20",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "海外",
-        "address": null,
-        "prefecture": null,
-        "country": "デンマーク"
-      },
-      "onlineTool": null,
-      "summary": "詳細は公式サイトをご確認ください。",
-      "tags": [
-        "留学",
-        "多文化交流",
-        "アート"
-      ],
-      "url": "https://kikkakeportal.com/2023/10/01/1626"
-    },
-    {
       "id": "tokoron-nippon-monodzukuri-design-award-2026",
       "title": "ニッポンものづくりデザインアワード 2026",
       "org": "ニッポンものづくりデザインアワード実行委員会",
@@ -2252,38 +2090,6 @@
       "url": "https://compe.japandesign.ne.jp/resas-edu-idea-connect-2027/"
     },
     {
-      "id": "kikkake-2043",
-      "title": "【英国留学5年間を支援】Tazaki財団2026年度奨学生募集｜高校生対象",
-      "org": "公式サイトを確認",
-      "type": "奨学金",
-      "audience": "高校生・大学生 対象",
-      "deadline": "応募締切 2027年1月8日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": "2026-11-02",
-      "applyEnd": "2027-01-08",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "海外",
-        "address": null,
-        "prefecture": null,
-        "country": "イギリス"
-      },
-      "onlineTool": null,
-      "summary": "高校2年生からイギリスへ。パブリックスクール2年間＋英国大学3年間、原則5年間の留学を支援。 公益財団法人 Tazaki財団が、 2026年度（第11期生）奨学生 を募集します。 対象は、日本国内の高校に通う高校1年生。 選考後、",
-      "tags": [
-        "留学",
-        "多文化交流"
-      ],
-      "url": "https://kikkakeportal.com/2023/11/14/2043"
-    },
-    {
       "id": "tokoron-trident-highschool-design-2027",
       "title": "全国高校生デザインコンテスト2026",
       "org": "【キャラクターイラスト部門/建築・インテリア部門】 学校法人 河合塾学園 トライデント デザイン専門学校 【パッケージデザイン部門】 KABURIGUMA CO",
@@ -2387,32 +2193,6 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/tobe-etegami-2027/"
-    },
-    {
-      "id": "kikkake-4938",
-      "title": "東京創元社 創作SF短編賞募集",
-      "org": "公式サイトを確認",
-      "type": "コンテスト",
-      "audience": "中学生・高校生 対象",
-      "deadline": "応募締切 2027年1月12日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2027-01-12",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "詳細は公式サイトをご確認ください。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://kikkakeportal.com/2024/10/20/4938"
     },
     {
       "id": "tokoron-jalc-design-2027",
@@ -2550,39 +2330,6 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/b-machi-keikansen-kaiga-2027/"
-    },
-    {
-      "id": "kikkake-2381",
-      "title": "アメリカでバスケを！スラムダンク奨学金募集：高校生対象",
-      "org": "公式サイトを確認",
-      "type": "奨学金",
-      "audience": "高校生 対象",
-      "deadline": "応募締切 2027年1月31日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2027-01-31",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "海外",
-        "address": null,
-        "prefecture": null,
-        "country": "アメリカ"
-      },
-      "onlineTool": null,
-      "summary": "詳細は公式サイトをご確認ください。",
-      "tags": [
-        "留学",
-        "多文化交流",
-        "スポーツ科学"
-      ],
-      "url": "https://kikkakeportal.com/2023/12/25/2381"
     },
     {
       "id": "tokoron-rose-theatre-art-generation-2027",
@@ -2794,38 +2541,6 @@
         "研究発表"
       ],
       "url": "https://compe.japandesign.ne.jp/ict-student-essay-2026/"
-    },
-    {
-      "id": "kikkake-8620",
-      "title": "返済不要の奨学金で海外へ！トビタテ！留学JAPAN高校生等対象 第12期｜2027年度600人募集",
-      "org": "公式サイトを確認",
-      "type": "プログラム",
-      "audience": "高校生 対象",
-      "deadline": "応募締切 2027年4月21日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2027-04-21",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "海外",
-        "address": null,
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "「海外で、自分の興味をとことん探究してみたい」。そんな高校生の挑戦を、返済不要の奨学金で後押しする「トビタテ！留学JAPAN」。",
-      "tags": [
-        "留学",
-        "多文化交流"
-      ],
-      "url": "https://kikkakeportal.com/2026/10/11/8620"
     },
     {
       "id": "tokoron-kyoto-bungaku-2027",
