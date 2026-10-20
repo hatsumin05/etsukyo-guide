@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-20",
-  "lastSyncedAt": "2026-10-20T09:11:38+09:00",
+  "lastSynced": "2026-10-21",
+  "lastSyncedAt": "2026-10-21T08:43:47+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -173,85 +173,6 @@
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
     },
     {
-      "id": "tokoron-career-mirai-souzou-2026",
-      "title": "高校生未来創造コンテスト 2026",
-      "org": "学校法人 神野学園",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / ●決勝大会日時点で、高等学校(高等専門学校等含む)に在学中の方 ●2026年実施の決勝大会に参加可能な方 ●高校生未来創造コンテ…",
-      "deadline": "2026年10月19日 (月) 作品提出・応募締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-19",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による、テーマにそった新たなアイデアを募集。",
-      "tags": [
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/career-mirai-souzou-2026/"
-    },
-    {
-      "id": "kikkake-8600",
-      "title": "【10/21開催・参加無料】2030年以降の教育を一緒に考えよう！11〜30歳対象のオンラインイベント",
-      "org": "公式サイトを確認",
-      "type": "イベント",
-      "audience": "小学生・中学生 対象",
-      "deadline": "応募締切 2026年10月20日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-20",
-      "format": "online",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「これからの教育は、どう変わっていくといいだろう？」 「自分が経験してきた学びについて、同世代の人と話してみたい」 そんな思いや疑問を出発点に、教育の未来を一緒に考えてみませんか。 次世代ユネスコ国内委員会は、",
-      "tags": [
-        "多文化交流",
-        "社会科学"
-      ],
-      "url": "https://kikkakeportal.com/2026/10/01/8600"
-    },
-    {
-      "id": "kikkake-4088",
-      "title": "【大賞100万円】第37回ヤンマー学生懸賞論文・作文募集｜大学生・大学院生など対象",
-      "org": "公式サイトを確認",
-      "type": "コンテスト",
-      "audience": "高校生・大学生 対象",
-      "deadline": "応募締切 2026年10月20日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-20",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "学生のアイデアに大賞100万円。 ヤンマーアグリ株式会社が、 「第37回ヤンマー学生懸賞論文・作文」 の作品を募集しています。 テーマは、これからの農業や食、地域社会の未来。 スマート農業、フードロス、地域活性化、気候変動、",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://kikkakeportal.com/2024/07/23/4088"
-    },
-    {
       "id": "tokoron-eigakoushien-2026",
       "title": "eiga worldcup 2026",
       "org": "特定非営利活動法人 映画甲子園",
@@ -408,6 +329,34 @@
         "社会科学"
       ],
       "url": "https://compe.japandesign.ne.jp/k-kikou-kodomo-sakubun-2026/"
+    },
+    {
+      "id": "kikkake-8670",
+      "title": "【10/25東京】世界有数の国際演劇祭の舞台裏を知る！「2026シビウ国際演劇祭ボランティア報告会」開催",
+      "org": "公式サイトを確認",
+      "type": "イベント",
+      "audience": "小学生・中学生 対象",
+      "deadline": "応募締切 2026年10月25日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-25",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "83か国から5,000人を超えるアーティストが集まった、ルーマニアの「シビウ国際演劇祭（FITS）」。その舞台裏を、実際に国際ボランティアとして参加したメンバーから直接聞ける報告会が、東京・赤坂で開催されます。",
+      "tags": [
+        "多文化交流",
+        "プログラミング",
+        "ボランティア"
+      ],
+      "url": "https://kikkakeportal.com/2026/10/20/8670"
     },
     {
       "id": "tokoron-akita-pu-ac-kenchiku-2026",
@@ -1025,14 +974,14 @@
       "id": "kikkake-4725",
       "title": "誰でも参加可！東京大学E.S.S.杯争奪英語弁論大会 (東大杯)参加者募集",
       "org": "公式サイトを確認",
-      "type": "コンテスト",
+      "type": "プログラム",
       "audience": "小学生・中学生 対象",
       "deadline": "応募締切 2026年11月1日",
       "eventStart": null,
       "eventEnd": null,
       "applyStart": null,
       "applyEnd": "2026-11-01",
-      "format": "submission",
+      "format": "onsite",
       "area": {
         "scope": "national",
         "label": "地域制限なし",
@@ -1374,6 +1323,32 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/fukushima-mirai-challenge-2026/"
+    },
+    {
+      "id": "tokoron-mamatone-ehon-episode-2026-2",
+      "title": "第3回 静岡絵本エピソードアワード",
+      "org": "静岡絵本エピソードアワード実行委員会(事務局:あひる図書館)",
+      "type": "コンテスト",
+      "audience": "静岡県に縁のある方",
+      "deadline": "2026年11月15日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-15",
+      "format": "submission",
+      "area": {
+        "scope": "unknown",
+        "label": "",
+        "prefectures": [],
+        "note": "静岡県に縁のある方"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったエピソード(テーマ: 「絵本」にまつわる経験や想いをつづったエピソード)を募集。",
+      "tags": [
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/mamatone-ehon-episode-2026-2/"
     },
     {
       "id": "tokoron-clt-design-award-2026",
@@ -2236,6 +2211,32 @@
       "url": "https://compe.japandesign.ne.jp/trident-highschool-design-2027/"
     },
     {
+      "id": "tokoron-ssu-haiku-2027",
+      "title": "第16回 静岡産業大学 俳句コンテスト",
+      "org": "静岡産業大学日本語教育研究センター",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2027年01月08日 (金) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-08",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "自作、未発表の句を募集。",
+      "tags": [
+        "短歌・俳句"
+      ],
+      "url": "https://compe.japandesign.ne.jp/ssu-haiku-2027/"
+    },
+    {
       "id": "tokoron-camerakan-woder-photo-2027",
       "title": "ワンダーフォトコンテスト 2026-2027",
       "org": "ミュゼふくおかカメラ館",
@@ -2474,6 +2475,32 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/b-machi-keikansen-kaiga-2027/"
+    },
+    {
+      "id": "tokoron-tsugaku-railway-movie-2027",
+      "title": "「通学と鉄道」動画コンテスト",
+      "org": "一般社団法人 噴火湾とようら観光協会",
+      "type": "コンテスト",
+      "audience": "中・高校生、学生限定 / 全国の中学生、高校生、大学生、短期大学生、高等専門学校生、専修学校生",
+      "deadline": "2027年01月31日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったオリジナル動画作品(テーマ: 「通学と鉄道」)を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tsugaku-railway-movie-2027/"
     },
     {
       "id": "kikkake-2381",
