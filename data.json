@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-19",
-  "lastSyncedAt": "2026-10-19T07:56:14+09:00",
+  "lastSynced": "2026-10-20",
+  "lastSyncedAt": "2026-10-20T09:11:38+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,58 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-sumitomolife-jukugo-2026",
-      "title": "住友生命「創作四字熟語」 2026",
-      "org": "住友生命保険相互会社",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年10月18日 (日) 作品提出・応募締切、必着※郵便ハガキ・応募用紙・学校応募は、2026年10月9日(金)必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-18",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "2026年の世相を的確に表現した未発表の「創作四字熟語」を募集。",
-      "tags": [
-        "文章・作文"
-      ],
-      "url": "https://compe.japandesign.ne.jp/sumitomolife-jukugo-2026/"
-    },
-    {
-      "id": "kikkake-8633",
-      "title": "【10/17・18開催】TCSがグローバルフェスタJAPAN2026に参加！元参加者の体験談＆バーチャルマスコット・トッキーに注目！",
-      "org": "公式サイトを確認",
-      "type": "イベント",
-      "audience": "小学生・中学生 対象",
-      "deadline": "応募締切 2026年10月19日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-19",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "日中韓の国際交流プログラムについて、実際の参加者から直接話を聞いてみませんか？ 2026年10月17日（土）・18日（日）、東京・新宿で開催される 「グローバルフェスタJAPAN2026」 に、日中韓協力事務局（TCS）が参加します。",
-      "tags": [
-        "多文化交流"
-      ],
-      "url": "https://kikkakeportal.com/2026/10/17/8633"
     },
     {
       "id": "tokoron-career-mirai-souzou-2026",
