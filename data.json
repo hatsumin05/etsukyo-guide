@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-21",
-  "lastSyncedAt": "2026-10-21T08:43:47+09:00",
+  "lastSynced": "2026-10-22",
+  "lastSyncedAt": "2026-10-22T08:57:37+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,58 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-eigakoushien-2026",
-      "title": "eiga worldcup 2026",
-      "org": "特定非営利活動法人 映画甲子園",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 制作者の中核メンバー(企画、監督、脚本、撮影、編集、美術、音楽、録音の担当者/ただし出演者を除く…",
-      "deadline": "2026年10月20日 (火) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-20",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による映像作品を募集。",
-      "tags": [
-        "映像制作"
-      ],
-      "url": "https://compe.japandesign.ne.jp/eigakoushien-2026/"
-    },
-    {
-      "id": "tokoron-fujifilm-photo-2026",
-      "title": "第65回 富士フイルムフォトコンテスト",
-      "org": "富士フイルム株式会社",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年10月20日 (火) 作品提出・応募締切、消印有効※応募受付開始:2026年9月1日(火)",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": "2026-09-01",
-      "applyEnd": "2026-10-20",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "2023年1月1日以降に撮影した写真を募集。",
-      "tags": [
-        "写真"
-      ],
-      "url": "https://compe.japandesign.ne.jp/fujifilm-photo-2026/"
     },
     {
       "id": "tokoron-kagakunohi-kan-badge-2026",
@@ -436,6 +384,32 @@
         "起業"
       ],
       "url": "https://compe.japandesign.ne.jp/cfo-4-2026/"
+    },
+    {
+      "id": "tokoron-kma-movie-2026",
+      "title": "第2回 江東区ムービーアワード（KMA）",
+      "org": "東京都江東区、株式会社宣伝会議",
+      "type": "コンテスト",
+      "audience": "日本国内在住の方",
+      "deadline": "2026年10月30日 (金) 作品提出・応募締切",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-10-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "江東区では、江東区の魅力をより多くの方に伝えるために「第2回江東区ムービーアワード」を開催します。 今回の募集テーマは『トーキョーの、ちょっと東。すごく今。』。 審査員には、高崎卓馬氏や岩崎亜矢氏をはじめとする第一線のト",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kma-movie-2026/"
     },
     {
       "id": "tokoron-sumire-shigatan-tedukuri-ehon-2026",
@@ -2421,6 +2395,32 @@
       "url": "https://compe.japandesign.ne.jp/mobility-design-2027/"
     },
     {
+      "id": "tokoron-sasaki-icenet-truck-design-2027",
+      "title": "描こう！ながさき 第6回 長崎の夢！トラックデザインコンテスト",
+      "org": "株式会社佐々木冷菓",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2027年01月15日 (金) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-15",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったトラックのデザイン(テーマ: 「長崎の文化と歴史」)を募集。",
+      "tags": [
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sasaki-icenet-truck-design-2027/"
+    },
+    {
       "id": "tokoron-rikokei-ronbun-2027",
       "title": "第27回 理工系学生科学技術論文コンクール",
       "org": "株式会社日刊工業新聞社、モノづくり日本会議",
@@ -2446,6 +2446,34 @@
         "自然科学"
       ],
       "url": "https://compe.japandesign.ne.jp/rikokei-ronbun-2027/"
+    },
+    {
+      "id": "tokoron-aero-young-art-2027",
+      "title": "2027 青少年航空宇宙絵画国際コンテスト",
+      "org": "一般財団法人 日本航空協会",
+      "type": "コンテスト",
+      "audience": "日本在住で2009~2020年生まれの方",
+      "deadline": "2027年01月29日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-29",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった未発表の絵画(テーマ: わたしのはじめての「国際エアスポーツの日」 原題：My 1st International Day of A…)",
+      "tags": [
+        "アート",
+        "多文化交流",
+        "自然科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/aero-young-art-2027/"
     },
     {
       "id": "tokoron-b-machi-keikansen-kaiga-2027",
