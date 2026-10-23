@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-23",
-  "lastSyncedAt": "2026-10-23T08:57:27+09:00",
+  "lastSynced": "2026-10-24",
+  "lastSyncedAt": "2026-10-24T08:48:49+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1025,6 +1025,32 @@
       "url": "https://compe.japandesign.ne.jp/smc-power-ai-idea-2026/"
     },
     {
+      "id": "tokoron-ipa-security-poster-2026",
+      "title": "ひろげよう情報セキュリティコンクール 2026 ポスター部門",
+      "org": "独立行政法人 情報処理推進機構",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 以下に該当する児童生徒等 (1)日本国内の小学校・中学校・高等学校に在籍する児童生徒 (2)日本国内の小学校・中学校・高等学校に…",
+      "deadline": "2026年11月04日 (水) 作品提出・応募締切、12:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-04",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったポスター(テーマ: 「サイバーセキュリティ対策9か条」)を募集。",
+      "tags": [
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/ipa-security-poster-2026/"
+    },
+    {
       "id": "tokoron-kanto-ba-kodomo-kenpou-senryu-2026",
       "title": "第10回 こども憲法川柳",
       "org": "関東弁護士会連合会 共催:日本弁護士連合会・管内13弁護士会(予定)",
@@ -1187,6 +1213,33 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/iimefukurame-tokyo-27-2026/"
+    },
+    {
+      "id": "tokoron-kawasaki-m-design-2026",
+      "title": "私がイメージする未来のがん看護 高校生 イラスト・デザインコンクール",
+      "org": "第41回 日本がん看護学会学術集会",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 高等学校の生徒(個人またはグループ)",
+      "deadline": "2026年11月09日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-09",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "これからのがん看護の姿や役割を表現したイラストを募集。",
+      "tags": [
+        "アート",
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kawasaki-m-design-2026/"
     },
     {
       "id": "tokoron-ono-uedamiyoji-tanka-2026",
