@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-24",
-  "lastSyncedAt": "2026-10-24T08:48:49+09:00",
+  "lastSynced": "2026-10-25",
+  "lastSyncedAt": "2026-10-25T08:03:13+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,112 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-kagakunohi-kan-badge-2026",
-      "title": "2026年版 化学の日「缶バッジデザイン」募集",
-      "org": "公益社団法人日本化学会",
-      "type": "コンテスト",
-      "audience": "小学生以上",
-      "deadline": "2026年10月23日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-23",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "日本化学会、化学工学会、新化学技術推進協会、日本化学工業協会は毎年10月23日を「化学の日」、その日を含む一週間を「化学週間」と決め、さまざまな活動を行っています。さらに多くの皆様に「化学の日」に参加していただくことを目",
-      "tags": [
-        "デザイン",
-        "自然科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kagakunohi-kan-badge-2026/"
-    },
-    {
-      "id": "tokoron-bisai-monozukuri-expert-bisai-creators-stu-2026",
-      "title": "EXPERT BISAI CREATORS CONTEST 2026 学生部門",
-      "org": "一般社団法人 微細加工工業会",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 学生(高専生、工業高校生、大学生、大学院生、専門学校生等)",
-      "deadline": "2026年10月23日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-23",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "学生による「微細加工技術」を活かした作品を募集。",
-      "tags": [
-        "電子工作"
-      ],
-      "url": "https://compe.japandesign.ne.jp/bisai-monozukuri-expert-bisai-creators-stu-2026/"
-    },
-    {
-      "id": "tokoron-hita-iwasawa-100th-kaiga-2026",
-      "title": "岩澤重夫賞「私の好きな風景画コンクール」 作品募集",
-      "org": "大分県日田市、日田市民文化振興基金実行委員会",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 小学5・6年生、中学生、高校性",
-      "deadline": "2026年10月23日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-23",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった風景画(テーマ: 「私の好きな風景」)を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/hita-iwasawa-100th-kaiga-2026/"
-    },
-    {
-      "id": "tokoron-k-kikou-kodomo-sakubun-2026",
-      "title": "第8回 全国子ども防災作文コンクール",
-      "org": "全国子ども防災作文コンクール実行委員会",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 小学生・中学生・高校生(および同年齢の方)",
-      "deadline": "2026年10月23日 (金) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-23",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表の作文(テーマ: 自然災害があっても生き抜くために、みなさんが「考えたこと」)を募集。",
-      "tags": [
-        "文章・作文",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/k-kikou-kodomo-sakubun-2026/"
     },
     {
       "id": "kikkake-8670",
