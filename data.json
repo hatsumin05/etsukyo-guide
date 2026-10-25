@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-25",
-  "lastSyncedAt": "2026-10-25T08:03:13+09:00",
+  "lastSynced": "2026-10-26",
+  "lastSyncedAt": "2026-10-26T08:07:51+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,34 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "kikkake-8670",
-      "title": "【10/25東京】世界有数の国際演劇祭の舞台裏を知る！「2026シビウ国際演劇祭ボランティア報告会」開催",
-      "org": "公式サイトを確認",
-      "type": "イベント",
-      "audience": "小学生・中学生 対象",
-      "deadline": "応募締切 2026年10月25日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-25",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "83か国から5,000人を超えるアーティストが集まった、ルーマニアの「シビウ国際演劇祭（FITS）」。その舞台裏を、実際に国際ボランティアとして参加したメンバーから直接聞ける報告会が、東京・赤坂で開催されます。",
-      "tags": [
-        "多文化交流",
-        "プログラミング",
-        "ボランティア"
-      ],
-      "url": "https://kikkakeportal.com/2026/10/20/8670"
     },
     {
       "id": "tokoron-akita-pu-ac-kenchiku-2026",
