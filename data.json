@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-26",
-  "lastSyncedAt": "2026-10-26T08:07:51+09:00",
+  "lastSynced": "2026-10-27",
+  "lastSyncedAt": "2026-10-27T09:19:01+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,32 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-akita-pu-ac-kenchiku-2026",
-      "title": "秋田県立大学 全国高校生建築提案コンテスト 2026",
-      "org": "公立大学法人 秋田県立大学",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 高校生",
-      "deadline": "2026年10月25日 (日) 応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-25",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "高校生による、テーマにそった建築的なアイデア(テーマ: ととのう建築)を募集。",
-      "tags": [
-        "建築"
-      ],
-      "url": "https://compe.japandesign.ne.jp/akita-pu-ac-kenchiku-2026/"
     },
     {
       "id": "tokoron-keikan-kaika-2026",
@@ -1511,6 +1485,32 @@
       "url": "https://compe.japandesign.ne.jp/monomake-okayama-idea-2026/"
     },
     {
+      "id": "tokoron-ibaraki-esports-game-creaters-2026",
+      "title": "iBAe茨城ゲームクリエイターズコンテスト",
+      "org": "いばらきeスポーツ産業創造プロジェクト推進協議会(iBAe)",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 応募時点で、日本国内の高等学校(全日制・定時制・通信制を含む)、高等専門学校、専修学校、短期大学…",
+      "deadline": "2026年11月30日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったゲーム作品(テーマ: 「茨城 × eスポーツ」)を募集。",
+      "tags": [
+        "スポーツ科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/ibaraki-esports-game-creaters-2026/"
+    },
+    {
       "id": "tokoron-tobiseiban-instagram-photo-2026",
       "title": "JR山陽本線・赤穂線 インスタグラムフォトコンテスト 2026",
       "org": "東備西播定住自立圏域JR利用促進協議会",
@@ -1798,6 +1798,32 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/k-manabonect-youtubekoshien-2026/"
+    },
+    {
+      "id": "tokoron-media-universal-design-2026",
+      "title": "第20回 メディア・ユニバーサルデザインコンペティション",
+      "org": "全日本印刷工業組合連合会",
+      "type": "コンテスト",
+      "audience": "【一般の部】 プロ・アマ不問 【学生の部】 大学・短期大学・専門学校・高等学校に在籍している学生・生徒",
+      "deadline": "2026年12月04日 (金) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-04",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "すべての人に優しいユニバーサルデザインのアイデアを募集。",
+      "tags": [
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/media-universal-design-2026/"
     },
     {
       "id": "tokoron-osaka-asunaro-2026",
