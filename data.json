@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-27",
-  "lastSyncedAt": "2026-10-27T09:19:01+09:00",
+  "lastSynced": "2026-10-29",
+  "lastSyncedAt": "2026-10-29T09:42:43+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,33 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-keikan-kaika-2026",
-      "title": "景観開花。 2026",
-      "org": "東北大学工学部建築・社会環境工学科 平野研究室、景観開花。実行委員会",
-      "type": "コンテスト",
-      "audience": "以下の条件を満たす人物・団体を応募対象者とする ・2026年4月1日現在…",
-      "deadline": "2026年10月27日 (火) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-27",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった土木デザイン(テーマ: 「DOCKing Port」)を募集。",
-      "tags": [
-        "建築",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/keikan-kaika-2026/"
     },
     {
       "id": "tokoron-cfo-4-2026",
@@ -1721,6 +1694,34 @@
         "写真"
       ],
       "url": "https://compe.japandesign.ne.jp/hokuzoukyou-photo-2026/"
+    },
+    {
+      "id": "tokoron-hokurikushinkansen-douga-2026",
+      "title": "北陸新幹線動画コンテスト",
+      "org": "福井県",
+      "type": "コンテスト",
+      "audience": "日本国内在住の方",
+      "deadline": "2026年11月30日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった自作未発表の動画(テーマ: 北陸新幹線全線開業でうまれる「人・地域・未来」のつながりや可能性を自由に表現したPR動画)",
+      "tags": [
+        "映像制作",
+        "マーケティング",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/hokurikushinkansen-douga-2026/"
     },
     {
       "id": "tokoron-sekkei-ryokou-plan-2026",
