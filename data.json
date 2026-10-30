@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-29",
-  "lastSyncedAt": "2026-10-29T09:42:43+09:00",
+  "lastSynced": "2026-10-30",
+  "lastSyncedAt": "2026-10-30T09:43:19+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -275,33 +275,6 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/26-shortstory-2026/"
-    },
-    {
-      "id": "tokoron-turner-award-2026",
-      "title": "TURNER AWARD 2026",
-      "org": "ターナー色彩株式会社",
-      "type": "コンテスト",
-      "audience": "学生限定 / 日本国内在住の学生対象(高等学校、専門学校、大学、絵画教室の生徒・学生)",
-      "deadline": "2026年10月31日 (土) 作品提出・応募締切 ※応募受付期間:2026年9月1日~10月31日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-10-31",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「TURNER AWARD」は、アクリルガッシュでお馴染みのターナー色彩が主催する、学生向けアート公募展です。アートを志す学生たちの第一歩を応援する公募展として、出品料は無料となっております。未受賞の作品であれば、都道府",
-      "tags": [
-        "アート",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/turner-award-2026/"
     },
     {
       "id": "tokoron-okagakuen-charat-2026",
@@ -1219,6 +1192,33 @@
       "url": "https://compe.japandesign.ne.jp/clt-design-award-2026/"
     },
     {
+      "id": "tokoron-turner-award-2026",
+      "title": "TURNER AWARD 2026",
+      "org": "ターナー色彩株式会社",
+      "type": "コンテスト",
+      "audience": "学生限定 / 日本国内在住の学生対象(高等学校、専門学校、大学、絵画教室の生徒・学生)",
+      "deadline": "2026年11月16日 (月) 作品提出・応募締切 ※応募受付期間:2026年9月1日~10月31日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-16",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「TURNER AWARD」は、アクリルガッシュでお馴染みのターナー色彩が主催する、学生向けアート公募展です。アートを志す学生たちの第一歩を応援する公募展として、出品料は無料となっております。未受賞の作品であれば、都道府",
+      "tags": [
+        "アート",
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/turner-award-2026/"
+    },
+    {
       "id": "tokoron-resas-portal-2026",
       "title": "地方創生☆政策アイデアコンテスト 2026",
       "org": "内閣府地方創生推進室 共催:経済産業省",
@@ -2041,6 +2041,33 @@
       "summary": "授業や課題で取り組んだ設計作品を募集。",
       "tags": [],
       "url": "https://compe.japandesign.ne.jp/roperope675-highschool-sekkei-2026/"
+    },
+    {
+      "id": "tokoron-denkishimbun-photo-2027",
+      "title": "第73回 「電気のある生活」写真賞",
+      "org": "電気新聞(一般社団法人 日本電気協会新聞部)",
+      "type": "コンテスト",
+      "audience": "“電気”に関心のある方",
+      "deadline": "2027年01月04日 (月) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-04",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写真(テーマ: 家庭、職場、地域社会等、くらしに不可欠の“電気”)を募集。",
+      "tags": [
+        "社会科学",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/denkishimbun-photo-2027/"
     },
     {
       "id": "tokoron-resas-edu-idea-connect-2027",
