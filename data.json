@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-10-30",
-  "lastSyncedAt": "2026-10-30T09:43:19+09:00",
+  "lastSynced": "2026-10-31",
+  "lastSyncedAt": "2026-10-31T09:36:27+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1028,32 +1028,6 @@
       "url": "https://compe.japandesign.ne.jp/kawasaki-m-design-2026/"
     },
     {
-      "id": "tokoron-ono-uedamiyoji-tanka-2026",
-      "title": "第38回 上田三四二記念「小野市短歌フォーラム」",
-      "org": "兵庫県小野市、小野市教育委員会、小野市文化連盟",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年11月10日 (火) 作品提出・応募締切、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-10",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "自作未発表の短歌を募集。",
-      "tags": [
-        "短歌・俳句"
-      ],
-      "url": "https://compe.japandesign.ne.jp/ono-uedamiyoji-tanka-2026/"
-    },
-    {
       "id": "tokoron-ngu-pop-design-2026",
       "title": "POPコンテスト 2026",
       "org": "名古屋学院大学 商学部",
@@ -1080,34 +1054,6 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/ngu-pop-design-2026/"
-    },
-    {
-      "id": "tokoron-oac-gakusei-2026",
-      "title": "第15回 OAC学生広告クリエイティブアワード 2026",
-      "org": "公益社団法人 日本広告制作協会(OAC)",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 高校・高専・専門学校・大学・大学院等に在学中の方",
-      "deadline": "2026年11月13日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-13",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "学生による広告クリエイティブを募集。",
-      "tags": [
-        "マーケティング",
-        "映像制作",
-        "多文化交流"
-      ],
-      "url": "https://compe.japandesign.ne.jp/oac-gakusei-2026/"
     },
     {
       "id": "tokoron-fukushima-mirai-challenge-2026",
@@ -1378,6 +1324,32 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/andante21-hamaguri-art-2026/"
+    },
+    {
+      "id": "tokoron-sai-junshin-dowa-2026",
+      "title": "Junshin 童話コンテスト 2026",
+      "org": "埼玉純真短期大学 図書館",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / ●保育者を目指す高校生・保育に興味のある高校生・創作にチャレンジしたい高校生 ●埼玉純真短期大学在学生",
+      "deadline": "2026年11月27日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-27",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった童話、絵本、童謡（詩にメロディーをつける）(テーマ: あそび)を募集。",
+      "tags": [
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sai-junshin-dowa-2026/"
     },
     {
       "id": "tokoron-nitf-fashion-design-2026",
