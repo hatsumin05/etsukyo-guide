@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-02",
-  "lastSyncedAt": "2026-11-02T09:28:46+09:00",
+  "lastSynced": "2026-11-03",
+  "lastSyncedAt": "2026-11-03T11:51:24+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1380,6 +1380,35 @@
       "url": "https://kikkakeportal.com/2023/10/01/1626"
     },
     {
+      "id": "tokoron-ajaps-chibaken-photo-2026",
+      "title": "第51回 千葉県民写真展 作品募集",
+      "org": "全日本写真連盟千葉県本部、朝日新聞千葉総局",
+      "type": "コンテスト",
+      "audience": "千葉県に在住する方(撮影地は不問)および千葉県近隣の都・県(東京・神奈川・埼玉)に在住する方(撮影地は千葉県内に限る)",
+      "deadline": "2026年12月21日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-21",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "千葉県",
+        "prefectures": [
+          "千葉県"
+        ],
+        "note": "千葉県に在住する方(撮影地は不問)および千葉県近隣の都・県(東京・神奈川・埼玉)に在住する方(撮影地は千葉県内に限る)"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「第51回 千葉県民写真展」の出品作品を募集。",
+      "tags": [
+        "写真",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/ajaps-chibaken-photo-2026/"
+    },
+    {
       "id": "tokoron-nippon-monodzukuri-design-award-2026",
       "title": "ニッポンものづくりデザインアワード 2026",
       "org": "ニッポンものづくりデザインアワード実行委員会",
@@ -1431,6 +1460,33 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/nenrin-tanba-etegami-2026/"
+    },
+    {
+      "id": "tokoron-miyazaki-sports-tanka-2026",
+      "title": "日本のひなた宮崎 国スポ・障スポ記念 スポーツ短歌コンクール",
+      "org": "宮崎県、日本のひなた宮崎国スポ・障スポ実行委員会",
+      "type": "コンテスト",
+      "audience": "小学生以上",
+      "deadline": "2026年12月28日 (月) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-28",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった自作未発表の短歌(テーマ: 「スポーツを題材とした作品」)を募集。",
+      "tags": [
+        "短歌・俳句",
+        "スポーツ科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/miyazaki-sports-tanka-2026/"
     },
     {
       "id": "tokoron-roperope675-highschool-sekkei-2026",
@@ -1542,6 +1598,34 @@
         "多文化交流"
       ],
       "url": "https://kikkakeportal.com/2023/11/14/2043"
+    },
+    {
+      "id": "tokoron-j-ecoclub-kabeshinbun-enikki-2027",
+      "title": "2026年度 「全国エコ活コンクール」作品募集",
+      "org": "こどもエコクラブ全国事務局",
+      "type": "コンテスト",
+      "audience": "3～18歳限定 / 全国のこどもエコクラブ、および全国の環境活動をしている子どもたちのグループ、個人",
+      "deadline": "2027年01月08日 (金) 作品提出・応募締切、必着※デジタル部門は、2027年1月22日(金)必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-08",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "子どもたちによる壁新聞・絵日記・デジタル作品（スライド・動画）を募集。",
+      "tags": [
+        "映像制作",
+        "プレゼン",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/j-ecoclub-kabeshinbun-enikki-2027/"
     },
     {
       "id": "tokoron-trident-highschool-design-2027",
@@ -1890,6 +1974,30 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/b-machi-keikansen-kaiga-2027/"
+    },
+    {
+      "id": "tokoron-asago-photo-2027",
+      "title": "あさごの小さなフォトグラファー展 2027 作品募集",
+      "org": "兵庫県朝来市、あさご芸術の森美術館",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 日本国内在住の小学生~高校生",
+      "deadline": "2027年01月30日 (土) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "撮影後1年半以内の写真を募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/asago-photo-2027/"
     },
     {
       "id": "tokoron-tsugaku-railway-movie-2027",
