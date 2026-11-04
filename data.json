@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-03",
-  "lastSyncedAt": "2026-11-03T11:51:24+09:00",
+  "lastSynced": "2026-11-04",
+  "lastSyncedAt": "2026-11-04T10:09:09+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,32 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-smc-power-ai-idea-2026",
-      "title": "学生AI活用アイデアコンテスト by SMC-POWER",
-      "org": "株式会社SMC-POWER",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 以下の全てに該当する方 ・高校・大学・大学院・短期大学・専門学校に在籍している学生・生徒の方 ・授業や普段の生活でAIを活用して…",
-      "deadline": "2026年11月03日 (火) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-03",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "岐阜県",
-        "prefectures": [
-          "岐阜県"
-        ],
-        "note": "以下の全てに該当する方 ・高校・大学・大学院・短期大学・専門学校に在籍している学生・生徒の方 ・授業や普段の生活でAIを活用している方 ・2026年12月5日(土)に岐阜県多治見市で開催される最終発表"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "AIを活用した実務に活かせるアイデア(テーマ: 「SMC-POWERの実務に活かせるAI活用アイデア」)を募集。",
-      "tags": [],
-      "url": "https://compe.japandesign.ne.jp/smc-power-ai-idea-2026/"
     },
     {
       "id": "tokoron-ipa-security-poster-2026",
