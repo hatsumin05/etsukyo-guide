@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-04",
-  "lastSyncedAt": "2026-11-04T10:09:09+09:00",
+  "lastSynced": "2026-11-05",
+  "lastSyncedAt": "2026-11-05T10:24:50+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,71 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-ipa-security-poster-2026",
-      "title": "ひろげよう情報セキュリティコンクール 2026 ポスター部門",
-      "org": "独立行政法人 情報処理推進機構",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 以下に該当する児童生徒等 (1)日本国内の小学校・中学校・高等学校に在籍する児童生徒 (2)日本国内の小学校・中学校・高等学校に…",
-      "deadline": "2026年11月04日 (水) 作品提出・応募締切、12:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-04",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったポスター(テーマ: 「サイバーセキュリティ対策9か条」)を募集。",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/ipa-security-poster-2026/"
-    },
-    {
-      "id": "tokoron-kanto-ba-kodomo-kenpou-senryu-2026",
-      "title": "第10回 こども憲法川柳",
-      "org": "関東弁護士会連合会 共催:日本弁護士連合会・管内13弁護士会(予定)",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 関東弁護士会連合会管内の都県(東京都、神奈川県、埼玉県、千葉県、茨城県、栃木県、群馬県、静岡県、山梨県、長野県…",
-      "deadline": "2026年11月04日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-04",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "関東・甲信越",
-        "prefectures": [
-          "東京都",
-          "神奈川県",
-          "埼玉県",
-          "千葉県",
-          "茨城県",
-          "栃木県",
-          "群馬県",
-          "静岡県",
-          "山梨県",
-          "長野県",
-          "新潟県"
-        ],
-        "note": "関東弁護士会連合会管内の都県(東京都、神奈川県、埼玉県、千葉県、茨城県、栃木県、群馬県、静岡県、山梨県、長野県、新潟県)内の小学校5年生~高校3年生の方"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表の川柳(テーマ: 日本国憲法)を募集。",
-      "tags": [
-        "短歌・俳句",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kanto-ba-kodomo-kenpou-senryu-2026/"
     },
     {
       "id": "tokoron-hasekou-sumai-2026",
@@ -1656,6 +1591,33 @@
       "url": "https://compe.japandesign.ne.jp/ssu-haiku-2027/"
     },
     {
+      "id": "tokoron-minatoku-kankou-photo-2027",
+      "title": "第24回 港区観光フォトコンテスト 2026",
+      "org": "一般社団法人 港区観光協会",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2027年01月11日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-11",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写真(テーマ: 港区の様々なスポット、名所・旧跡、風物詩等の観光資源や人々の活動を、写真を通じて紹介するとともに、港区の魅力…)",
+      "tags": [
+        "写真",
+        "地域活動"
+      ],
+      "url": "https://compe.japandesign.ne.jp/minatoku-kankou-photo-2027/"
+    },
+    {
       "id": "tokoron-camerakan-woder-photo-2027",
       "title": "ワンダーフォトコンテスト 2026-2027",
       "org": "ミュゼふくおかカメラ館",
@@ -1838,6 +1800,30 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/mobility-design-2027/"
+    },
+    {
+      "id": "tokoron-jatcc-z-1-2027",
+      "title": "第5回 Z-1グランプリ（オリジナル雑煮コンテスト）",
+      "org": "公益社団法人 全国調理師養成施設協会",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 全国の調理師学校近隣の小中高生",
+      "deadline": "2027年01月15日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-15",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった雑煮のレシピ(テーマ: いつでも食べたい、地元食材で私のオリジナル雑煮！)を募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/jatcc-z-1-2027/"
     },
     {
       "id": "tokoron-sasaki-icenet-truck-design-2027",
@@ -2086,6 +2072,33 @@
       "url": "https://compe.japandesign.ne.jp/jdpa-tole-painting-2027/"
     },
     {
+      "id": "tokoron-shirotori-garden-haiku-14-2027",
+      "title": "第14回 白鳥庭園俳句大賞",
+      "org": "白鳥庭園",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2027年01月31日 (日) 作品提出・応募締切、必着※郵送の場合は、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "お題にそった俳句を募集。",
+      "tags": [
+        "短歌・俳句",
+        "建築"
+      ],
+      "url": "https://compe.japandesign.ne.jp/shirotori-garden-haiku-14-2027/"
+    },
+    {
       "id": "tokoron-kurushimatakehiko-douwa-2027",
       "title": "第9回 久留島武彦童話賞 ～子ども創作童話コンクール～",
       "org": "久留島武彦記念館",
@@ -2110,6 +2123,33 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/kurushimatakehiko-douwa-2027/"
+    },
+    {
+      "id": "tokoron-toho-cinema-gakusei-eiga-2027",
+      "title": "第20回 TOHOシネマズ学生映画祭",
+      "org": "TOHOシネマズ株式会社",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / 「2027年2月1日(月)23:59時点で日本国内の学校に在籍している学生」が監督・制作した作品であること",
+      "deadline": "2027年02月01日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-02-01",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "学生監督による映像作品を募集。",
+      "tags": [
+        "映像制作",
+        "マーケティング"
+      ],
+      "url": "https://compe.japandesign.ne.jp/toho-cinema-gakusei-eiga-2027/"
     },
     {
       "id": "tokoron-fukui-sam-2027",
