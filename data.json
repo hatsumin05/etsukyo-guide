@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-05",
-  "lastSyncedAt": "2026-11-05T10:24:50+09:00",
+  "lastSynced": "2026-11-06",
+  "lastSyncedAt": "2026-11-06T10:26:59+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,87 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-hasekou-sumai-2026",
-      "title": "第20回 長谷工住まいのデザインコンペティション",
-      "org": "株式会社長谷工コーポレーション",
-      "type": "コンテスト",
-      "audience": "学生限定 / 大学院、大学、短期大学、高等専門学校、高等学校、専修学校(各種学校)などの学生",
-      "deadline": "2026年11月05日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-05",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "株式会社長谷工コーポレーションが、建築を志す若手の人材育成を目的に、学生を対象とした「第20回 長谷工住まいのデザインコンペティション」を実施します。 昨今、個人の多様な生き方や考え方が受け入れられ始めています。学校や地",
-      "tags": [
-        "建築",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/hasekou-sumai-2026/"
-    },
-    {
-      "id": "tokoron-onefes-movie-2026",
-      "title": "第34回 ワン・ワールド・フェスティバル 第7回 動画コンテスト",
-      "org": "ワン・ワールド・フェスティバル実行委員会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年11月05日 (木) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-05",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった映像作品(テーマ: SDGsに関する活動および国際交流・国際協力の活動について多角的な視点で捉えた映像作品)",
-      "tags": [
-        "映像制作",
-        "多文化交流",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/onefes-movie-2026/"
-    },
-    {
-      "id": "tokoron-kawasaki-museum-exhibition-2026",
-      "title": "第60回 かわさき市美術展",
-      "org": "川崎市市民ミュージアム",
-      "type": "コンテスト",
-      "audience": "【一般】 15歳以上の川崎市在住・在勤・在学の方、または市内を活動の場とする方 【中高生】 川崎市内在住または在学の…",
-      "deadline": "2026年11月05日 (木) 事前登録締切、16:00必着※当日申込は、2026年11月28日(土)12:00~17:00、11月29日(日)10:00~16:00(※業者搬入 10:00~12:00)",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-05",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "未発表の美術作品を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kawasaki-museum-exhibition-2026/"
     },
     {
       "id": "tokoron-iimefukurame-tokyo-27-2026",
@@ -651,6 +570,34 @@
       "url": "https://compe.japandesign.ne.jp/cygames-saga-cc-2026/"
     },
     {
+      "id": "tokoron-tamagawa-college-of-tourism-machi-2026",
+      "title": "玉川大学 第6回 高校生まちづくりコンテスト",
+      "org": "高校生観光チャレンジ実行委員会",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 全国の高校生",
+      "deadline": "2026年11月24日 (火) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-24",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった企画書およびプレゼンテーション動画(テーマ: 「ツーリズムを通じた自分たちの“まち”の活性化プランを考えよう」 （1）“まち”は、市区町村単位で考える （…)",
+      "tags": [
+        "地域活動",
+        "映像制作",
+        "プレゼン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tamagawa-college-of-tourism-machi-2026/"
+    },
+    {
       "id": "tokoron-andante21-hamaguri-art-2026",
       "title": "第17回 ハマグリ貝アート展",
       "org": "益田川と海をつなぐ自然環境保全活動組織",
@@ -1045,32 +992,6 @@
         "地域活動"
       ],
       "url": "https://compe.japandesign.ne.jp/hokurikushinkansen-douga-2026/"
-    },
-    {
-      "id": "tokoron-sekkei-ryokou-plan-2026",
-      "title": "木の家設計グランプリ 2027",
-      "org": "株式会社エスクナレッジ、株式会社キャリア・ナビゲーション",
-      "type": "コンテスト",
-      "audience": "高校生・学生限定 / 住宅建築のプロを目指す、全国の建築学生",
-      "deadline": "2026年11月30日 (月) 事前登録締切、必着※作品提出期間:2026年12月1日(火)~2027年1月15日(金)15:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-30",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった未発表の木造住宅のアイディア(テーマ: 「澄む家」)を募集。",
-      "tags": [
-        "建築"
-      ],
-      "url": "https://compe.japandesign.ne.jp/sekkei-ryokou-plan-2026/"
     },
     {
       "id": "tokoron-yodogawa-park-sketch-2026",
@@ -2282,38 +2203,6 @@
         "研究発表"
       ],
       "url": "https://compe.japandesign.ne.jp/ict-student-essay-2026/"
-    },
-    {
-      "id": "kikkake-8620",
-      "title": "返済不要の奨学金で海外へ！トビタテ！留学JAPAN高校生等対象 第12期｜2027年度600人募集",
-      "org": "公式サイトを確認",
-      "type": "プログラム",
-      "audience": "高校生 対象",
-      "deadline": "応募締切 2027年4月21日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2027-04-21",
-      "format": "onsite",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": {
-        "name": "海外",
-        "address": null,
-        "prefecture": null,
-        "country": null
-      },
-      "onlineTool": null,
-      "summary": "「海外で、自分の興味をとことん探究してみたい」。そんな高校生の挑戦を、返済不要の奨学金で後押しする「トビタテ！留学JAPAN」。",
-      "tags": [
-        "留学",
-        "多文化交流"
-      ],
-      "url": "https://kikkakeportal.com/2026/10/11/8620"
     },
     {
       "id": "tokoron-kyoto-bungaku-2027",
