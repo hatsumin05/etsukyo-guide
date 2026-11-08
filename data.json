@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-07",
-  "lastSyncedAt": "2026-11-07T09:47:45+09:00",
+  "lastSynced": "2026-11-08",
+  "lastSyncedAt": "2026-11-08T09:19:02+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -622,6 +622,38 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/andante21-hamaguri-art-2026/"
+    },
+    {
+      "id": "kikkake-4807",
+      "title": "無料でアメリカへ！外務省対日理解促進交流プログラム「カケハシ・プロジェクト」TOFUプログラム参加者募集",
+      "org": "公式サイトを確認",
+      "type": "プログラム",
+      "audience": "高校生・大学生 対象",
+      "deadline": "応募締切 2026年11月25日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-25",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": {
+        "name": "海外",
+        "address": null,
+        "prefecture": null,
+        "country": "アメリカ"
+      },
+      "onlineTool": null,
+      "summary": "沖縄の高校生・大学生が、アメリカの政府関係者や現地学生と交流し、国際社会の現場を学べるチャンスです。 外務省が実施する 「アメリカで沖縄の未来を考える」（TOFU）プログラム では、",
+      "tags": [
+        "留学",
+        "多文化交流"
+      ],
+      "url": "https://kikkakeportal.com/2024/10/12/4807"
     },
     {
       "id": "tokoron-sai-junshin-dowa-2026",
