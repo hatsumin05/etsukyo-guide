@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-09",
-  "lastSyncedAt": "2026-11-09T09:41:13+09:00",
+  "lastSynced": "2026-11-10",
+  "lastSyncedAt": "2026-11-10T12:21:11+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -173,77 +173,6 @@
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
     },
     {
-      "id": "tokoron-iimefukurame-tokyo-27-2026",
-      "title": "ヤングアーティスト公募展「いい芽ふくら芽 in TOKYO 2027」",
-      "org": "大丸松坂屋百貨店、株式会社八犬堂 【協力】 月刊アートコレクターズ 一般社団法人JIAN",
-      "type": "コンテスト",
-      "audience": "・応募締切日時点で高校生以上40歳未満の方 ・下記エリアの出身または在住、もしくは…",
-      "deadline": "2026年11月08日 (日) 作品提出・応募締切",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-08",
-      "format": "submission",
-      "area": {
-        "scope": "regional",
-        "label": "北海道・東北・関東",
-        "prefectures": [
-          "北海道",
-          "青森県",
-          "岩手県",
-          "宮城県",
-          "秋田県",
-          "山形県",
-          "福島県",
-          "茨城県",
-          "栃木県",
-          "群馬県",
-          "埼玉県",
-          "千葉県",
-          "東京都",
-          "神奈川県",
-          "新潟県",
-          "山梨県",
-          "長野県"
-        ],
-        "note": "・応募締切日時点で高校生以上40歳未満の方 ・下記エリアの出身または在住、もしくは、ゆかりのある作家 北海道・青森県・岩手県・宮城県・秋田県・山形県・福島県・茨城県・栃木県・群馬県・埼玉県・千葉県・東"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "ヤングアーティスト公募展「いい芽ふくら芽」は、可能性を秘めた若手作家をいち早く見出し、その才能が開花することを美術ファンと共に応援するために、株式会社大丸松坂屋百貨店と株式会社八犬堂が共催して2018年にスタートしました",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/iimefukurame-tokyo-27-2026/"
-    },
-    {
-      "id": "tokoron-kawasaki-m-design-2026",
-      "title": "私がイメージする未来のがん看護 高校生 イラスト・デザインコンクール",
-      "org": "第41回 日本がん看護学会学術集会",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高等学校の生徒(個人またはグループ)",
-      "deadline": "2026年11月09日 (月) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-09",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "これからのがん看護の姿や役割を表現したイラストを募集。",
-      "tags": [
-        "アート",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/kawasaki-m-design-2026/"
-    },
-    {
       "id": "tokoron-ono-uedamiyoji-tanka-2026",
       "title": "第38回 上田三四二記念「小野市短歌フォーラム」",
       "org": "兵庫県小野市、小野市教育委員会、小野市文化連盟",
@@ -378,6 +307,33 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/mamatone-ehon-episode-2026-2/"
+    },
+    {
+      "id": "tokoron-wakanroeishu-sho-2026",
+      "title": "和漢朗詠集国際書道コンテスト 2026",
+      "org": "kuma(茶花山荘)",
+      "type": "コンテスト",
+      "audience": "日本国内外不問",
+      "deadline": "2026年11月15日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-15",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「和漢朗詠集」から生み出された書作品を募集。",
+      "tags": [
+        "文章・作文",
+        "多文化交流"
+      ],
+      "url": "https://compe.japandesign.ne.jp/wakanroeishu-sho-2026/"
     },
     {
       "id": "tokoron-clt-design-award-2026",
@@ -540,6 +496,32 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/fashion-shoes-27-2026/"
+    },
+    {
+      "id": "tokoron-tgkoko-art-2026",
+      "title": "天学コンペティション 2026",
+      "org": "天王寺学館高等学校 美術コース",
+      "type": "コンテスト",
+      "audience": "中・高校生限定 / 中学生・高校生",
+      "deadline": "2026年11月20日 (金) 作品提出・応募締切、必着※持参の場合は、17:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-20",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったアート作品(テーマ: カラフルデイ♪)を募集。",
+      "tags": [
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tgkoko-art-2026/"
     },
     {
       "id": "tokoron-cygames-saga-cc-2026",
@@ -1026,6 +1008,32 @@
       "url": "https://compe.japandesign.ne.jp/hokurikushinkansen-douga-2026/"
     },
     {
+      "id": "tokoron-sekkei-ryokou-plan-2026",
+      "title": "木の家設計グランプリ 2027",
+      "org": "株式会社エスクナレッジ、株式会社キャリア・ナビゲーション",
+      "type": "コンテスト",
+      "audience": "高校生・学生限定 / 住宅建築のプロを目指す、全国の建築学生",
+      "deadline": "2026年11月30日 (月) 事前登録締切、必着※作品提出期間:2026年12月1日(火)~2027年1月15日(金)15:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-30",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった未発表の木造住宅のアイディア(テーマ: 「澄む家」)を募集。",
+      "tags": [
+        "建築"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sekkei-ryokou-plan-2026/"
+    },
+    {
       "id": "tokoron-yodogawa-park-sketch-2026",
       "title": "淀川河川公園写生画コンテスト 2026",
       "org": "淀川河川公園管理センター",
@@ -1297,6 +1305,32 @@
       "url": "https://compe.japandesign.ne.jp/nippon-monodzukuri-design-award-2026/"
     },
     {
+      "id": "tokoron-nagoya-screen-jam-2026",
+      "title": "名古屋未来映像コンテスト 2026 「Nagoya Screen JAM」",
+      "org": "公益財団法人 名古屋市文化振興事業団(中村文化小劇場) 共催:名古屋未来映像コンテスト製作委員会",
+      "type": "コンテスト",
+      "audience": "●上映会の授賞式に出席できること ●映画館での上映、テレビでの放送、動画配信サービスでの配信…",
+      "deadline": "2026年12月25日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-25",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "2025年1月以降に完成した映像作品を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/nagoya-screen-jam-2026/"
+    },
+    {
       "id": "tokoron-nenrin-tanba-etegami-2026",
       "title": "第10回 心を届ける たんば絵てがみコンクール",
       "org": "兵庫県立丹波年輪の里",
@@ -1516,6 +1550,30 @@
         "アート"
       ],
       "url": "https://compe.japandesign.ne.jp/trident-highschool-design-2027/"
+    },
+    {
+      "id": "tokoron-kashikoken-archaeological-photo-2027",
+      "title": "第10回 考古学写真甲子園「古墳のある風景」を撮ろう Ⅷ",
+      "org": "奈良県立橿原考古学研究所附属博物館、公益財団法人 由良大和古代文化研究協会、奈良県立橿原考古学研究所友史会、一般財団法人 橿原考古文化財団",
+      "type": "コンテスト",
+      "audience": "小・中・高校生、学生限定 / 児童・生徒・学生個人",
+      "deadline": "2027年01月08日 (金) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-08",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写真(テーマ: 「過去と現在の共生」)を募集。",
+      "tags": [],
+      "url": "https://compe.japandesign.ne.jp/kashikoken-archaeological-photo-2027/"
     },
     {
       "id": "tokoron-ssu-haiku-2027",
