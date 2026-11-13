@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-12",
-  "lastSyncedAt": "2026-11-12T11:11:09+09:00",
+  "lastSynced": "2026-11-13",
+  "lastSyncedAt": "2026-11-13T10:45:00+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1030,6 +1030,33 @@
       "summary": "テーマにそった写生画(テーマ: わたしたちのよどがわかせんこうえん)を募集。",
       "tags": [],
       "url": "https://compe.japandesign.ne.jp/yodogawa-park-sketch-2026/"
+    },
+    {
+      "id": "tokoron-tankakenkyu-junior-2026",
+      "title": "第7回 短歌研究ジュニア賞",
+      "org": "株式会社短歌研究社",
+      "type": "コンテスト",
+      "audience": "幼・小・中・高校生限定 / 幼児・小学生・中学生・高校生",
+      "deadline": "2026年12月01日 (火) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-01",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "未発表の短歌を募集。",
+      "tags": [
+        "短歌・俳句",
+        "研究発表"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tankakenkyu-junior-2026/"
     },
     {
       "id": "tokoron-k-manabonect-youtubekoshien-2026",
