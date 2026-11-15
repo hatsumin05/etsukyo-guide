@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-14",
-  "lastSyncedAt": "2026-11-14T10:22:39+09:00",
+  "lastSynced": "2026-11-15",
+  "lastSyncedAt": "2026-11-15T09:56:59+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1134,6 +1134,33 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/kokoronouta-short-letter-2026/"
+    },
+    {
+      "id": "kikkake-8813",
+      "title": "【12/12開催・参加無料】日本のユネスコ加盟75周年記念イベント「2023年ユネスコ教育勧告を読み解く」",
+      "org": "公式サイトを確認",
+      "type": "イベント",
+      "audience": "小学生・中学生 対象",
+      "deadline": "応募締切 2026年12月9日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-09",
+      "format": "onsite",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "～多様な教育実践との接合点を考える～ 教育を通じて、平和で公正、そして持続可能な未来をどのように実現できるのでしょうか。 2026年12月12日（土）、聖心女子大学にて、",
+      "tags": [
+        "多文化交流",
+        "社会科学"
+      ],
+      "url": "https://kikkakeportal.com/2026/11/14/8813"
     },
     {
       "id": "tokoron-kccollege-it-app-2026",
