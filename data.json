@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-15",
-  "lastSyncedAt": "2026-11-15T09:56:59+09:00",
+  "lastSynced": "2026-11-17",
+  "lastSyncedAt": "2026-11-17T12:34:59+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,169 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-fukushima-mirai-challenge-2026",
-      "title": "いっしょに考える「福島、その先の環境へ。」チャレンジ・アワード 2026",
-      "org": "環境省 共催:福島県、福島県教育委員会",
-      "type": "コンテスト",
-      "audience": "中・高校生、学生限定 / ●中学生 ●高校生",
-      "deadline": "2026年11月15日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-15",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったプレゼンテーション、またはアートポスター(テーマ: いっしょに考える「福島、その先の環境へ。」)を募集。",
-      "tags": [
-        "社会科学",
-        "アート",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/fukushima-mirai-challenge-2026/"
-    },
-    {
-      "id": "tokoron-mamatone-ehon-episode-2026-2",
-      "title": "第3回 静岡絵本エピソードアワード",
-      "org": "静岡絵本エピソードアワード実行委員会(事務局:あひる図書館)",
-      "type": "コンテスト",
-      "audience": "静岡県に縁のある方",
-      "deadline": "2026年11月15日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-15",
-      "format": "submission",
-      "area": {
-        "scope": "unknown",
-        "label": "",
-        "prefectures": [],
-        "note": "静岡県に縁のある方"
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったエピソード(テーマ: 「絵本」にまつわる経験や想いをつづったエピソード)を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/mamatone-ehon-episode-2026-2/"
-    },
-    {
-      "id": "tokoron-wakanroeishu-sho-2026",
-      "title": "和漢朗詠集国際書道コンテスト 2026",
-      "org": "kuma(茶花山荘)",
-      "type": "コンテスト",
-      "audience": "日本国内外不問",
-      "deadline": "2026年11月15日 (日) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-15",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「和漢朗詠集」から生み出された書作品を募集。",
-      "tags": [
-        "文章・作文",
-        "多文化交流"
-      ],
-      "url": "https://compe.japandesign.ne.jp/wakanroeishu-sho-2026/"
-    },
-    {
-      "id": "tokoron-clt-design-award-2026",
-      "title": "CLT DESIGN AWARD 2026 ─ 設計コンテスト ─",
-      "org": "一般社団法人日本CLT協会",
-      "type": "コンテスト",
-      "audience": "設計実務者、建築を学ぶ学生(大学生、専門学校生、高校生など)",
-      "deadline": "2026年11月16日 (月) 作品提出・応募締切",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-16",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "本コンテストは、2015年の創設以来、CLT（Cross Laminated Timber）の持つ優れた特性と豊かな可能性を活かした設計アイデアを募り、その魅力を社会へ発信する場として歩みを重ねてきました。 2022年度",
-      "tags": [
-        "建築",
-        "社会科学",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/clt-design-award-2026/"
-    },
-    {
-      "id": "tokoron-turner-award-2026",
-      "title": "TURNER AWARD 2026",
-      "org": "ターナー色彩株式会社",
-      "type": "コンテスト",
-      "audience": "学生限定 / 日本国内在住の学生対象(高等学校、専門学校、大学、絵画教室の生徒・学生)",
-      "deadline": "2026年11月16日 (月) 作品提出・応募締切 ※応募受付期間:2026年9月1日~10月31日",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-16",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "「TURNER AWARD」は、アクリルガッシュでお馴染みのターナー色彩が主催する、学生向けアート公募展です。アートを志す学生たちの第一歩を応援する公募展として、出品料は無料となっております。未受賞の作品であれば、都道府",
-      "tags": [
-        "アート",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/turner-award-2026/"
-    },
-    {
-      "id": "tokoron-resas-portal-2026",
-      "title": "地方創生☆政策アイデアコンテスト 2026",
-      "org": "内閣府地方創生推進室 共催:経済産業省",
-      "type": "コンテスト",
-      "audience": "地方創生やデータ利活用に関心を持つ学生のほか、地方公共団体、民間企業等所属問わず、誰でも応募可",
-      "deadline": "2026年11月16日 (月) 作品提出・応募締切、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-16",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "地域（市区町村または都道府県、もしくは、複数の市区町村または複数の都道府県／必ずしも地理的に隣接している必要はない）の現状・課題について、地域経済分析システム RESAS、",
-      "tags": [
-        "社会科学",
-        "地域活動"
-      ],
-      "url": "https://compe.japandesign.ne.jp/resas-portal-2026/"
     },
     {
       "id": "tokoron-cee-videocontest-2026",
@@ -1355,6 +1192,58 @@
         "スポーツ科学"
       ],
       "url": "https://compe.japandesign.ne.jp/miyazaki-sports-tanka-2026/"
+    },
+    {
+      "id": "tokoron-eiyo-happy-2026-2",
+      "title": "Happy栄養コンテスト 2026",
+      "org": "一般社団法人 全国栄養士養成施設協会",
+      "type": "コンテスト",
+      "audience": "【中学生・高校生部門】 中学生・高校生の方",
+      "deadline": "2026年12月31日 (木) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写真と作文(テーマ: 「朝ごはん」)を募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/eiyo-happy-2026-2/"
+    },
+    {
+      "id": "tokoron-isesaki-meisen-design-2026",
+      "title": "ISESAKI MEISEN Design Award 2026",
+      "org": "伊勢崎市観光物産協会 共催:群馬県伊勢崎市",
+      "type": "コンテスト",
+      "audience": "一次通過者は2027年3月6日(土)にメガネのイタガキ文化ホール伊勢崎 小ホールにて選考会があるため、選考会に来られる方",
+      "deadline": "2026年12月31日 (木) 作品提出・オンライン応募締切※郵送の場合は、12月28日(月)必着※窓口持参の場合は、12月28日(月)17:00まで",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-31",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "伊勢崎銘仙のスピリットを受け継ぐ「次世代テキスタイルのためのパターンデザイン」を募集。",
+      "tags": [
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/isesaki-meisen-design-2026/"
     },
     {
       "id": "tokoron-roperope675-highschool-sekkei-2026",
