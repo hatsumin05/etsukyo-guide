@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-17",
-  "lastSyncedAt": "2026-11-17T12:34:59+09:00",
+  "lastSynced": "2026-11-18",
+  "lastSyncedAt": "2026-11-18T11:48:40+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1749,6 +1749,33 @@
         "自然科学"
       ],
       "url": "https://compe.japandesign.ne.jp/rikokei-ronbun-2027/"
+    },
+    {
+      "id": "tokoron-aac-2027",
+      "title": "AAC2027ポスターコンペ",
+      "org": "株式会社アーバネットコーポレーション",
+      "type": "コンテスト",
+      "audience": "学生限定 / 全国の大学・大学院・短期大学・専門学校・高校等で、美術・芸術・デザイン・建築・空間演出等を学んでいる学生(研究生含む)",
+      "deadline": "2027年01月24日 (日) 作品提出・応募締切",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-24",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「ART MEETS ARCHITECTURE COMPETITION（AAC）」は、新築マンションのエントランスホールに展示する立体アート作品を、全国の学生から募集するアートコンペティションです。 「AAC2027ポス",
+      "tags": [
+        "デザイン",
+        "アート"
+      ],
+      "url": "https://compe.japandesign.ne.jp/aac-2027/"
     },
     {
       "id": "tokoron-aero-young-art-2027",
