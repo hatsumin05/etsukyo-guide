@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-18",
-  "lastSyncedAt": "2026-11-18T11:48:40+09:00",
+  "lastSynced": "2026-11-19",
+  "lastSyncedAt": "2026-11-19T11:25:57+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,33 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-cee-videocontest-2026",
-      "title": "第4回 小・中・高校生のためのエコノミクスビデオコンテスト",
-      "org": "一般社団法人 CEEジャパン 特別協賛:KPMGジャパン",
-      "type": "コンテスト",
-      "audience": "小・中・高校生限定 / 国内在住の小学4年生~高校3年生",
-      "deadline": "2026年11月18日 (水) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-18",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった60秒以内の動画(テーマ: 暮らしの中にある自分と経済との関わり)を募集。",
-      "tags": [
-        "映像制作",
-        "社会科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/cee-videocontest-2026/"
     },
     {
       "id": "tokoron-ceramic-stillimage-movie-2026-2",
