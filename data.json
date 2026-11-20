@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-19",
-  "lastSyncedAt": "2026-11-19T11:25:57+09:00",
+  "lastSynced": "2026-11-20",
+  "lastSyncedAt": "2026-11-20T11:10:39+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -468,6 +468,32 @@
         "デザイン"
       ],
       "url": "https://compe.japandesign.ne.jp/monomake-okayama-idea-2026/"
+    },
+    {
+      "id": "tokoron-tcs15-poster-2026",
+      "title": "2026 韓中日3か国小中高校生ポスターコンテスト",
+      "org": "韓国外交部",
+      "type": "コンテスト",
+      "audience": "小・中・高校生限定 / 韓中日3カ国の小学生・中学生・高校生および同年齢の青少年",
+      "deadline": "2026年11月29日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-11-29",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったポスター(テーマ: 「ともに描いた15年、ともに歩む未来」)を募集。",
+      "tags": [
+        "デザイン"
+      ],
+      "url": "https://compe.japandesign.ne.jp/tcs15-poster-2026/"
     },
     {
       "id": "tokoron-ibaraki-esports-game-creaters-2026",
@@ -1030,6 +1056,32 @@
         "アート"
       ],
       "url": "https://kikkakeportal.com/2023/10/01/1626"
+    },
+    {
+      "id": "tokoron-lumion3d-student-competition-2026",
+      "title": "Lumion 学生コンペティション 2026",
+      "org": "有限会社リビングCG",
+      "type": "コンテスト",
+      "audience": "高校生、学生限定 / ●2026年8月現在、日本国内の学校に在籍する学生・生徒(大学生・専門学校生・大学院生・高校生)または、海外在住の日本人学生",
+      "deadline": "2026年12月21日 (月) 作品提出・応募締切、17:00必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2026-12-21",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "Lumionでレンダリングした、テーマにそった作品(テーマ: あなたの創り出した最高の作品)を募集。",
+      "tags": [
+        "映像制作"
+      ],
+      "url": "https://compe.japandesign.ne.jp/lumion3d-student-competition-2026/"
     },
     {
       "id": "tokoron-ajaps-chibaken-photo-2026",
@@ -1751,6 +1803,33 @@
       "url": "https://compe.japandesign.ne.jp/aac-2027/"
     },
     {
+      "id": "tokoron-kawahara-illust-2027",
+      "title": "河原イラストコンテスト 2027",
+      "org": "河原デザイン・アート専門学校",
+      "type": "コンテスト",
+      "audience": "高校生限定 / 四国内の高校生限定",
+      "deadline": "2027年01月24日 (日) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-24",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそったイラスト(テーマ: 「食べ物と○○」 ～おいしい×きみの発想でつながる世界～)を募集。",
+      "tags": [
+        "アート",
+        "多文化交流"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kawahara-illust-2027/"
+    },
+    {
       "id": "tokoron-aero-young-art-2027",
       "title": "2027 青少年航空宇宙絵画国際コンテスト",
       "org": "一般財団法人 日本航空協会",
@@ -1997,6 +2076,35 @@
         "建築"
       ],
       "url": "https://compe.japandesign.ne.jp/shirotori-garden-haiku-14-2027/"
+    },
+    {
+      "id": "tokoron-kochi-otepia-tanshi-bungaku-2027",
+      "title": "第51回 高知県短詩型文学賞",
+      "org": "高知県短詩型文学賞運営委員会",
+      "type": "コンテスト",
+      "audience": "【一般の部】 高知県在住の方および高知県出身で県外在住の方に限る",
+      "deadline": "2027年01月31日 (日) 作品提出・応募締切、必着※郵送の場合、消印有効※高校生の部は、2027年1月22日(金)締切",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-31",
+      "format": "submission",
+      "area": {
+        "scope": "regional",
+        "label": "高知県",
+        "prefectures": [
+          "高知県"
+        ],
+        "note": "【一般の部】 高知県在住の方および高知県出身で県外在住の方に限る"
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "高知県在住・出身者による短歌、俳句、川柳を募集。",
+      "tags": [
+        "文章・作文",
+        "短歌・俳句"
+      ],
+      "url": "https://compe.japandesign.ne.jp/kochi-otepia-tanshi-bungaku-2027/"
     },
     {
       "id": "tokoron-kurushimatakehiko-douwa-2027",
