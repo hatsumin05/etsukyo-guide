@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-20",
-  "lastSyncedAt": "2026-11-20T11:10:39+09:00",
+  "lastSynced": "2026-11-21",
+  "lastSyncedAt": "2026-11-21T11:03:06+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,85 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-ceramic-stillimage-movie-2026-2",
-      "title": "「こんなところに！セラミックス」 静止画・動画コンテスト",
-      "org": "公益社団法人 日本セラミックス協会",
-      "type": "コンテスト",
-      "audience": "参加資格の制限なし",
-      "deadline": "2026年11月20日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-20",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "身近にあるセラミックスを表現した静止画・動画を募集。",
-      "tags": [
-        "映像制作",
-        "自然科学"
-      ],
-      "url": "https://compe.japandesign.ne.jp/ceramic-stillimage-movie-2026-2/"
-    },
-    {
-      "id": "tokoron-fashion-shoes-27-2026",
-      "title": "ファッションシューズコンテスト 2027",
-      "org": "日本ケミカルシューズ工業組合",
-      "type": "コンテスト",
-      "audience": "ファッション、靴、デザインに興味のある方",
-      "deadline": "2026年11月20日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-20",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "靴への新しいアイデアや夢を募る「ファッションシューズコンテスト」。毎年、全国から数多くの優秀な作品をご応募いただいています。 今回の応募テーマは「独創性の高い靴」。ここ数年はAIが飛躍的な進化を遂げていますが、AIにも負",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/fashion-shoes-27-2026/"
-    },
-    {
-      "id": "tokoron-tgkoko-art-2026",
-      "title": "天学コンペティション 2026",
-      "org": "天王寺学館高等学校 美術コース",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 中学生・高校生",
-      "deadline": "2026年11月20日 (金) 作品提出・応募締切、必着※持参の場合は、17:00必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-20",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったアート作品(テーマ: カラフルデイ♪)を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/tgkoko-art-2026/"
     },
     {
       "id": "tokoron-cygames-saga-cc-2026",
