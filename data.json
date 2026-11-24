@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-23",
-  "lastSyncedAt": "2026-11-23T10:29:33+09:00",
+  "lastSynced": "2026-11-24",
+  "lastSyncedAt": "2026-11-24T14:13:04+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1243,6 +1243,33 @@
       "url": "https://compe.japandesign.ne.jp/denkishimbun-photo-2027/"
     },
     {
+      "id": "tokoron-n-kd-guidebook-cover-design-2027",
+      "title": "なごや環境大学 ガイドブック 2027 前期 表紙デザインコンペティション",
+      "org": "「なごや環境大学」実行委員会",
+      "type": "コンテスト",
+      "audience": "30歳以下限定 / ●日本国内在住の30歳以下のデザイナー、またはデザインを学ぶ生徒・学生およびデザインに興味がある方(デザインしてみたい方)",
+      "deadline": "2027年01月05日 (火) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-05",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「なごや環境大学ガイドブック2027年度前期」の表紙デザイン(テーマ: 自然共生)を募集。",
+      "tags": [
+        "デザイン",
+        "社会科学"
+      ],
+      "url": "https://compe.japandesign.ne.jp/n-kd-guidebook-cover-design-2027/"
+    },
+    {
       "id": "tokoron-resas-edu-idea-connect-2027",
       "title": "地域応援アイデアコネクト 7th",
       "org": "RESAS活用教育推進委員会",
@@ -1407,6 +1434,32 @@
         "短歌・俳句"
       ],
       "url": "https://compe.japandesign.ne.jp/ssu-haiku-2027/"
+    },
+    {
+      "id": "tokoron-sankeisq-taiwan-scholarship-2027",
+      "title": "第23回 日台文化交流 青少年スカラシップ",
+      "org": "株式会社産業経済新聞社 共催:台北駐日経済文化代表処",
+      "type": "コンテスト",
+      "audience": "中・高校生、学生限定 / ●中学、高校、特別支援学校高等部、高専、短大、大学、大学院、専門学校に在籍する生徒・学生で25歳以下 ●日本国籍を有している方",
+      "deadline": "2027年01月11日 (月) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-11",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった自作未発表の作文またはツアープランを募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sankeisq-taiwan-scholarship-2027/"
     },
     {
       "id": "tokoron-minatoku-kankou-photo-2027",
@@ -2210,6 +2263,33 @@
         "文章・作文"
       ],
       "url": "https://compe.japandesign.ne.jp/ikedakatsumi-award-2027/"
+    },
+    {
+      "id": "tokoron-adobe-odyssey-2027",
+      "title": "アドビ認定プロフェッショナル デザインコンペ2027",
+      "org": "株式会社オデッセイコミュニケーションズ",
+      "type": "コンテスト",
+      "audience": "学生限定 / 大学、短期大学、専門学校、高等学校、高等専門学校、高等専修学校に在籍する学生",
+      "deadline": "2027年03月10日 (水) 作品提出・応募締切",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-03-10",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「アドビ認定プロフェッショナル世界学生大会2027」日本代表選考を兼ねたデザインコンペを実施します。 コンペテーマは「すべての子どもに豊かないのちを」。特定非営利活動法人ワールド・ビジョン・ジャパンから与えられたテーマに",
+      "tags": [
+        "デザイン",
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/adobe-odyssey-2027/"
     },
     {
       "id": "tokoron-ict-student-essay-2026",
