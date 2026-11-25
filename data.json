@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-24",
-  "lastSyncedAt": "2026-11-24T14:13:04+09:00",
+  "lastSynced": "2026-11-25",
+  "lastSyncedAt": "2026-11-25T13:02:45+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,62 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-cygames-saga-cc-2026",
-      "title": "サイゲームス クリエイティブコンテスト 2026",
-      "org": "株式会社Cygames",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / ●応募規約並びにプライバシーポリシーに同意できる方",
-      "deadline": "2026年11月24日 (火) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-24",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "ゲームに関連するあらゆるクリエイティブ作品を募集。",
-      "tags": [
-        "映像制作",
-        "アート",
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/cygames-saga-cc-2026/"
-    },
-    {
-      "id": "tokoron-tamagawa-college-of-tourism-machi-2026",
-      "title": "玉川大学 第6回 高校生まちづくりコンテスト",
-      "org": "高校生観光チャレンジ実行委員会",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 全国の高校生",
-      "deadline": "2026年11月24日 (火) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-24",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった企画書およびプレゼンテーション動画(テーマ: 「ツーリズムを通じた自分たちの“まち”の活性化プランを考えよう」 （1）“まち”は、市区町村単位で考える （…)",
-      "tags": [
-        "地域活動",
-        "映像制作",
-        "プレゼン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/tamagawa-college-of-tourism-machi-2026/"
     },
     {
       "id": "tokoron-andante21-hamaguri-art-2026",
@@ -2132,6 +2076,32 @@
         "マーケティング"
       ],
       "url": "https://compe.japandesign.ne.jp/toho-cinema-gakusei-eiga-2027/"
+    },
+    {
+      "id": "tokoron-sha-bunkyo-photo-2027",
+      "title": "第73回 全国展フォトコンテスト",
+      "org": "一般社団法人 日本写真文化協会",
+      "type": "コンテスト",
+      "audience": "プロ・アマ、国籍、年齢不問",
+      "deadline": "2027年02月04日 (木) 作品提出・応募締切、必着",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-02-04",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "テーマにそった写真(テーマ: （1）第1部：「日本の文化」伝統の文化、日常の生活文化、日本の美意識を表現する （2）第2部：「日本の自然」…)",
+      "tags": [
+        "写真"
+      ],
+      "url": "https://compe.japandesign.ne.jp/sha-bunkyo-photo-2027/"
     },
     {
       "id": "tokoron-fukui-sam-2027",
