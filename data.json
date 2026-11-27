@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-26",
-  "lastSyncedAt": "2026-11-26T12:27:24+09:00",
+  "lastSynced": "2026-11-27",
+  "lastSyncedAt": "2026-11-27T12:34:35+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -1320,6 +1320,32 @@
         "短歌・俳句"
       ],
       "url": "https://compe.japandesign.ne.jp/ssu-haiku-2027/"
+    },
+    {
+      "id": "tokoron-japanpost-nenga-2027",
+      "title": "第24回 全日本年賀状大賞コンクール",
+      "org": "日本郵便株式会社",
+      "type": "コンテスト",
+      "audience": "参加資格の制限なし",
+      "deadline": "2027年01月08日 (金) 作品提出・応募締切、消印有効",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-08",
+      "format": "submission",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "「年賀状」として創作された未発表の作品を募集。",
+      "tags": [
+        "文章・作文"
+      ],
+      "url": "https://compe.japandesign.ne.jp/japanpost-nenga-2027/"
     },
     {
       "id": "tokoron-sankeisq-taiwan-scholarship-2027",
