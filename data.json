@@ -1,6 +1,6 @@
 {
-  "lastSynced": "2026-11-27",
-  "lastSyncedAt": "2026-11-27T12:34:35+09:00",
+  "lastSynced": "2026-11-28",
+  "lastSyncedAt": "2026-11-28T12:11:51+09:00",
   "sources": [
     {
       "id": "qulii",
@@ -171,110 +171,6 @@
         "英語"
       ],
       "url": "https://www.afs.or.jp/goabroad/year-programs/"
-    },
-    {
-      "id": "tokoron-sai-junshin-dowa-2026",
-      "title": "Junshin 童話コンテスト 2026",
-      "org": "埼玉純真短期大学 図書館",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / ●保育者を目指す高校生・保育に興味のある高校生・創作にチャレンジしたい高校生 ●埼玉純真短期大学在学生",
-      "deadline": "2026年11月27日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-27",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった童話、絵本、童謡（詩にメロディーをつける）(テーマ: あそび)を募集。",
-      "tags": [
-        "アート"
-      ],
-      "url": "https://compe.japandesign.ne.jp/sai-junshin-dowa-2026/"
-    },
-    {
-      "id": "tokoron-nitf-fashion-design-2026",
-      "title": "NITFファッションデザイン画コンテスト 2026",
-      "org": "国際トータルファッション専門学校",
-      "type": "コンテスト",
-      "audience": "中・高校生限定 / 2026年11月時点で、中学校、高等学校ならびに高等専修学校に在学している生徒(高卒単位認定試験受験者含む)",
-      "deadline": "2026年11月27日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-27",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "中高生によるファッションデザイン画を募集。",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/nitf-fashion-design-2026/"
-    },
-    {
-      "id": "tokoron-nitf-fashion-snap-2026",
-      "title": "NITF高校生ファッションスナップコンテスト 2026",
-      "org": "国際トータルファッション専門学校",
-      "type": "コンテスト",
-      "audience": "高校生限定 / 高校生",
-      "deadline": "2026年11月27日 (金) 作品提出・応募締切、必着",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-27",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそったファッションスナップ(テーマ: 「AW（秋冬）コーディネート」)を募集。",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/nitf-fashion-snap-2026/"
-    },
-    {
-      "id": "tokoron-monomake-okayama-idea-2026",
-      "title": "岡山モノづくり★学生アイデア・デザインコンテスト 2026",
-      "org": "岡山県",
-      "type": "コンテスト",
-      "audience": "高校生、学生限定 / 【高校生部門】 国内の高等学校、高等専門学校等の学生 【大学生部門】 国内の専門学校、短期大学、大学等の学生",
-      "deadline": "2026年11月27日 (金) 作品提出・応募締切、必着※郵送の場合は、消印有効",
-      "eventStart": null,
-      "eventEnd": null,
-      "applyStart": null,
-      "applyEnd": "2026-11-27",
-      "format": "submission",
-      "area": {
-        "scope": "national",
-        "label": "地域制限なし",
-        "prefectures": [],
-        "note": ""
-      },
-      "venue": null,
-      "onlineTool": null,
-      "summary": "テーマにそった新製品・新商品のアイデアおよびデザイン(テーマ: （1）株式会社英田エンジニアリング：コインパーキングにおける自転車もしくは自動二輪車の物理的なロック装置 （…)",
-      "tags": [
-        "デザイン"
-      ],
-      "url": "https://compe.japandesign.ne.jp/monomake-okayama-idea-2026/"
     },
     {
       "id": "tokoron-tcs15-poster-2026",
@@ -1100,6 +996,30 @@
       "summary": "授業や課題で取り組んだ設計作品を募集。",
       "tags": [],
       "url": "https://compe.japandesign.ne.jp/roperope675-highschool-sekkei-2026/"
+    },
+    {
+      "id": "kikkake-8902",
+      "title": "【賞金最大500米ドル】日中韓協力事務局（TCS）日中韓フォトコンテスト作品募集！",
+      "org": "公式サイトを確認",
+      "type": "プログラム",
+      "audience": "中学生・高校生 対象",
+      "deadline": "応募締切 2027年1月4日",
+      "eventStart": null,
+      "eventEnd": null,
+      "applyStart": null,
+      "applyEnd": "2027-01-04",
+      "format": "online",
+      "area": {
+        "scope": "national",
+        "label": "地域制限なし",
+        "prefectures": [],
+        "note": ""
+      },
+      "venue": null,
+      "onlineTool": null,
+      "summary": "2026-11-27 最終更新日時 : 2026-11-27 きっかけ あなたの日常にある日本・中国・韓国の魅力を写真で伝えてみませんか？大賞には500米ドルの賞金が贈られます。 日中韓協力事務局（TCS）は、",
+      "tags": [],
+      "url": "https://kikkakeportal.com/2026/11/27/8902"
     },
     {
       "id": "tokoron-denkishimbun-photo-2027",
